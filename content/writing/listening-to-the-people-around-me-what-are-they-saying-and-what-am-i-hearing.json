@@ -1,0 +1,1051 @@
+{
+	"type": "doc",
+	"version": 2,
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "c11902a4-d233-5545-aaba-41ab1bcfc811"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "In my previous blog, I alluded to a "
+				},
+				{
+					"type": "text",
+					"text": "method",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", or"
+				},
+				{
+					"type": "text",
+					"text": " practice",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " that helped me understand the cultural issues surrounding adolescents in my community and used the term "
+				},
+				{
+					"type": "text",
+					"text": "theological method",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " to describe it. Perhaps a better or more complete description is—"
+				},
+				{
+					"type": "text",
+					"text": "contextual theological method",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". That is, when I gaze upon the small-town context that I call home, what is that culture like? What do people value? What do adolescents value that their parents do not? What are teenagers talking about and what are they saying to each other? These are the questions I want answered. To discover what young people are thinking requires that I be present with them. I hang out in places they frequent and learn from them. Robert Schreiter[1] offers a four-step approach that helped me to begin asking the right questions. I want to share an abbreviated version of those steps with you. Here is the first step."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "bb51d7ce-6d81-5023-b815-7e386ce492c0"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Step One: Opening Culture by Listening Intentionally",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "ccc65da9-b9b8-5fb2-9c8a-3fc78d7dce97"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "To discern the "
+				},
+				{
+					"type": "text",
+					"text": "contextual space",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " of my community requires a “long and careful listening in my neighborhood to discover its principal values, needs, interests, directions, and symbols.\"[2] Therefore, as I "
+				},
+				{
+					"type": "text",
+					"text": "open culture",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", I seek to be present in all the spaces where the students who frequent the teen center live."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "47af59af-329d-5a7a-821b-88660e44b9a5"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Since November 2021, I have met weekly with 5-20 middle school and high school students (the group is growing in number and growing up). We hang out and eat pizza at the teen center or grill out at a local park. During these events, I listen and observe. When I began to "
+				},
+				{
+					"type": "text",
+					"text": "open culture",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", it became apparent that: (1) as a subculture, the very nature of adolescence is layered; (2) many students live separate from their birth parents, feel isolated, and most have been prescribed anxiety and depression medications. The emotional and mental well-being of these teens is precarious; (3) the greatest number of teens have no religious affiliation. By observing the dialogue among the young people, I began to discover themes, values, and language that helped guide each weekly encounter."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2b478965-dfdd-5730-8d40-f183b37e6b97"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "To better understand how anxiety and depression affect students, I interviewed eleven teens. To ensure ethical compliance throughout the project, I enlisted the aid of five local leaders who acted as an unofficial Institutional Review Board. Herein, they are identified as an interview support group (ISG). These local leaders are familiar with local youth and with me. The ISG is comprised of community leaders and parents who were a part of my initial foray into the complex world of teen mental health struggles. A high school principal, a high school counselor, a social worker in the County, a social worker in a neighboring County, and a parent who coaches youth sports and works as a translator in the County court system comprise the ISG. Our paths have crossed many times over the past decade due to our shared interest in the health and welfare of area youth. In 2020, I sought to learn from other community leaders their understanding of teen media consumption and the role social media contagion plays among youth. It was during those interviews that I first became aware of the mental stresses plaguing local teens."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "ccdcf406-14c9-52b4-a353-709c832f1d40"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "I shared with the ISG my proposed survey questions. They provided necessary edits to the structure and wording of the survey and approved the questions. Their initial oversight followed by their evaluation of the data guided my interpretation of the findings. I interviewed eleven teenagers and received anonymous surveys from eleven additional students."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "98ea464b-6ee1-56ab-b343-cbfb416f72a6"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "My initial foray into the arena of teen mental health began in the Winter of 2020. During a seminar at Northern Seminary in my Doctor of Ministry program, I was introduced to ethnography which aided my exploration into the spiritual, emotional, and mental health challenges facing local teenagers. The ethnographic research at that time (2020) and applied interviews with teens, and community leaders revealed an alarmingly high percentage of students suffering from anxiety and depression. Teens and adults confirmed that the leading culprit contributing to the mental health crisis was the "
+				},
+				{
+					"type": "text",
+					"text": "social media contagion",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and its primary agent was the smartphone. In this blog, I will continue to share what I discovered as I "
+				},
+				{
+					"type": "text",
+					"text": "opened my culture",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and listened to the young people in my community."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2129fec3-a2d9-5312-b5b2-0892001ad0f9"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "A significant",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " "
+				},
+				{
+					"type": "text",
+					"text": "interest",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " here is the smartphone with nearly untethered access to global influences described as",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " "
+				},
+				{
+					"type": "text",
+					"text": "social media contagion",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ".",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "231a842c-4206-5d0e-a8e4-1e62b919f908"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The local data I was afforded is not available to the general public, but with the help of the high school counselor, I procured a copy of the 2019 Youth Risk Behavior Surveillance System (YRBSS) —Youth Risk Behavior Survey PDF (YRBS). Due to its extensive analysis, my research assumptions have been guided by the data collected in 2019 which I have evaluated with current data. I will address this research further in future blogs, but found it noteworthy that my interviews with eleven teenagers mirror the data included in the YRBS. I offer a portion of the data here under "
+				},
+				{
+					"type": "text",
+					"text": "Teen Interview Summaries",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " as a tool by which to "
+				},
+				{
+					"type": "text",
+					"text": "listen to youth culture",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": "."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "b58754c7-0731-55fd-a153-9d8e2b6161f1"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Teen Interview Summaries",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "0ec5c27f-d2ee-5bba-a3a0-d2abffe539a3"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "After a year of meeting regularly with the same students, I interviewed eleven of them face-to-face and recorded the observations. My ethnographic[2] research provided concrete evidence that the youth who frequent the teen center struggle daily with anxiety and depression. The YRBS summarized the dilemma of adolescent angst at the State, county, and local levels, but my face-to-face interviews with students personalized the data. These are not somebody else’s kids—they are mine."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "eff6107b-49e7-56e0-b884-c736f7b7bffe"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The data collected from the interviews along with eleven anonymous surveys from students who regularly attend the teen center was shared with my "
+				},
+				{
+					"type": "text",
+					"text": "ISG",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", all of whom are parents, and four of the five have teenagers at home. They guided me as I sought to discern the data collected during the interview process. Noteworthy observations from the 22 surveys and interviews on spiritual issues are included below."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "ce4e7218-3c69-5bb1-a556-5c41a5f8dea9"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Social Media Orientation Summary",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "c572b1d8-ca43-59da-b6f9-5e583db1ce4f"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "From this group of 22 students, 20 are on an electronic device between midnight and 5:00 am on school nights while 21 admit that social media apps influence them. Only one person from the survey or interview did not negatively talk to themself. Teen center attendees are at a "
+				},
+				{
+					"type": "text",
+					"text": "greater risk for suicide",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " or self-harm than their peers at the State, County, and local levels. "
+				},
+				{
+					"type": "text",
+					"text": "Fifty percent",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " of the respondents claimed suicidal thoughts or plans to commit suicide compared to 17 percent of high school students who do not attend the teen center. Anxiety and depression are woven into the life stories of teen center participants."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "9aebdf56-cd9a-5388-ad9f-eb9110ab13bd"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Teen Peace Orientation Summary",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "b95ca5e1-6f12-529d-a317-cbe68b76683c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Disparities with how teens "
+				},
+				{
+					"type": "text",
+					"text": "imagine peace",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " underscore that a universal language is "
+				},
+				{
+					"type": "text",
+					"text": "not",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " present even among small-town adolescents. No teens described "
+				},
+				{
+					"type": "text",
+					"text": "peace",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " the same way. In every case, the notion of peace was "
+				},
+				{
+					"type": "text",
+					"text": "individualized",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and"
+				},
+				{
+					"type": "text",
+					"text": " subjective",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". When I use language that includes the "
+				},
+				{
+					"type": "text",
+					"text": "gospel of peace",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", few if any students grasp the concept or discern its scriptural meaning and ramifications."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "68bb2794-f1a9-586a-902f-0478f605c990"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Teen Belief in God Orientation Summary",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "250cd86e-05a8-5d1d-a041-69d72741b3cc"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "An overwhelming majority believe that there is a spiritual dimension to the world and an almost equal number accept that God is personal while only three students believe that a "
+				},
+				{
+					"type": "text",
+					"text": "personal God cares about them",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". No universal language exists here. A call to "
+				},
+				{
+					"type": "text",
+					"text": "believe the good news that Jesus loves them",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is incomprehensible. Religious language lacks cultural relevance in our post-Christendom culture. I will discuss the language barrier further in future blogs under "
+				},
+				{
+					"type": "text",
+					"text": "Step Two: Opening Theological Tradition,",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and more fully as we progress."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4cf18477-2676-5279-bcf3-6c4a09b2a7e7"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Church Orientation Summary",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "64698384-8ee2-53d1-978c-f6fe17ca252f"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "When asked about their thoughts on the church, opinions varied between resentment and acceptance. Negative comments were directed at the church due to its stand against LGBTQ+ ideologies, but also in areas where teens perceive unfair judgment of others different from themselves, child sexual abuse, and cultural irrelevance. Healthy views of the church exist that include nondescript opinions such as “it’s good” and “it’s a place people like.” Two people recognized that church is a place where"
+				},
+				{
+					"type": "text",
+					"text": " prayer",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and "
+				},
+				{
+					"type": "text",
+					"text": "worship",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " happen but neither could articulate what they meant by "
+				},
+				{
+					"type": "text",
+					"text": "prayer",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and "
+				},
+				{
+					"type": "text",
+					"text": "worship",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". These terms were understood vaguely at best."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "546279bb-1779-51e0-bac0-a38e5a3a4d87"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Gospel Orientation Summary",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "574eb1ff-3cb4-53ed-8ce4-19ac3f4b0955"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The responses were widespread when I asked, “what does "
+				},
+				{
+					"type": "text",
+					"text": "good news",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " or "
+				},
+				{
+					"type": "text",
+					"text": "gospel",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " mean to you?” There was only one reply that associated the gospel with religion and it was articulated like a rote reading of a script. He paused, and exclaimed, “wait, I know this, we just talked about this at Varsity.”[3] After about 20 seconds he responded, “to accept Jesus as your personal savior and to have other people accept him too.” I enjoined him to clarify what he meant by the phrase “to accept Jesus.” He laughed uncomfortably and replied, “I don’t know!” The language barrier between the church and the people it hopes to reach is expansive. There was no homogeneous belief among the teens interviewed. There were diverse understandings that teens associate with the terms "
+				},
+				{
+					"type": "text",
+					"text": "gospel or good news.",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " The disparity in their understanding underscores how foreign religious language is in my cultural context."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d627b0a8-5291-51fa-9739-49e9d8f64504"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The information gained throughout the interview process was invaluable as I sought to quantify and qualify the roles that "
+				},
+				{
+					"type": "text",
+					"text": "language",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and"
+				},
+				{
+					"type": "text",
+					"text": " mental health",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " assume in this "
+				},
+				{
+					"type": "text",
+					"text": "space",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". Governmental and psychological studies alert me to the crisis of today’s youth but only by talking face-to-face with teenagers was I able to accurately assess the anguish that youth carry daily. Personal pain, accompanying fear, and hopelessness have become cultural norms among these youth. Therefore, a theology that seeks to address these factors must embody "
+				},
+				{
+					"type": "text",
+					"text": "incarnate-sentness",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". That is, to be "
+				},
+				{
+					"type": "text",
+					"text": "present with",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and "
+				},
+				{
+					"type": "text",
+					"text": "among",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " people believing "
+				},
+				{
+					"type": "text",
+					"text": "God has sent me",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", as "
+				},
+				{
+					"type": "text",
+					"text": "he sent his Son",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ", to this place and to the people who inhabit this "
+				},
+				{
+					"type": "text",
+					"text": "space",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". To be an extension of God in my neighborhood mandates a mission of "
+				},
+				{
+					"type": "text",
+					"text": "incarnational presence",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": "."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "628121cf-34db-51ac-9417-0f65f3523696"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "baab1603-d75a-530e-9316-7890775c7bbc"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[1] Robert Schreiter, "
+				},
+				{
+					"type": "text",
+					"text": "Constructing Local Theologies",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Maryknoll, NY, Orbis Books, 1999) 28."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "a9e91098-e64e-5837-8087-bdb0917b1161"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "b9cad684-89b8-5a0f-8ad8-75b4d1d7d6c8"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[2] Ethnography informs the contextual theologian of essential traditions that undergird the cultural setting of a given community. It pulls one below the surface to see not only the visible outworkings, but also the foundation of its narrative, sub-cultures, power structures, and traditions."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "91a9e83c-adc2-5d2b-b73e-911e8f815dbf"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "add07ff8-1489-5660-b2e6-bcaf2af10265"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[3] Varsity —is the old classification of the AWANA (Approved Workmen Are Not Ashamed) high school discipleship program. The current term for high school-aged discipleship through AWANA is “Journey, which offers students the ability to live out their faith in their teenage years and beyond.” This definition is taken from the AWANA website (December 19, 2022): "
+				},
+				{
+					"type": "text",
+					"text": "https://www.awana.org/us-curriculum/middle-high-school/",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.awana.org/us-curriculum/middle-high-school/"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Accessed on December 19, 2022)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "a7607aa9-4d2f-5990-bb87-6d4bb2880a5b"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "903292c0-720a-50d1-8f53-4d6bdbeb9b9c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[1] Robert Schreiter, "
+				},
+				{
+					"type": "text",
+					"text": "Constructing Local Theologies",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Maryknoll, NY, Orbis Books, 1999) 28."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "56c9f591-b445-5d87-bc5e-15838b6dac6c"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4e5a9044-5b70-5e9d-9564-2fc132f6f091"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[2] Ibid."
+				}
+			]
+		}
+	],
+	"meta": {
+		"title": "Listening To The People Around Me: What Are They Saying and What Am I Hearing?",
+		"date": "2023-09-20",
+		"byline": "Dave Flood",
+		"category": "Listening & dialogue",
+		"summary": "A contextual theological method begins with presence: listening to teenagers and learning the values, pressures, and language of their community.",
+		"legacyTags": [
+			"teen mental health",
+			"Opening Culture",
+			"contextual theological method"
+		],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
+}

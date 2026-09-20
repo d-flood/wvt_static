@@ -1,0 +1,7598 @@
+[
+  {
+    "wagtailId": 8,
+    "originalFile": "original_images/Kids_on_a_Bridge.jpg",
+    "alt": "Kids on a Bridge",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/eccd4717f745c193e5ab33af4cc6682c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9670a6672ab301e0385e9df13609e75a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b617e5695c1b7521b06dc27e5216ab02.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/93b7fbdf8b7fcc11de4e7a9b39132c21.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 9,
+    "originalFile": "original_images/Picture1.png",
+    "alt": "open manuscript",
+    "width": 262,
+    "height": 197,
+    "srcset": [
+      {
+        "src": "/uploads/33df12a5631e4b6f078fc50b8d47df22.webp",
+        "width": 262,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f30aa4824a96aa05286f784cbbcae1d6.jpg",
+        "width": 262,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 10,
+    "originalFile": "original_images/outdoor.jpg",
+    "alt": "outdoor",
+    "width": 2048,
+    "height": 1601,
+    "srcset": [
+      {
+        "src": "/uploads/f8ce2d89c5160413a924ffb6a70467e0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/809c637b2d56c720e7ebee0639734587.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/39eaf0ae727fec0bb06e76fd781c2838.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8673e3fee001e45ddf0571af87282069.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 11,
+    "originalFile": "original_images/arts.jpg",
+    "alt": "arts",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/c66a00c81b68b0c5c6f66d2416e8c01e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/587180bc684a1379ee3b744c70c65c53.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5a4f7ba43a043f791a66c55135b2aa4c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 12,
+    "originalFile": "original_images/rec.jpg",
+    "alt": "rec",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/3727df3768a5b5f20f2edf1794e475bd.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c50755b1aafbc6e761bdefc1784f5bc6.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b83a2f95f63cd0359d98ecb94ebc6c27.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a477e0c4369487678905a91024d89d0d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 13,
+    "originalFile": "original_images/shop.jpg",
+    "alt": "shop",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/f322897abd69ab75ed61e1ce164ce9f0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5cca5debf3fb5887d717c52544d5a018.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/48a692933a9941518511d4290c80fb28.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 14,
+    "originalFile": "original_images/gravity.jpg",
+    "alt": "gravity",
+    "width": 2048,
+    "height": 1153,
+    "srcset": [
+      {
+        "src": "/uploads/51b703a9873a533d303430113e48fede.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f5b72e31978301a0c764bafc751c1d72.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a7e45514ec36bc188cb93a689ec2e6f3.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/64595544812105d06cfc44172b574a3a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 15,
+    "originalFile": "original_images/pool.jpg",
+    "alt": "pool",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/1ca594072a1dca869cb502047b6847c8.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e2b6388cd4c1a49cee73e3a6562daffd.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0b1eb797db61055ee974ce995604caa0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/eb044156b84be3d18f1964e8b3459a52.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 16,
+    "originalFile": "original_images/teen_center.jpg",
+    "alt": "Teens playing pool",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/910bfc9e63ebc4d40b90eba7fa000e63.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5c6fce8fbeef16b515445eb93ab72de5.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cf74eadb468a6c89d51f244c4b56759f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0b016e80fe3b4f545db57fc3e1af868f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 17,
+    "originalFile": "original_images/wvt_banner_About_Us.jpg",
+    "alt": "wvt banner About Us",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 18,
+    "originalFile": "original_images/wvt_banner_About_Us.jpg",
+    "alt": "wvt banner About Us",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 20,
+    "originalFile": "original_images/wvt_John_Tim_1993.jpg",
+    "alt": "1993",
+    "width": 460,
+    "height": 460,
+    "srcset": [
+      {
+        "src": "/uploads/60ac61a471b27465fdc5139d7b9756b7.webp",
+        "width": 460,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/af6a8ccd44136abaa3dee21b86c85c5e.jpg",
+        "width": 460,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 21,
+    "originalFile": "original_images/wvt_teens_1993.jpg",
+    "alt": "1993",
+    "width": 540,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/a4d19cd1ddf458c2f15df14eb08326be.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9a31c252b261990d8ea5fd542e251022.webp",
+        "width": 540,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ee347e7389cf2f0ee7a671fb606314a5.jpg",
+        "width": 540,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 22,
+    "originalFile": "original_images/wvt_graffitti_booth.jpg",
+    "alt": "2000s",
+    "width": 3856,
+    "height": 2921,
+    "srcset": [
+      {
+        "src": "/uploads/bdfbfa62b7e1c301342ebde6b72ad647.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/af38b5dbf21c82b27908148e728760ea.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ee8cf5b3d181e79b9dc1d0c71d49a8fb.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c3e903f13a86c33a7e14fd2fcbee589c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 23,
+    "originalFile": "original_images/wvt_graffitti_booth.jpg",
+    "alt": "2000",
+    "width": 3856,
+    "height": 2921,
+    "srcset": [
+      {
+        "src": "/uploads/bdfbfa62b7e1c301342ebde6b72ad647.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/af38b5dbf21c82b27908148e728760ea.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ee8cf5b3d181e79b9dc1d0c71d49a8fb.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c3e903f13a86c33a7e14fd2fcbee589c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 24,
+    "originalFile": "original_images/ETC_history.jpg",
+    "alt": "ETC history",
+    "width": 1280,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/c547acec42688a230dd601b23513af41.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4be4ec7fe3ce07839f68a55d80ca1d31.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/32f041e1c054d9474b68b314e98fec54.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/66032930bb567368e743b724c831234b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 26,
+    "originalFile": "original_images/ETC_history.jpg",
+    "alt": "ETC history",
+    "width": 1280,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/c547acec42688a230dd601b23513af41.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4be4ec7fe3ce07839f68a55d80ca1d31.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/32f041e1c054d9474b68b314e98fec54.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/66032930bb567368e743b724c831234b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 27,
+    "originalFile": "original_images/wvt_ETC_history.jpg",
+    "alt": "wvt ETC history",
+    "width": 1280,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/905d9e7a88d3475a918e1456650645c4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/09a22173b309afcdbd54a45aeb76e5cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/601479df28582495c3eb2733d0efd8b5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4eb164af8ec1a1dc1f24564e7071b99a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 28,
+    "originalFile": "original_images/wvt_ETC_history.jpg",
+    "alt": "wvt ETC history",
+    "width": 1280,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/905d9e7a88d3475a918e1456650645c4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/09a22173b309afcdbd54a45aeb76e5cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/601479df28582495c3eb2733d0efd8b5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4eb164af8ec1a1dc1f24564e7071b99a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 29,
+    "originalFile": "original_images/wvt_ETC_history.jpg",
+    "alt": "wvt ETC history",
+    "width": 1280,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/905d9e7a88d3475a918e1456650645c4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/09a22173b309afcdbd54a45aeb76e5cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/601479df28582495c3eb2733d0efd8b5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4eb164af8ec1a1dc1f24564e7071b99a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 30,
+    "originalFile": "original_images/wvt_pool_front_wall.jpg",
+    "alt": "wvt pool front wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/52622b19fcc182e893396692236b025a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8deee0b49649990fb78488dc91747927.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/354b37d818700a59ef5421912c17aa79.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c11dca91b8fb185fcaeffda48a97206f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 31,
+    "originalFile": "original_images/Dave_Toni.jpg",
+    "alt": "dave andtoni",
+    "width": 960,
+    "height": 684,
+    "srcset": [
+      {
+        "src": "/uploads/0ab35d8378d9b2848b53784ec8eaa7d2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7761e3f833b825dd0b57b1167e523259.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e4d5e09b78fb056abc9152880f866b36.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 32,
+    "originalFile": "original_images/Dave_Toni.jpg",
+    "alt": "Dave Toni",
+    "width": 960,
+    "height": 684,
+    "srcset": [
+      {
+        "src": "/uploads/0ab35d8378d9b2848b53784ec8eaa7d2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7761e3f833b825dd0b57b1167e523259.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e4d5e09b78fb056abc9152880f866b36.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 33,
+    "originalFile": "original_images/jayandrose.jpg",
+    "alt": "jay and rose pic",
+    "width": 960,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/120bd5de32275b4d52919f74fd3588e1.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/227e78fa7ddb2519891e85d35fe9219f.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e72bc3f384cb3c1c43101a67d939b508.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 34,
+    "originalFile": "original_images/wvt_banner_About_Us.jpg",
+    "alt": "wvt banner About Us",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 35,
+    "originalFile": "original_images/Larry_Burns_for_Board_Member_Headshot.jpg",
+    "alt": "Larry Burns for Board Member Headshot",
+    "width": 145,
+    "height": 192,
+    "srcset": [
+      {
+        "src": "/uploads/762691162eb5e076fe5817f3bb3a48ac.webp",
+        "width": 192,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ee4d6fe2ffe1e445cb869e8a1605d3cd.jpg",
+        "width": 192,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 36,
+    "originalFile": "original_images/Kyle_Schliem_Headshot_Photo.jpg",
+    "alt": "Kyle Schliem Headshot Photo",
+    "width": 180,
+    "height": 266,
+    "srcset": [
+      {
+        "src": "/uploads/9a8e01de307b400bb141be420a6a35e7.webp",
+        "width": 266,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ce32b7795afb07bfe9a772f8c6a9a119.jpg",
+        "width": 266,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 37,
+    "originalFile": "original_images/kyle_Schliem_headshot1.jpg",
+    "alt": "kyle Schliem headshot1",
+    "width": 228,
+    "height": 329,
+    "srcset": [
+      {
+        "src": "/uploads/aebe6c5e54115f458eb69b2d5238821b.webp",
+        "width": 329,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2409e10fcd15cb06897aeb79d2393d2f.jpg",
+        "width": 329,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 38,
+    "originalFile": "original_images/Billy_Morrison_Head_Shot.jpg",
+    "alt": "Billy Morrison Head Shot",
+    "width": 1473,
+    "height": 1762,
+    "srcset": [
+      {
+        "src": "/uploads/01890d97f57d70deb5ead505dbe46962.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bbeaa72885e906ca23aed862bcd6d377.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1056638ebee3c7d163ca3832dbc1db2b.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/040989afbfb131ef8f10d922dacb0e54.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 40,
+    "originalFile": "original_images/Jim_Orr_tc_pic_2.jpg",
+    "alt": "Jim Orr tc pic (2)",
+    "width": 509,
+    "height": 656,
+    "srcset": [
+      {
+        "src": "/uploads/baabb87a9ed2668d6a44db209ead7e7b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/94f6d48930eca645f167108fa92b10ed.webp",
+        "width": 656,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7e757f6dc76950abcac24b45a2f7bf3d.jpg",
+        "width": 656,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 41,
+    "originalFile": "original_images/graffiti_group.jpg",
+    "alt": "graffiti group",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/650bb3b8d76db087af3f8af2c63590ea.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/46a1a14d229be393308f9cd80ccff358.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f39566f0492e58c52e60113b47dbb446.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 42,
+    "originalFile": "original_images/volunteers_gravity_race.jpg",
+    "alt": "volunteers gravity race",
+    "width": 1900,
+    "height": 1384,
+    "srcset": [
+      {
+        "src": "/uploads/05b1ceda91abc226dfe8d06a6a41f833.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9510ee34a72575797293cfbf58a9281e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ca1344b5d91d8915bcb01c0da1d92f45.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/803a80bec73e21abb9fa8b22f5ee0da1.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 43,
+    "originalFile": "original_images/wvt_banner_2_sides_teen_center.jpg",
+    "alt": "wvt banner 2 sides teen center",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/e1167974000444441b344be443002ebf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e51a9d6533ea7a6f22600f5ffa780c33.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/62748820678a9f51a469d04644490edd.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3228f85d196395348bf3458b9b6192a2.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 44,
+    "originalFile": "original_images/keith_lund_volunteer_pic.jpg",
+    "alt": "keith lund volunteer pic",
+    "width": 909,
+    "height": 600,
+    "srcset": [
+      {
+        "src": "/uploads/d24299ace7aad8f7c490f377591f6b0f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e56aab385525051bf07f9ab7deb837ec.webp",
+        "width": 909,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1a92006ec37e50eb42377c3481474734.jpg",
+        "width": 909,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 45,
+    "originalFile": "original_images/rotary_pool_tourny_award_8_ball.jpg",
+    "alt": "rotary pool tourny award 8 ball",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/10d8d1747225214504d4ea6aaf83d59c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/31541f556bee35a7749ce5a6c2f99af0.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/027583a9c93517444d2774c37b2682ab.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1e2557795c8e1730333184a2b6c468b7.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 46,
+    "originalFile": "original_images/grandchamp_group_pic.jpg",
+    "alt": "grandchamp group pic",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/03c9126ecdba02404b0e43738d2901b6.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/43b9ff4e014506c52a7b31277aad8e40.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1fb9d302b93fa13907b0660000d001ed.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/effde89ff885c4682f4576949b763546.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 47,
+    "originalFile": "original_images/grandchamp_Austin_Tyler_Dalton.jpg",
+    "alt": "grandchamp Austin Tyler Dalton",
+    "width": 1113,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/525ba88b112a59f6ffa76b2ec1ac22f5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8fb5f22b06a5dc9d47d4c410b2369ade.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e7cd35a785fb524aee673a332a80e41e.webp",
+        "width": 1113,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d751137a876f727c9a39748b6dcb7dd.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 49,
+    "originalFile": "original_images/tc_shop78.jpg",
+    "alt": "tc shop78",
+    "width": 200,
+    "height": 200,
+    "srcset": [
+      {
+        "src": "/uploads/1c8f92754f352c20a2919a5a29778b57.webp",
+        "width": 200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b0173ed49579221abccd7f1bd94c6f5e.jpg",
+        "width": 200,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 51,
+    "originalFile": "original_images/wvt_shop_group.jpg",
+    "alt": "wvt shop group",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/a7328b6d0c1dff1eff2536b31e430670.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1555d221032fffc416d65b2594068e4d.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1b653856ec735208651868da37bec0ed.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5983f80a99c73748dc6c7ea2a5c48185.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 52,
+    "originalFile": "original_images/wvt_Dak_small_lathe.jpg",
+    "alt": "wvt Dak small lathe",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/33f35d71fd42db7e17287d36cc5c3d8e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fc281dc0af8719a04f9176e38963aaac.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77d751fb0e8ffbfee2a74bc9265277a0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7948c2112087a92bd3953c09c4647861.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 53,
+    "originalFile": "original_images/wvt_engine.jpg",
+    "alt": "wvt engine",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/5cb6b229a87352dc3f72cb0661a7075e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/53b5fb163b65c1beb9f79cf2e70b18f8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58d547e1bf3f7569412c7c37809f17ac.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1d741cce9bbc2cce7a4f0164ea9885e6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 54,
+    "originalFile": "original_images/wvt_arc_weld.jpg",
+    "alt": "wvt arc weld",
+    "width": 2048,
+    "height": 1264,
+    "srcset": [
+      {
+        "src": "/uploads/c56e0f124994d8d4c2386a2b684db75d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c99fa9883f7515419d0702632fd7915b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/24fc2d705b875e4c369036a24e4c4f86.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/70761531603b632d0d95162722d93360.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 55,
+    "originalFile": "original_images/wvt_Colin_chopsaw.jpg",
+    "alt": "wvt Colin chopsaw",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/c37fa1681779c84311bb90cd41a2434b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6a5b450ead5866dbe395652e9596da39.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77910021ec9266a79d25e4e216cd4699.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bf2cdccca4f0bb89a7d7e1cc57b8fd9e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 56,
+    "originalFile": "original_images/wvt_engine.jpg",
+    "alt": "wvt engine",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/5cb6b229a87352dc3f72cb0661a7075e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/53b5fb163b65c1beb9f79cf2e70b18f8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58d547e1bf3f7569412c7c37809f17ac.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1d741cce9bbc2cce7a4f0164ea9885e6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 57,
+    "originalFile": "original_images/wvt_Dak_small_lathe.jpg",
+    "alt": "wvt Dak small lathe",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/33f35d71fd42db7e17287d36cc5c3d8e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fc281dc0af8719a04f9176e38963aaac.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77d751fb0e8ffbfee2a74bc9265277a0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7948c2112087a92bd3953c09c4647861.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 58,
+    "originalFile": "original_images/wvt_Dak_small_lathe.jpg",
+    "alt": "wvt Dak small lathe",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/33f35d71fd42db7e17287d36cc5c3d8e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fc281dc0af8719a04f9176e38963aaac.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77d751fb0e8ffbfee2a74bc9265277a0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7948c2112087a92bd3953c09c4647861.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 59,
+    "originalFile": "original_images/wvt_Colin_chopsaw.jpg",
+    "alt": "wvt Colin chopsaw",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/c37fa1681779c84311bb90cd41a2434b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6a5b450ead5866dbe395652e9596da39.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77910021ec9266a79d25e4e216cd4699.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bf2cdccca4f0bb89a7d7e1cc57b8fd9e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 60,
+    "originalFile": "original_images/wvt_Colin_chopsaw.jpg",
+    "alt": "wvt Colin chopsaw",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/c37fa1681779c84311bb90cd41a2434b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6a5b450ead5866dbe395652e9596da39.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77910021ec9266a79d25e4e216cd4699.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bf2cdccca4f0bb89a7d7e1cc57b8fd9e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 61,
+    "originalFile": "original_images/wvt_banner_2_sides_teen_center.jpg",
+    "alt": "wvt banner 2 sides teen center",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/e1167974000444441b344be443002ebf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e51a9d6533ea7a6f22600f5ffa780c33.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/62748820678a9f51a469d04644490edd.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3228f85d196395348bf3458b9b6192a2.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 62,
+    "originalFile": "original_images/wvt_air_hockey.jpg",
+    "alt": "wvt air hockey",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 63,
+    "originalFile": "original_images/wvt_guitars_and_counter.jpg",
+    "alt": "wvt guitars and counter",
+    "width": 1500,
+    "height": 500,
+    "srcset": [
+      {
+        "src": "/uploads/8f4143223216ad8e06a2a099cc1c23f9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e390c08a790c3b252732bc74274fbeb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cd02a493f826a432d13b96f72b2fd94f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ae7a82ce69bbf66b8d4225626260a4b6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 64,
+    "originalFile": "original_images/wvt_air_hockey.jpg",
+    "alt": "wvt air hockey",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 65,
+    "originalFile": "original_images/wvt_red_light_band.jpg",
+    "alt": "wvt red light band",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/bafe7704578bdc3b47e8a54b9305fbe0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/31771659f188f6d4e85f8c7b7af5d213.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/18ab945bf6edf86e8a4a72858840908f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/925a9e1d9d734e284d0872aa06f92f0d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 66,
+    "originalFile": "original_images/wvt_guitars_and_counter.jpg",
+    "alt": "wvt guitars and counter",
+    "width": 1500,
+    "height": 500,
+    "srcset": [
+      {
+        "src": "/uploads/8f4143223216ad8e06a2a099cc1c23f9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e390c08a790c3b252732bc74274fbeb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cd02a493f826a432d13b96f72b2fd94f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ae7a82ce69bbf66b8d4225626260a4b6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 67,
+    "originalFile": "original_images/wvt_Banner_bumboer_pool_bball_pool.jpg",
+    "alt": "wvt Banner bumboer pool bball pool",
+    "width": 2938,
+    "height": 1723,
+    "srcset": [
+      {
+        "src": "/uploads/862d70c155bb0cc06e721a94b3061283.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/41029386f1f398e2093ac79786bb8728.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b507e66478a77a5228d559323063d6c0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 68,
+    "originalFile": "original_images/wvt_pool_front_wall.jpg",
+    "alt": "wvt pool front wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/52622b19fcc182e893396692236b025a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8deee0b49649990fb78488dc91747927.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/354b37d818700a59ef5421912c17aa79.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c11dca91b8fb185fcaeffda48a97206f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 69,
+    "originalFile": "original_images/wvt_4_pool_tables.jpg",
+    "alt": "wvt 4 pool tables",
+    "width": 2495,
+    "height": 2259,
+    "srcset": [
+      {
+        "src": "/uploads/631b2b91646a92f04f7200cd686e23bc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83b1fb34a5cdf8053df758ed4b67e7cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e38b5d12a004e56a082d4c0b990858df.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54d6e297d98dada23851f2052cd8ea06.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 70,
+    "originalFile": "original_images/wvt_crowd_pool_side.jpg",
+    "alt": "wvt crowd pool side",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/57dced0558c85a4c7d195c41903ee7e4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c2a61da5bd60799f80354144cdcdb3f6.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7991fe5c7e85bf288a9669770c3295ec.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4834777de84fe0423e94fd9fedf18b61.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 71,
+    "originalFile": "original_images/wvt_Banner_bumboer_pool_bball_pool.jpg",
+    "alt": "wvt Banner bumboer pool bball pool",
+    "width": 2938,
+    "height": 1723,
+    "srcset": [
+      {
+        "src": "/uploads/862d70c155bb0cc06e721a94b3061283.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/41029386f1f398e2093ac79786bb8728.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b507e66478a77a5228d559323063d6c0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 72,
+    "originalFile": "original_images/wvt_Banner_bumboer_pool_bball_pool.jpg",
+    "alt": "wvt Banner bumboer pool bball pool",
+    "width": 2938,
+    "height": 1723,
+    "srcset": [
+      {
+        "src": "/uploads/862d70c155bb0cc06e721a94b3061283.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/41029386f1f398e2093ac79786bb8728.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b507e66478a77a5228d559323063d6c0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 73,
+    "originalFile": "original_images/wvt_4_pool_tables.jpg",
+    "alt": "wvt 4 pool tables",
+    "width": 2495,
+    "height": 2259,
+    "srcset": [
+      {
+        "src": "/uploads/631b2b91646a92f04f7200cd686e23bc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83b1fb34a5cdf8053df758ed4b67e7cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e38b5d12a004e56a082d4c0b990858df.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54d6e297d98dada23851f2052cd8ea06.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 74,
+    "originalFile": "original_images/wvt_pingpong.jpg",
+    "alt": "wvt pingpong",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/e53f0b27d072bc8d2c219a5ed922e12f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1840a987278ff2113744093d05daa457.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/24212b29d44589c4d09d0776419be206.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 75,
+    "originalFile": "original_images/wvt_basketball_facing_front_wall.jpg",
+    "alt": "wvt basketball facing front wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/cd489c1c30e12085a7df642baa011711.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bdf547f58a500aa1fd1b71e337de489a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/327a1e9adb9aa1cde09a820640247eb6.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fcf76b8f0aecea0abfb498b505206aae.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 76,
+    "originalFile": "original_images/wvt_red_light_band.jpg",
+    "alt": "wvt red light band",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/bafe7704578bdc3b47e8a54b9305fbe0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/31771659f188f6d4e85f8c7b7af5d213.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/18ab945bf6edf86e8a4a72858840908f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/925a9e1d9d734e284d0872aa06f92f0d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 77,
+    "originalFile": "original_images/wvt_air_hockey.jpg",
+    "alt": "wvt air hockey",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/0a7adefe7338fa38e81d42c593704146.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/25bc692331acc9eb4fcab7cd2df23f70.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa062c1c27996716cb5b67c046a6cb71.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2417edf20b49d7d49304807cbe6f431c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 78,
+    "originalFile": "original_images/wvt_guitars_and_counter.jpg",
+    "alt": "wvt guitars and counter",
+    "width": 1500,
+    "height": 500,
+    "srcset": [
+      {
+        "src": "/uploads/8f4143223216ad8e06a2a099cc1c23f9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e390c08a790c3b252732bc74274fbeb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cd02a493f826a432d13b96f72b2fd94f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ae7a82ce69bbf66b8d4225626260a4b6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 79,
+    "originalFile": "original_images/wvt_band_stage_banner.jpg",
+    "alt": "wvt band stage banner",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/6e8284882e9240605b426e97bc45c264.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cd8c505fec5ee1a8e8b6165cd684dfbb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b23879ad7a0a98adbb87a990fa780454.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bfe4bd437f1c545b6e3a3792069b3f55.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 80,
+    "originalFile": "original_images/wvt_kyles_band_purple.jpg",
+    "alt": "wvt kyles band purple",
+    "width": 1628,
+    "height": 1230,
+    "srcset": [
+      {
+        "src": "/uploads/c11647b62e7c5c65bfddcc4d2768f186.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5cbbd1a0756eb9f68738b73225d63f0c.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a6811c237c7b4e04d1a3b87d1014c3f2.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83d12147aeeabe255d68cd6d494e1cdf.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 81,
+    "originalFile": "original_images/wvt_kyle_group_stage.jpg",
+    "alt": "wvt kyle group stage",
+    "width": 2048,
+    "height": 1135,
+    "srcset": [
+      {
+        "src": "/uploads/f6ec3bc3cdad5be11f25b63911c5f093.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c72d23017ad695219572227a995b1938.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c1e5975a16309998b24d186729e2a370.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bbf61bd0962a3b6ca61c494c9f4546ef.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 82,
+    "originalFile": "original_images/wvt_brady_cook_larson_band.jpg",
+    "alt": "wvt brady cook larson band",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/d5dfe6cdb4fccaf47aaad37c3abd38f8.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58f35ab4abe3a94c48c92e5dfce4f108.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83398101b51bd88e4cf9d6887de520c6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 83,
+    "originalFile": "original_images/wvt_camp_zipline_tower.jpg",
+    "alt": "wvt camp zipline tower",
+    "width": 2048,
+    "height": 1272,
+    "srcset": [
+      {
+        "src": "/uploads/e009d96a03f10c03c366bc07deeee85d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e0083c7c288fb95792fb12647228928f.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/17a579ee343881dd6deb7959ca6bc665.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d25ccabd56a687f32656a770da1a69de.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 84,
+    "originalFile": "original_images/wvt_camp_zipline_tower_2.jpg",
+    "alt": "wvt camp zipline tower (2)",
+    "width": 2025,
+    "height": 914,
+    "srcset": [
+      {
+        "src": "/uploads/2501c06c0b9b44f5ddccf2caad5efbd6.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cb125b883632e16fbf673031caa3cd42.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e2c2ff2e842f18a862f4778b32505ab9.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/434123855b0927c5131af06f49c642d9.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 85,
+    "originalFile": "original_images/wvt_camp_bow_arrow_joseph_clay_joel.jpg",
+    "alt": "wvt camp bow arrow joseph clay joel",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/93aa74a92181cd22ed32068f014d529d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/079d0c57c10b80a61241260c9fcba314.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34dba825722aaa63ab8382614da1f5ee.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34e33aecf0b4d67fa276dad6e667bb51.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 86,
+    "originalFile": "original_images/wvt_camp_atv_group.jpg",
+    "alt": "wvt camp atv group",
+    "width": 3744,
+    "height": 2293,
+    "srcset": [
+      {
+        "src": "/uploads/6c7aef4f79435a2d1828ff3b428c0f83.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1bdfcfff2bc6f32d96bd83e9c5cb3580.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/77873b984ac4721b3166907dfa4c7ed9.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5fd4ed8c59d4ccdb151695b3d44bbca3.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 87,
+    "originalFile": "original_images/wvt_camp_addition_work_group.jpg",
+    "alt": "wvt camp addition work group",
+    "width": 604,
+    "height": 453,
+    "srcset": [
+      {
+        "src": "/uploads/03efbe01fb87e88e766ba0398c0e85f6.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f1efdb07b5ae3641c5e0a47be5b64a68.webp",
+        "width": 604,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/577643b0260df936ca95aa167a42da17.jpg",
+        "width": 604,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 88,
+    "originalFile": "original_images/wvt_camp_addition_work_group_2.jpg",
+    "alt": "wvt camp addition work group (2)",
+    "width": 600,
+    "height": 350,
+    "srcset": [
+      {
+        "src": "/uploads/bc019d7411d120aec7f9090083d3a2a4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1516e891fe409d3395febb58e9892aad.webp",
+        "width": 600,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/671cdaa3969c1b493c813a83cdc13e3f.jpg",
+        "width": 600,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 89,
+    "originalFile": "original_images/wvt_camp_digging_hole_with_auger.jpg",
+    "alt": "wvt camp digging hole with auger",
+    "width": 720,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/df53f83a0d52fdf0b18a2df4848bf47c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/948d3ad11967f6ad952004e4d350dc62.webp",
+        "width": 720,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/14d5d69ccab8f8afd74f9ba903e2c7ca.jpg",
+        "width": 720,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 90,
+    "originalFile": "original_images/wvt_camp_deer_in_snow.jpg",
+    "alt": "wvt camp deer in snow",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/3ab4498f869a51896429fd82f5f2f86f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d0cbaf4b943d1afa25408ba5cdf79741.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9e6197fb0f73a1bd5bbaeb0a889caa6a.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bc25203dc9ac13103cb9620971966055.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 91,
+    "originalFile": "original_images/wvt_bear_west_trail.jpg",
+    "alt": "wvt bear west trail",
+    "width": 935,
+    "height": 672,
+    "srcset": [
+      {
+        "src": "/uploads/95263f721791d1072950e242a6bfdd77.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3ae679dda4a1f5b5a076251fa41a7b15.webp",
+        "width": 935,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bc28483f50df52d1a05be7a2fe11365f.jpg",
+        "width": 935,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 92,
+    "originalFile": "original_images/wvt_camp_eagle_snow.jpg",
+    "alt": "wvt camp eagle snow",
+    "width": 914,
+    "height": 699,
+    "srcset": [
+      {
+        "src": "/uploads/af4492ac913e69e8639c28c1ac1b6eac.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/98c4c49a7451321e4bfb17ccedd0b214.webp",
+        "width": 914,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/264e51300d9a904b5a14118f2f6a2878.jpg",
+        "width": 914,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 93,
+    "originalFile": "original_images/wvt_camp_kitchen.jpg",
+    "alt": "wvt camp kitchen",
+    "width": 1024,
+    "height": 768,
+    "srcset": [
+      {
+        "src": "/uploads/1e81c61f5689c94d3f9ecbfe7c3674e7.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4bf4f42beb9c3d2d0e35c2b33d7146a5.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2ed80019076c0eae78043e9e6100b0c5.webp",
+        "width": 1024,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5ed1bdf81bf3338353144163dc99b2f1.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 94,
+    "originalFile": "original_images/wvt_camp_overgrown_driveway_entrance_with_sign.jpg",
+    "alt": "wvt camp overgrown driveway entrance with sign",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/2d3802fffcb1e6e4329fa1a2fa98ffbe.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4bb6254feb7a24984540e50b8d2d31b2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b8a13f71bb75b710c772a53b3f093d36.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/51ffedde30dcfdfa7437a67bd7e8213e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 95,
+    "originalFile": "original_images/wvt_camp_group_around_fire.jpg",
+    "alt": "wvt camp group around fire",
+    "width": 1282,
+    "height": 639,
+    "srcset": [
+      {
+        "src": "/uploads/d4253323c351eceab31946bff5345ddf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ea0484ee06d1e56b86653b6fed16d7b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/997bd7d722f050dbc5c56ee510193c7c.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/419b1b631df51d790fad7be39b0472ab.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 96,
+    "originalFile": "original_images/wvt_bear_west_trail_2.jpg",
+    "alt": "wvt bear west trail (2)",
+    "width": 642,
+    "height": 420,
+    "srcset": [
+      {
+        "src": "/uploads/364530a679369abe22b72f6805cbbeb0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b39e5a3041a6388f228cfb38e74cacf1.webp",
+        "width": 642,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2737d2d0aaaa29fa147da0331fc1fd68.jpg",
+        "width": 642,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 97,
+    "originalFile": "original_images/wvt_camp_eagle_snow_2.jpg",
+    "alt": "wvt camp eagle snow (2)",
+    "width": 533,
+    "height": 461,
+    "srcset": [
+      {
+        "src": "/uploads/31a157d95f092a05ba439c7f32f87fc5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5a4945e350ac17496e1de018136cc457.webp",
+        "width": 533,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/dac4a478fb94d44a612a6ad9529c2c9c.jpg",
+        "width": 533,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 98,
+    "originalFile": "original_images/wvt_camp_deer_in_snow_2.jpg",
+    "alt": "wvt camp deer in snow (2)",
+    "width": 1174,
+    "height": 858,
+    "srcset": [
+      {
+        "src": "/uploads/18a289adef96892474a32d37fd8b337e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1eecb08a1e4dcc264bb16cad1ce898ee.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4e47164cbdbaceafcd5f78a176148bd0.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a0e9239f324aeb1fc21b800c49de0e7b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 99,
+    "originalFile": "original_images/wvt_camp_turkey_2.JPG",
+    "alt": "wvt camp turkey (2)",
+    "width": 658,
+    "height": 443,
+    "srcset": [
+      {
+        "src": "/uploads/82d1fbd99a9ca8d6e13b68809861c08e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/caf176f95a046d8c673c569e950dd168.webp",
+        "width": 658,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/275c1a3cbe54e1cb989780cdf46516f8.jpg",
+        "width": 658,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 100,
+    "originalFile": "original_images/wvt_kayaking_on_main_creek.jpg",
+    "alt": "wvt kayaking on main creek",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/1b85495205da957ff52b83b998ef962f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/211c3ee7497d5bf59940a0c246b3bf83.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/68e24a39f003b0667450bc1c679c43b0.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5433a7824e053076c1c705330d5ee96e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 101,
+    "originalFile": "original_images/wvt_camp_freezing_fog.JPG",
+    "alt": "wvt camp freezing fog",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/e1b2fede803ca7988073530b8fe21a74.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/67091862f66c961bc07999e1985a1462.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/496b788e37a6f38154822f83263c6f3f.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b928c08173237384f10cba3c0f5966c7.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 102,
+    "originalFile": "original_images/wvt_camp_winter_zipline_tower.jpg",
+    "alt": "wvt camp winter zipline tower",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/db8d2873e57e0de577e7e06f2bf77147.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c42bf743ad879703c2beffe4dfc8e862.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2b52a6891027ef1b6a314f493deb9167.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a77752a8ce6fa860c758dc98e8e4294d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 103,
+    "originalFile": "original_images/wvt_late_fall_trail_with_leaves.jpg",
+    "alt": "wvt late fall trail with leaves",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/8f69c1ca9fe6acf6fa4b16f70933bf1b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/397dc589b0a26e61fb5344b7f1acd40e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f0c0d1850dec814dbc1f9c63fe8d98fa.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3a300fc6ba0569e3b29534f7b9b05457.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 104,
+    "originalFile": "original_images/wvt_camp_trail_breaking.JPG",
+    "alt": "wvt camp trail breaking",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/f4e16c8913dc6866669074561c4c135d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d0f26f80df6bdc3e8b0889d861b60957.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e85ec749cf724f28e229b812eee4a9e2.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ff0cc981d513d248eb1110238e17f14d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 105,
+    "originalFile": "original_images/wvt_camp_red_trees_along_snafu.jpg",
+    "alt": "wvt camp red trees along snafu",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/2d5d2cf4de17c42e248c4be854c1311b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3a0ca57e7c5d856ed66cd0cec6f29ab2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34e6da4a78b0716459a63b4c88047efe.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3c6eebd3b9f0cb84cc9ce0abae4409c8.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 106,
+    "originalFile": "original_images/wvt_camp_fall_leaf_laden_trail.JPG",
+    "alt": "wvt camp swamp walkway",
+    "width": 1567,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/f24478caa3661c4455fe24c8681bc16a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b748763fc0eccda2cd0554c1f675aba8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a4f8f8f1b5ea78f39e57402c98add6c8.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ccd57ae710cb134bdd4c68f69f78382.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 107,
+    "originalFile": "original_images/wvt_camp_swamp_walkway.jpg",
+    "alt": "wvt camp swamp walkway",
+    "width": 1565,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/66ced379cefe8ab3e9d144002438908a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ed4c1a94844fe73a6fca95acf56a205.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3f9440bd7594f6c2361bb5391ffefb50.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9c9a76233cca887534071bbccc9e6449.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 108,
+    "originalFile": "original_images/wvt_camp_snowy_entrance.jpg",
+    "alt": "wvt camp snowy entrance",
+    "width": 1253,
+    "height": 844,
+    "srcset": [
+      {
+        "src": "/uploads/39941e33409a44f02a66f57b69f33541.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/26948d780b5e7fa0b2dbc958341c96e7.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/440fc134d0702bac54bef80ef3ab109e.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a83af8ca40618cfa1d875960cc564a09.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 109,
+    "originalFile": "original_images/wvt_camp_entrance_spring_time.jpg",
+    "alt": "wvt camp entrance spring time",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/3682dfecaf66f74a12860fc98db90ca0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2090159cf7e47ba989cbfa9817e4decf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cdf758ea0ec164cea12fe62ce7f92180.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d01b158e8bab07de20701681baedba97.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 111,
+    "originalFile": "original_images/wvt_camp_fern_dave.jpg",
+    "alt": "wvt camp fern dave",
+    "width": 1785,
+    "height": 868,
+    "srcset": [
+      {
+        "src": "/uploads/f1a627b7d034d35e3476ffffc00d0c15.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/69afae74c36af84e04beec5027d578b8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8fa858ea55d8a3122b64656482d97fbe.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9cfb8ac40ef238a700203c4bd1fd6c26.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 112,
+    "originalFile": "original_images/wvt_camp_main_creek.jpg",
+    "alt": "wvt camp main creek",
+    "width": 1770,
+    "height": 839,
+    "srcset": [
+      {
+        "src": "/uploads/3e82affc01d2905dadac31e649697a63.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2f51e583a023caf4de4f030586a811c1.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9379c6ed89678850b7f407bbe2563dc5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/240cad6693d25d84bf2dc200395b530a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 113,
+    "originalFile": "original_images/wvt_kayaking_on_main_creek_2.jpg",
+    "alt": "wvt kayaking on main creek (2)",
+    "width": 1159,
+    "height": 480,
+    "srcset": [
+      {
+        "src": "/uploads/dbb01d1c8b7501bc7fafef9dfd793e0c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9e11c999de38257222c0fe3e73bb9bc1.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fa31441b5afd1e9054ae7d24f75f7ccc.webp",
+        "width": 1159,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0639c6043ce96bfec36e0520fad576ba.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 114,
+    "originalFile": "original_images/wvt_camp_bow_arrow_joseph_clay_joel.jpg",
+    "alt": "wvt camp bow arrow joseph clay joel",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/93aa74a92181cd22ed32068f014d529d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/079d0c57c10b80a61241260c9fcba314.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34dba825722aaa63ab8382614da1f5ee.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34e33aecf0b4d67fa276dad6e667bb51.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 115,
+    "originalFile": "original_images/wvt_camp_bow_arrow_joseph_clay_joel.jpg",
+    "alt": "wvt camp bow arrow joseph clay joel",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/93aa74a92181cd22ed32068f014d529d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/079d0c57c10b80a61241260c9fcba314.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34dba825722aaa63ab8382614da1f5ee.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/34e33aecf0b4d67fa276dad6e667bb51.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 116,
+    "originalFile": "original_images/wvt_camp_fork_in_trail.jpg",
+    "alt": "wvt camp fork in trail",
+    "width": 1992,
+    "height": 1121,
+    "srcset": [
+      {
+        "src": "/uploads/bb4321a84771c9c8c3cb5b130accbc8f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8dba516e205807eb335ce02615dc7a07.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0d6e88496b757f4f8afac16205e21e2b.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b453bc3b16d5d9e9f83fc13cae5fd23c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 117,
+    "originalFile": "original_images/wvt_banner_2_sides_teen_center.jpg",
+    "alt": "wvt banner 2 sides teen center",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/e1167974000444441b344be443002ebf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e51a9d6533ea7a6f22600f5ffa780c33.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/62748820678a9f51a469d04644490edd.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3228f85d196395348bf3458b9b6192a2.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 118,
+    "originalFile": "original_images/kyle_tim_girl_pool_game.jpg",
+    "alt": "kyle tim girl pool game",
+    "width": 936,
+    "height": 718,
+    "srcset": [
+      {
+        "src": "/uploads/6b29805202e4b5d6f2c34d982863acaf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/37918c0373479696813d3eddc735742b.webp",
+        "width": 936,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3994ea0798da8a331f1f19876c1f5af6.jpg",
+        "width": 936,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 119,
+    "originalFile": "original_images/wvt_main_st_tc_dance_worm.jpg",
+    "alt": "wvt main st tc dance worm",
+    "width": 720,
+    "height": 538,
+    "srcset": [
+      {
+        "src": "/uploads/692c973ff48966755075f69bbdfc8741.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a335f540d07290e679f36bcf5095e6f6.webp",
+        "width": 720,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54a2267e8aee8d78b2fba4fa829c6e7f.jpg",
+        "width": 720,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 120,
+    "originalFile": "original_images/wvt_3_girsl_on_3_instrumment.jpg",
+    "alt": "wvt 3 girsl on 3 instrumment",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/351ed4ee17ed80dcd3549c9424931664.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58495cd1e89d0fc9409294deaba8af03.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1493ab33ceabd93e100cc8188d807bc7.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bda460315682e57a864c6a0be61389d6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 121,
+    "originalFile": "original_images/grandchampionship_2017.jpg",
+    "alt": "grandchampionship 2017",
+    "width": 2048,
+    "height": 1454,
+    "srcset": [
+      {
+        "src": "/uploads/bc04580753b473cc374018df58932e7f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cb1a60560d1a71e5afed6db01d56e9f2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e8d530910c6ab71187293a7848500f54.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0fa09106fe9aafd1ce42b6db3a6f326e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 122,
+    "originalFile": "original_images/wvt_girls_night_banner_wall.jpg",
+    "alt": "wvt girls night banner wall",
+    "width": 1326,
+    "height": 1312,
+    "srcset": [
+      {
+        "src": "/uploads/56e66e2e59617015411ca59b4ff98487.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bd2f7c5d73dff607cfbc95087c479abd.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3300448591835a3a343b3577085c2032.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c2e678f395ed64efc2d5ce700205ffac.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 123,
+    "originalFile": "original_images/wvt_open_mic_crowded.jpg",
+    "alt": "wvt open mic crowded",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/a5ddc492c2f4b37207c9dd2e794f1e88.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b1b03d8882cdafe480fb4c76b02d4e0e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/06139e32857066c703af87b175595b82.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 124,
+    "originalFile": "original_images/wvt_pool_front_wall.jpg",
+    "alt": "wvt pool front wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/52622b19fcc182e893396692236b025a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8deee0b49649990fb78488dc91747927.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/354b37d818700a59ef5421912c17aa79.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c11dca91b8fb185fcaeffda48a97206f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 125,
+    "originalFile": "original_images/wvt_4_pool_tables.jpg",
+    "alt": "wvt 4 pool tables",
+    "width": 2495,
+    "height": 2259,
+    "srcset": [
+      {
+        "src": "/uploads/631b2b91646a92f04f7200cd686e23bc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83b1fb34a5cdf8053df758ed4b67e7cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e38b5d12a004e56a082d4c0b990858df.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54d6e297d98dada23851f2052cd8ea06.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 126,
+    "originalFile": "original_images/wvt_basketball_facing_front_wall.jpg",
+    "alt": "wvt basketball facing front wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/cd489c1c30e12085a7df642baa011711.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bdf547f58a500aa1fd1b71e337de489a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/327a1e9adb9aa1cde09a820640247eb6.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fcf76b8f0aecea0abfb498b505206aae.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 127,
+    "originalFile": "original_images/wvt_chess_four_table.jpg",
+    "alt": "wvt chess four table",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/b05dce73275f08a160a4fd76b8bbec6a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ea82a6dd912d0cb480969185fe8267ca.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9561aa9ffaf3382c0c3e53db16d4a0e4.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3dfd1630445fcc5025d9d9e4383223c1.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 128,
+    "originalFile": "original_images/wvt_arts_banner.jpg",
+    "alt": "wvt arts banner",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/31e712902b04eed9237ce9b860551383.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5fe6aaa7bb721581d362407f6cd9f322.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9324cf829af1124a510717336769b1e4.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4d65856ba674ae11b235531d85c2661c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 129,
+    "originalFile": "original_images/wvt_main_st_tc.jpg",
+    "alt": "wvt main st tc",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/e144a07635fc8d2c14925459250fe5ec.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/47923d0e4d4297fc7e3912cf4b66705e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/772cfc948cfea7cb571f12e2e5873fe6.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9d8f67d3f3ca50a52de3f1ff138e94ac.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 130,
+    "originalFile": "original_images/wvt_pool_gravity_cars.jpg",
+    "alt": "wvt pool gravity cars",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/70049bd41be40c3dc81f0a9a4e03040d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/caba864ced3ccf3f792174ec3dd4a94b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/80f2cc6488469c2cfb51df16eaecbfe2.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/13c109dc0506777f27244a2648e052ce.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 131,
+    "originalFile": "original_images/wvt_gravity_banner.jpg",
+    "alt": "wvt gravity banner",
+    "width": 2048,
+    "height": 1286,
+    "srcset": [
+      {
+        "src": "/uploads/00f48277e0414313499d583b02bb8320.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/01902f11c78d6ec4b770f64323100c64.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/99a9084e055414b33f3a2d670ae47e13.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9fc41d3f390303dd08b551f1a7d7916f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 132,
+    "originalFile": "original_images/wvt_gravity_kids_in_ramp.jpg",
+    "alt": "wvt gravity kids in ramp",
+    "width": 2048,
+    "height": 1153,
+    "srcset": [
+      {
+        "src": "/uploads/904759112229311709c126aa8aef5641.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3500820c679ac33d88e95241a97df030.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bac89b93e89b8c33d8bbe3a262a2bbb4.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3e84fbf3f350aaa08b669b9292050493.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 133,
+    "originalFile": "original_images/wvt_gravity_ramp_billy_dave_jim.jpg",
+    "alt": "wvt gravity ramp billy dave jim",
+    "width": 2048,
+    "height": 1153,
+    "srcset": [
+      {
+        "src": "/uploads/5111558c3eb9fe01e03bf6771601d1c9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/61d888cabc7ed6825597344474ccd2e9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1c9d525c57a6c3f97305651cda34df9a.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/13c1c664d6a052a4074ddb75f3cb651a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 134,
+    "originalFile": "original_images/wvt_gravity_night_race_lighted_ramp.jpg",
+    "alt": "wvt gravity night race lighted ramp",
+    "width": 942,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/c321038641866470d20c5192dded62f6.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/699d127e796dae2a42a8980ab4d8cb1a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b217c5e1359f3ac79b16e7cb9b365a9a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 135,
+    "originalFile": "original_images/wvt_gravity_night_race_blur.jpg",
+    "alt": "wvt gravity night race blur",
+    "width": 2048,
+    "height": 1191,
+    "srcset": [
+      {
+        "src": "/uploads/aced729fdfcd423449bf34cf857cc749.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9409613a659e7e9f2af1e1304ced6369.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a97af366dcdc75e14617335200c2689e.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f698a933eca9d05e489fc46404c9ea11.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 136,
+    "originalFile": "original_images/wvt_gravity_night_race_kyle_joel.jpg",
+    "alt": "wvt gravity night race kyle joel",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/1da9c8f3621210e25847ca493af4c966.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6e8fa0a6b9fd3c94c97f9200ef7efc0f.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a95ffd01cd8d45934f667fd034dffce5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3b5ddb0deddb0a88f8375a808b47a5dc.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 138,
+    "originalFile": "original_images/wvt_gravity_volunteers_elm_high_dr.jpg",
+    "alt": "wvt gravity volunteers elm high dr",
+    "width": 1646,
+    "height": 866,
+    "srcset": [
+      {
+        "src": "/uploads/d0830dc6c28a109b09239c68ae109849.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/11cc19073593a7eabf1e80a1c022fb43.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2e85f476b5583e9dfaada77bc7fce826.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6bda5ee558879c25a041a4044edec0ab.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 139,
+    "originalFile": "original_images/wvt_gravity_parade_milton_front_view_of_truck.jpg",
+    "alt": "wvt gravity parade milton front view of truck",
+    "width": 2048,
+    "height": 1361,
+    "srcset": [
+      {
+        "src": "/uploads/274126c8ecb1531e823ff202f7ec73af.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f2dbc1a0a2d18a675bd27afcbf76cdfa.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7975d08a2a4ccc34a0d4fda99fec29db.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/eb9b14967cf4088997f580cb505e6fd9.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 141,
+    "originalFile": "original_images/dave_on_gravity_float_milton_parade.jpg",
+    "alt": "dave on gravity float milton parade",
+    "width": 2048,
+    "height": 1361,
+    "srcset": [
+      {
+        "src": "/uploads/1aa20a3e173e8e41e054f5c8090ab562.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d9c82afb713cb3fb2efe9ee328bbef47.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6f5dfc01eef549d89ab4b7f73ff0d3d3.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e1abb4b868b7cbffb661313acf998e17.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 145,
+    "originalFile": "original_images/wvt_recording_studio_drum_wall_window_different_angle.jpg",
+    "alt": "wvt recording studio drum wall window different angle",
+    "width": 1552,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/95455f586397a78c179ee06625cb56a9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/540623a0eab4fbd4342191025e425e88.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d0bc06d8f9f12e55e0b3698464e5da94.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fe4376e2db3b5b880659ceea36488fb8.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 146,
+    "originalFile": "original_images/wvt_recording_studio_drum_wall_window.jpg",
+    "alt": "wvt recording studio drum wall window",
+    "width": 1345,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/de565fbb381f858d5987a90924dc3379.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a27a38902f27a5c173fe9ab076cc3de1.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0e6a6cba6a9c44a5e719ceb73d3003bf.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b7bc58b37edb402c0df326b4e298d551.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 147,
+    "originalFile": "original_images/wvt_recording_studio_kyle_painting.jpg",
+    "alt": "wvt recording studio kyle painting",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/173353b364e7c81a9ce959deac589d31.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4edfe8439a3badf40f52b7ae7042f6fc.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c91168dc9e0f5f63020b8aa0a4f589c5.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/75d20698039de3c1ecf4981bb92f47fa.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 150,
+    "originalFile": "original_images/wvt_xnas_concert_gurneys_tafoya.JPG",
+    "alt": "wvt xnas concert gurneys tafoya",
+    "width": 1567,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/b9ec5ed7883496866d4a1a0a66a5f352.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/835c91949c7fc7ad9e4f68c27575932b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/693b2609398470a0527692f4be61198b.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/db3d54a3c577a8735aaf290b848e72b0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 151,
+    "originalFile": "original_images/wvt_violyn_joseph_gurneys_on_stage.JPG",
+    "alt": "wvt violyn joseph gurneys on stage",
+    "width": 1567,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/fb59f55802d91d3f7855e39aedbe71c4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/de009f91241bc50214a01b2dee6fc35d.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fcb2bf3b69afc1bda45bf0876af10641.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/73003ddcab36e76a912ef2817cd12f1a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 153,
+    "originalFile": "original_images/wvt_larry_schultz_play.jpg",
+    "alt": "wvt larry schultz play",
+    "width": 960,
+    "height": 717,
+    "srcset": [
+      {
+        "src": "/uploads/c61277ef73c9409847b3f50a5cde44cc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5ca5c8a108b3900a4ef264b4aea30336.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/97d1b4a3b921e14067ad2159dff7c7e6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 156,
+    "originalFile": "original_images/wvt_non_toxic_studio_logo_3.jpg",
+    "alt": "wvt non toxic studio logo (3)",
+    "width": 1985,
+    "height": 1729,
+    "srcset": [
+      {
+        "src": "/uploads/27f5fdbfefdd9502794929c5746812e5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/26a7150b352964416e0e56ad26b67604.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2547a17a2167e0b1bcf9805aa4a03da9.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/427df6153949e6bd265ccda53fc08e82.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 157,
+    "originalFile": "original_images/wvt_non_toxic_studio_logo_2.jpg",
+    "alt": "wvt non toxic studio logo (2)",
+    "width": 1999,
+    "height": 1258,
+    "srcset": [
+      {
+        "src": "/uploads/e613e4f5a73768a3b08c1f4d87d58401.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/39f833469e777baae48c2a812f348bea.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a3c87eba11177b8a393466d8a71f5688.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/055b3003591d7beda862081f7c3ff85a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 158,
+    "originalFile": "original_images/wvt_camp_group_around_fire.jpg",
+    "alt": "wvt camp group around fire",
+    "width": 1282,
+    "height": 639,
+    "srcset": [
+      {
+        "src": "/uploads/d4253323c351eceab31946bff5345ddf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ea0484ee06d1e56b86653b6fed16d7b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/997bd7d722f050dbc5c56ee510193c7c.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/419b1b631df51d790fad7be39b0472ab.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 159,
+    "originalFile": "original_images/wvt_camp_guys_at_fire_cooking_crayfish.jpg",
+    "alt": "wvt camp guys at fire cooking crayfish",
+    "width": 604,
+    "height": 453,
+    "srcset": [
+      {
+        "src": "/uploads/0e3fb14bc119865df8fd579a90b20ecc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5a64f2184cb3b4ebcde6b61c3cb1b5c6.webp",
+        "width": 604,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/57cd9cab3b3df62d3ea516d529094236.jpg",
+        "width": 604,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 160,
+    "originalFile": "original_images/wvt_Banner_bumboer_pool_bball_pool.jpg",
+    "alt": "wvt Banner bumboer pool bball pool",
+    "width": 2938,
+    "height": 1723,
+    "srcset": [
+      {
+        "src": "/uploads/862d70c155bb0cc06e721a94b3061283.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/41029386f1f398e2093ac79786bb8728.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b507e66478a77a5228d559323063d6c0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 161,
+    "originalFile": "original_images/wvt_chess_ashton_brennon.jpg",
+    "alt": "wvt chess ashton brennon",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/4dc88c86daad8ee5e499257184ac1ef3.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e0258c16a83487a4f6df61a41270c532.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c7d757cbd4315e08da6a3e4b7bc88456.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9fbdf5d3eb8eac6ab256a8fcb0174ce8.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 166,
+    "originalFile": "original_images/wvt_gravity_volunteers_elm_high_dr.jpg",
+    "alt": "wvt gravity volunteers elm high dr",
+    "width": 1646,
+    "height": 866,
+    "srcset": [
+      {
+        "src": "/uploads/d0830dc6c28a109b09239c68ae109849.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/11cc19073593a7eabf1e80a1c022fb43.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2e85f476b5583e9dfaada77bc7fce826.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6bda5ee558879c25a041a4044edec0ab.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 172,
+    "originalFile": "original_images/wvt_recording_studio_2_monitors_clayton.jpg",
+    "alt": "wvt recording studio 2 monitors clayton",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/ed0ed47f684675e5bf17bd8987b616ab.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/badae2fce7a9140f020cab07c49c9eb9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/14c411019d2587d5c49e6dde7af32633.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/08989f035893b88b998302286020c62c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 176,
+    "originalFile": "original_images/Dave_Toni.jpg",
+    "alt": "Dave Toni",
+    "width": 960,
+    "height": 684,
+    "srcset": [
+      {
+        "src": "/uploads/0ab35d8378d9b2848b53784ec8eaa7d2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7761e3f833b825dd0b57b1167e523259.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e4d5e09b78fb056abc9152880f866b36.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 179,
+    "originalFile": "original_images/wvt_gravity_milton_parade.jpg",
+    "alt": "wvt gravity milton parade",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/783d067b457592f081947aacce948dba.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f297633f432463b270956c81aed87fc2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/56cce005ffbe6ad315f6d4139bf525eb.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ad30b4e93c8a08560223fe8da4d35ea3.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 180,
+    "originalFile": "original_images/wvt_gravity_volunteers_elm_high_dr.jpg",
+    "alt": "wvt gravity volunteers elm high dr",
+    "width": 1646,
+    "height": 866,
+    "srcset": [
+      {
+        "src": "/uploads/d0830dc6c28a109b09239c68ae109849.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/11cc19073593a7eabf1e80a1c022fb43.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2e85f476b5583e9dfaada77bc7fce826.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6bda5ee558879c25a041a4044edec0ab.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 182,
+    "originalFile": "original_images/wvt_volunteer_facade_removal.jpg",
+    "alt": "wvt volunteer facade removal",
+    "width": 960,
+    "height": 720,
+    "srcset": [
+      {
+        "src": "/uploads/4000b35ace127d620b406ce26436949f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e08482ff49cfa51098a8cf606bfa257e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/90a55c702752e191912a21421d5ff19f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 183,
+    "originalFile": "original_images/wvt_recreation_side_form_above.jpg",
+    "alt": "wvt recreation side form above",
+    "width": 953,
+    "height": 612,
+    "srcset": [
+      {
+        "src": "/uploads/c30ec8ec92a4389955100f9877793b08.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/aa743e0d9ec2296253f2c8fb77d10419.webp",
+        "width": 953,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54aba805603632939bc5e583dcd0e403.jpg",
+        "width": 953,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 184,
+    "originalFile": "original_images/wvt_stage_side_from_above_facing_north.jpg",
+    "alt": "wvt stage side from above facing north",
+    "width": 756,
+    "height": 567,
+    "srcset": [
+      {
+        "src": "/uploads/8addfef41ff953dde51a302e91590af2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83f900e972e594660f454038187a2b3e.webp",
+        "width": 756,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9d221ba661e34ba9d11e2cb4157e0e3a.jpg",
+        "width": 756,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 187,
+    "originalFile": "original_images/wvt_shop_mill.jpg",
+    "alt": "wvt shop mill",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/ea25ecb0cecd7a27a413970612dbfd82.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/08ac84d328fad7ceca7b0702fc5915e2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8f923422fadeb441bf73265fc135e1e4.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a95e01dedba54665e7acef7665704c5e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 188,
+    "originalFile": "original_images/wvt_shop_measuring_cylinder.jpg",
+    "alt": "wvt shop measuring cylinder",
+    "width": 2048,
+    "height": 1530,
+    "srcset": [
+      {
+        "src": "/uploads/f11ddcd49d961e1d9811229d2715dbb9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1b8f2f2ac77189d6513136ba855869f9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1f69b33d32cc721d0f208b3621e284c2.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/83bc84fd3dd327e5080258b45e420bda.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 189,
+    "originalFile": "original_images/wvt_shop_lathe_Tyler_G.jpg",
+    "alt": "wvt shop lathe Tyler G",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/3f0a3b532f9af18fa336047a29eaae5a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3e1b06f3956c912520902dbf27683e65.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ea0e9cd5ee2d40a763defd589cbf547.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d6d081807455e080ea138a5f7fb165e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 190,
+    "originalFile": "original_images/wvt_recreation_side_form_above.jpg",
+    "alt": "wvt recreation side form above",
+    "width": 953,
+    "height": 612,
+    "srcset": [
+      {
+        "src": "/uploads/c30ec8ec92a4389955100f9877793b08.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/aa743e0d9ec2296253f2c8fb77d10419.webp",
+        "width": 953,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54aba805603632939bc5e583dcd0e403.jpg",
+        "width": 953,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 192,
+    "originalFile": "original_images/wvt_stage_side_from_above_facing_north_2.jpg",
+    "alt": "wvt stage side from above facing north (2)",
+    "width": 751,
+    "height": 495,
+    "srcset": [
+      {
+        "src": "/uploads/74e3dc952e0e55459b3edddcb7a818ba.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bb00bf5a6540d0510321b298099bbec6.webp",
+        "width": 751,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/36c2edb8c43b75258e6f09524941b3f2.jpg",
+        "width": 751,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 193,
+    "originalFile": "original_images/wvt_open_mic_crowded.jpg",
+    "alt": "wvt open mic crowded",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/a5ddc492c2f4b37207c9dd2e794f1e88.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b1b03d8882cdafe480fb4c76b02d4e0e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/06139e32857066c703af87b175595b82.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 194,
+    "originalFile": "original_images/wvt_graffitti_group.jpg",
+    "alt": "wvt graffitti group",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/650bb3b8d76db087af3f8af2c63590ea.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/46a1a14d229be393308f9cd80ccff358.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f39566f0492e58c52e60113b47dbb446.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 195,
+    "originalFile": "original_images/wvt_shop_group.jpg",
+    "alt": "wvt shop group",
+    "width": 2048,
+    "height": 1152,
+    "srcset": [
+      {
+        "src": "/uploads/a7328b6d0c1dff1eff2536b31e430670.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1555d221032fffc416d65b2594068e4d.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1b653856ec735208651868da37bec0ed.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5983f80a99c73748dc6c7ea2a5c48185.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 196,
+    "originalFile": "original_images/wvt_recording_studio_production_room_looking_to_live_room.jpg",
+    "alt": "wvt recording studio production room looking to live room",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/3de807f6db182db0428a9462795dec78.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/08796695acdf9839e44556a941ed2185.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c62e8659cd23e2df30d21f1496d10a9a.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8ba6a0af8b3b67860132b61802a137bb.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 197,
+    "originalFile": "original_images/wvt_gravity_ramp_billy_dave_jim.jpg",
+    "alt": "wvt gravity ramp billy dave jim",
+    "width": 2048,
+    "height": 1153,
+    "srcset": [
+      {
+        "src": "/uploads/5111558c3eb9fe01e03bf6771601d1c9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/61d888cabc7ed6825597344474ccd2e9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1c9d525c57a6c3f97305651cda34df9a.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/13c1c664d6a052a4074ddb75f3cb651a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 198,
+    "originalFile": "original_images/wvt_band_stage_banner.jpg",
+    "alt": "wvt band stage banner",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/6e8284882e9240605b426e97bc45c264.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cd8c505fec5ee1a8e8b6165cd684dfbb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b23879ad7a0a98adbb87a990fa780454.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bfe4bd437f1c545b6e3a3792069b3f55.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 199,
+    "originalFile": "original_images/wvt_camp_guys_among_zipline_tower_beams.JPG",
+    "alt": "wvt camp guys among zipline tower beams",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/b7fb46f05edd2948b9aa19bac2abbcfa.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ca0cb8cf76e6c2fdb8a08581e5a7e53a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5ca35973ad858108b75e9eaff43585ab.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e65f06989054504d360cc3079fddcb5.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 201,
+    "originalFile": "original_images/grandchamp_Austin_Tyler_Dalton.jpg",
+    "alt": "grandchamp Austin Tyler Dalton",
+    "width": 1113,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/525ba88b112a59f6ffa76b2ec1ac22f5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8fb5f22b06a5dc9d47d4c410b2369ade.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e7cd35a785fb524aee673a332a80e41e.webp",
+        "width": 1113,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d751137a876f727c9a39748b6dcb7dd.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 203,
+    "originalFile": "original_images/wvt_camp_south_east_view_cabin.jpg",
+    "alt": "wvt camp south east view cabin",
+    "width": 960,
+    "height": 717,
+    "srcset": [
+      {
+        "src": "/uploads/dc90859390190ef04d550fbd82b1e707.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2b075a4ade6069e40dc19fe343057c57.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3d5b0e50532761bd0de5c1960ede9884.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 204,
+    "originalFile": "original_images/wvt_camp_pool_player_dalton.jpg",
+    "alt": "wvt camp pool player dalton",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/e10f84326f8229f0a2b40736caafda13.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54421da96432e6f8116aa335b120166b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f621874a09c8cc841a68c59234e143b0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 205,
+    "originalFile": "original_images/wvt_camp_roel_weed_wacking.jpg",
+    "alt": "wvt camp roel weed wacking",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/3a0efc13e9524652a46304f5967c51f2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b8820fe608088964f1ca5f7900611e06.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ac85313efff83c48c1348c8f28fd202a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 206,
+    "originalFile": "original_images/wvt_camp_woodchipper_atc_dalton.jpg",
+    "alt": "wvt camp woodchipper atc dalton",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/1406bc8ecdbc8e77ec6d6f68808d3912.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/17de271cabfb976a7f7deefe49020129.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ded27a9ce3829b8221d3bb0fea6288dd.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 207,
+    "originalFile": "original_images/wvt_camp_guys_along_river_fishing.jpg",
+    "alt": "wvt camp guys along river fishing",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/c02c4c3b487c3472de9624a978ebbbb3.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/01278e3d3e18e65363c90d2a25e8d18c.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a24238f928a5a18ae4970b20727b28df.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 208,
+    "originalFile": "original_images/wvt_camp_woodstove_rock_wall.jpg",
+    "alt": "wvt camp woodstove rock wall",
+    "width": 4032,
+    "height": 3024,
+    "srcset": [
+      {
+        "src": "/uploads/287996e4a35ec83311157d902d1c7b3f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9af572b4852370b67c2b47e7a7916629.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e203261eaa7dc9058b3a7ccac71eebf1.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f1a7e09c962c1add8baef9490a292d06.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 209,
+    "originalFile": "original_images/wvt_camp_main_creek_bend.jpg",
+    "alt": "wvt camp main creek bend",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/703afbaa5e8ec78e82b3e0f7c6bcd4b8.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e0ecac1a64cbc82bf8b700aaf43caf89.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b03487a70c74a5ce9a014e75326c6c90.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 210,
+    "originalFile": "original_images/wvt_camp_spring_runoff.jpg",
+    "alt": "wvt camp spring runoff",
+    "width": 3024,
+    "height": 4032,
+    "srcset": [
+      {
+        "src": "/uploads/23f84da59856a859de4776311c68f4de.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0a297cf670bd8a34a695ca6cad94818a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/583f33bb364fb06b0abfc03e4f625245.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cebdc3377ed771645773e6938f180851.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 211,
+    "originalFile": "original_images/wvt_arts_banner.jpg",
+    "alt": "wvt arts banner",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/31e712902b04eed9237ce9b860551383.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5fe6aaa7bb721581d362407f6cd9f322.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9324cf829af1124a510717336769b1e4.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4d65856ba674ae11b235531d85c2661c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 212,
+    "originalFile": "original_images/wvt_versus_me_concert_blue_light.jpg",
+    "alt": "wvt versus me concert blue light",
+    "width": 540,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/f6506cecf855e79adfdf3351c41bc70c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f4b4a69ac1aa34aaaaadfd6203fdd2b9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/136abd29dfd2cbc0566d4b1590c75609.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 213,
+    "originalFile": "original_images/grandchamp_Austin_Tyler_Dalton.jpg",
+    "alt": "grandchamp Austin Tyler Dalton",
+    "width": 1113,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/525ba88b112a59f6ffa76b2ec1ac22f5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8fb5f22b06a5dc9d47d4c410b2369ade.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e7cd35a785fb524aee673a332a80e41e.webp",
+        "width": 1113,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d751137a876f727c9a39748b6dcb7dd.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 214,
+    "originalFile": "original_images/grandchampionship_2017.jpg",
+    "alt": "grandchampionship 2017",
+    "width": 2048,
+    "height": 1454,
+    "srcset": [
+      {
+        "src": "/uploads/bc04580753b473cc374018df58932e7f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cb1a60560d1a71e5afed6db01d56e9f2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e8d530910c6ab71187293a7848500f54.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0fa09106fe9aafd1ce42b6db3a6f326e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 215,
+    "originalFile": "original_images/wvt_pingpong.jpg",
+    "alt": "wvt pingpong",
+    "width": 960,
+    "height": 745,
+    "srcset": [
+      {
+        "src": "/uploads/e53f0b27d072bc8d2c219a5ed922e12f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1840a987278ff2113744093d05daa457.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/24212b29d44589c4d09d0776419be206.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 216,
+    "originalFile": "original_images/wvt_chess_aerial_view.jpg",
+    "alt": "wvt chess aerial view",
+    "width": 3024,
+    "height": 4032,
+    "srcset": [
+      {
+        "src": "/uploads/dfbe2806e93b9fcdf74b01277ad465e2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6e68875ec6c39877ae8cf0c4aba168b5.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f993012490fb39fd825e73fdefcc5b1d.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/046ff8e25586739458b93d7ad141e193.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 219,
+    "originalFile": "original_images/wvt_camp_overgrown_driveway_entrance_with_sign.jpg",
+    "alt": "wvt camp overgrown driveway entrance with sign",
+    "width": 1174,
+    "height": 880,
+    "srcset": [
+      {
+        "src": "/uploads/2d3802fffcb1e6e4329fa1a2fa98ffbe.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4bb6254feb7a24984540e50b8d2d31b2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b8a13f71bb75b710c772a53b3f093d36.webp",
+        "width": 1174,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/51ffedde30dcfdfa7437a67bd7e8213e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 220,
+    "originalFile": "original_images/wvt_camp_entrance_spring_time_2.jpg",
+    "alt": "wvt camp entrance spring time (2)",
+    "width": 1004,
+    "height": 849,
+    "srcset": [
+      {
+        "src": "/uploads/d37f7d73fc9bda93bbd003be59cdf77e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4cdf6ecb2df1d08340cb6eef610c031f.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cecfe91e0a3cb423cde27ae94e161ed4.webp",
+        "width": 1004,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/746318c0a08363e2cacb43522ef2a807.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 221,
+    "originalFile": "original_images/wvt_art_side_2_tvs_air_hockey.jpg",
+    "alt": "wvt art side 2 tvs air hockey",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/22f0cd805f68d66465a7824d6228092f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bf33ece2240300b1f219976800480bda.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f357c702db18f1992ce46729c3b85e4a.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e24290285f6ae3d79554786276bd25ef.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 222,
+    "originalFile": "original_images/wvt_art_side_laughing_teens.jpg",
+    "alt": "wvt art side laughing teens",
+    "width": 2048,
+    "height": 2048,
+    "srcset": [
+      {
+        "src": "/uploads/1720aee8b84573ddc05d3bf1ce2419cc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c536d9bf11592615f14a767e8be77f84.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5b3edd0f9a417c2c014f92978ffc0ffb.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/22d024824a01cec90b9ac3903b82d744.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 223,
+    "originalFile": "original_images/wvt_foosball_pool_2022.jpg",
+    "alt": "wvt foosball pool 2022",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/219b436a1781b329cfba7a6ebe4bc893.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0e2242cbf5561740a14fd3121c3d4763.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/367fc18b3c4f12d9d4f0e1c5a63de44c.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/aee44bd15129cf3875b67e40ca489349.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 224,
+    "originalFile": "original_images/wvt_pingpong_2022.jpg",
+    "alt": "wvt pingpong 2022",
+    "width": 2419,
+    "height": 1738,
+    "srcset": [
+      {
+        "src": "/uploads/99b134026e773105bd7b2351d1e44868.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d92454bbdab5f77249eae5a291639657.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0cec617281868ee0f15180c8fdb05d5a.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/599574bd9c7fdda2eccb2c9e2952fc63.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 225,
+    "originalFile": "original_images/GRILL_cENTREAL_PARK_PAVILION.jpg",
+    "alt": "GRILL cENTREAL PARK PAVILION",
+    "width": 2048,
+    "height": 1448,
+    "srcset": [
+      {
+        "src": "/uploads/c73691f24bdfe47115f1c61969d177b6.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/54e4662277c0577d9605cbd8b35e0e7e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/717b9cc6eddfb224e0aaeb1caa0e8fe0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d05044b5bf420d84b315a29a0dd520c0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 226,
+    "originalFile": "original_images/camp_construction_2008.jpg",
+    "alt": "Camp construction. Learning carpentry, roofing, siding...",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/9d2e2f8a9b320f455eafca1e553cf6dd.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/07638c6a8e8f3754b893f89a6fcb3736.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6282a4501cad1cf6954787f6ee1aa490.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fba2aca8c2b2b8d0449fbbc086c45773.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 227,
+    "originalFile": "original_images/camp_zipline_tower_construction.jpg",
+    "alt": "Camp zipline tower construction",
+    "width": 663,
+    "height": 805,
+    "srcset": [
+      {
+        "src": "/uploads/32dace2538725d1be0a48452da18279c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b5c6ad22ee25dbafd68d6ecabdc2471a.webp",
+        "width": 805,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e74268c0d28fbcb8343a242b853818f5.jpg",
+        "width": 805,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 228,
+    "originalFile": "original_images/renovation_joseph_joel_game_room.jpg",
+    "alt": "Renovation of the game room",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/722b6f04271185e66cd8467e2627c8ac.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/af6298165393ea40a3f30a827d0ce37a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cfd81536e7397e3a742159e6c409b6fa.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/00eacbc2b5412997b68c771a12884892.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 229,
+    "originalFile": "original_images/renovation_front_wall.JPG",
+    "alt": "Renovation of the front wall",
+    "width": 4320,
+    "height": 3240,
+    "srcset": [
+      {
+        "src": "/uploads/8444baf0ba5684049edb89e3b81538c0.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6dbd1572acd045320caf01947f0b5468.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/46d16f4620a77d7264eeb3a47bf5751c.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/742adbf46b5fa9259d8e7adefd43c377.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 230,
+    "originalFile": "original_images/renovation_nfront_door_floor_removal.jpg",
+    "alt": "Demolition and reframing...",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/91ef1a44ec5cc783ac1a4d0de65c92ea.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/67532fba4f7cc0b41aefd9027f342187.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ef9271decf40b41cd8e81f2e9505438d.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/31d20f90263f4ca76b5e672f3361620b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 231,
+    "originalFile": "original_images/renovation_Swift_St_door.jpg",
+    "alt": "Door installation where no door existed",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/0b7d06d4f75a43daf78c206549faffa3.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d19882702e28b231f6c59714b48b00c8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7393783dd12f38bc2169f0af0646085f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0e7ab579b0cb76d33234dd8a83975b25.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 232,
+    "originalFile": "original_images/camp_koinonia1_2010.JPG",
+    "alt": "Camp groups",
+    "width": 3264,
+    "height": 2448,
+    "srcset": [
+      {
+        "src": "/uploads/8bc2c2cc17dc14f5345968b0b2bc3fcc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e04ae95260612e6efb088d7b57222d75.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/da3608f76376698e7f5e84f44eb9cdb1.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/deeee466809c3c0e75582ac07e737f89.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 233,
+    "originalFile": "original_images/camp_zipline_girl.jpg",
+    "alt": "Camp zipline",
+    "width": 3264,
+    "height": 2448,
+    "srcset": [
+      {
+        "src": "/uploads/46d2ddbc5f5c7d6583a919eb4d388415.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a207547e324674b30d941892957f1a2f.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b55062e54398bb0cbcb32b1250523a39.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bf2c49264030318799fa85b033c0037c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 234,
+    "originalFile": "original_images/camp_koinonia.jpg",
+    "alt": "We are still working on beds",
+    "width": 3264,
+    "height": 2448,
+    "srcset": [
+      {
+        "src": "/uploads/709b5a90310093acc70de50f9c4a412c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c30d5ccd948abfee8f4c1b91ecb71223.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/775bcc99a131b42da7ec914d875ace16.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2476d41c2400e3800367d89d474b2cf7.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 235,
+    "originalFile": "original_images/tc_group_circle_discussion.JPG",
+    "alt": "Teen center location from 1995-2012",
+    "width": 931,
+    "height": 768,
+    "srcset": [
+      {
+        "src": "/uploads/19d855f972e816b9412fb705ba209f65.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3a872238ce32ab4fba30bb8b4b5965c1.webp",
+        "width": 931,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d8bd0004fdcf37a796b37f7a6d62d15e.jpg",
+        "width": 931,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 236,
+    "originalFile": "original_images/tc_second_location_pool.jpg",
+    "alt": "Pool tournaments have been a regular activity for 30 years",
+    "width": 611,
+    "height": 390,
+    "srcset": [
+      {
+        "src": "/uploads/0bcb2418144e80bc773df3d6611ad206.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/33ac559b7d631a129e1dd46dcd67586a.webp",
+        "width": 611,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f8c5c496bda2d9ef45e3f60f7ca1819f.jpg",
+        "width": 611,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 237,
+    "originalFile": "original_images/halloween_concert_crowd_best.jpg",
+    "alt": "halloween concert crowd best",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/a8f89d0c3f9b49c6d2b57fb9640c0d91.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d9cacb70dfc7a33a93c0f0cf51032d5a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58863f61d86b0d79e9ac187b886b6996.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 238,
+    "originalFile": "original_images/halloween_concert_crowd_best.jpg",
+    "alt": "halloween concert crowd best",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/a8f89d0c3f9b49c6d2b57fb9640c0d91.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d9cacb70dfc7a33a93c0f0cf51032d5a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58863f61d86b0d79e9ac187b886b6996.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 239,
+    "originalFile": "original_images/halloween_concert_rear_stage1.jpg",
+    "alt": "halloween concert rear stage1",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/fbe901cd68dda8fe0a8fcc27448ea9a5.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/57cdcb25c1fe346fc1b515bae2c0903e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5ac93f7965965d1f73229f226221d2e1.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b108d95acbcb5a3205db16d1d090e2ea.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 240,
+    "originalFile": "original_images/halloween_concert_crowd3.jpg",
+    "alt": "halloween concert crowd3",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/25f0a9c0fcd08f24123b98f46e349bdb.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c6201d4b3b6ad081821b32b7e9f09c9a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f117ecd7260775cd538c5670f0390a75.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ff0aa9f2999381852b59da954f4b254.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 241,
+    "originalFile": "original_images/concert_rear_stage1.jpg",
+    "alt": "concert rear stage1",
+    "width": 1267,
+    "height": 950,
+    "srcset": [
+      {
+        "src": "/uploads/2519e8f643f40123e072da4df3a335fd.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3174894456e99cd8a1f6133e125ac663.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2bd60a98205f309cf69be6b50adb9b24.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1e8bc1beb2572690d7c2a1f6debf8a9c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 242,
+    "originalFile": "original_images/halloween_concert_crowd_best.jpg",
+    "alt": "halloween concert crowd best",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/a8f89d0c3f9b49c6d2b57fb9640c0d91.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d9cacb70dfc7a33a93c0f0cf51032d5a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58863f61d86b0d79e9ac187b886b6996.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 243,
+    "originalFile": "original_images/pool_table_crowd_2022.jpg",
+    "alt": "pool table crowd 2022",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/43d4da4d74e5b3c74bdb9eadad65b946.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b495d5074dda5fc4f655322a90d22e18.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7d2d505e8da519c699836d24a25b4819.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a54d6fdd1d47e9681a31dddf32491646.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 244,
+    "originalFile": "original_images/foosball_basketball_crowd.jpg",
+    "alt": "foosball basketball crowd",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/e91a3cc72598801d577fd8bc28e521f7.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ffbb0ecebec0a75e2d0f98f7815b98d3.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/db980a4879055b13c0a23e688b6355ed.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/418d58df14358ebf9e4c54bbf6799e59.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 245,
+    "originalFile": "original_images/gameroom_from_outside.jpg",
+    "alt": "gameroom from outside",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/c364668df34f0c7a35902da252edbf77.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/836f46db3b972ef9f7d09d4bb421cf7e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b6d1949569bf77bf76c024d7b36beb07.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8dfd335ed7b338f1bc8a4bc717b35f8f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 246,
+    "originalFile": "original_images/game_on_the_floor_and_chess.jpg",
+    "alt": "game on the floor and chess",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/154a0fa8450e87b00ddeb2020f0f2794.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4011ada9c9d87a9dddafd73a3a3dca92.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9bf204b523c9f60cbb78bcfa25cb4108.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b6f23334fdd4bcb8a521b5a17aa611d7.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 247,
+    "originalFile": "original_images/countertop_karaoke.jpg",
+    "alt": "countertop karaoke",
+    "width": 1382,
+    "height": 878,
+    "srcset": [
+      {
+        "src": "/uploads/5ae85b9e9cd52a7ae9ad22c638114643.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f5340f493b2dd19fd68eb952ef5471e3.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ba0e9abecd655f1f972d1f662761aad5.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8c5d5497448a92e793a5f82caaf2541c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 248,
+    "originalFile": "original_images/racers_on_wall.jpg",
+    "alt": "racers on wall",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/c940c427625c27780e604b33096ce097.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/719fb8f1d10cde054dd9fa4cfdedc584.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bcd0e25135e8d278ed4aa24c1b5d35bf.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/938e76bd1cd86a18687b2ec72a493e8c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 249,
+    "originalFile": "original_images/girls_at_counter_2022.jpg",
+    "alt": "girls at counter 2022",
+    "width": 1099,
+    "height": 878,
+    "srcset": [
+      {
+        "src": "/uploads/b44119e196d0ed10d7d2b0fa05457191.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d12906755e3b2540d4aa8bb56b5555b4.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/743d694a8bf7602495152f91a97cabe2.webp",
+        "width": 1099,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/19b40ee54878f04f6083ceb903f7f58b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 250,
+    "originalFile": "original_images/halloween_concert_crowd_best.jpg",
+    "alt": "halloween concert crowd best",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/a8f89d0c3f9b49c6d2b57fb9640c0d91.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d9cacb70dfc7a33a93c0f0cf51032d5a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/58863f61d86b0d79e9ac187b886b6996.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 251,
+    "originalFile": "original_images/halloween_concert__guitarist_rear_stage2.jpg",
+    "alt": "halloween concert  guitarist rear stage2",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/54d1f9f686258b7e38aa3160533575de.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/468fbfde42be9414e4d02eb52dd20825.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2b779f1d0a427a7bc5a57b805478a941.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/469e279ff377b5e3882c4dc0dab4ac02.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 252,
+    "originalFile": "original_images/halloween_concert_crowd_outside1.jpg",
+    "alt": "halloween concert crowd outside1",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/e52fe946e7623075eeed0eff2b2e25da.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c77656e33c862200648faf7613e0ebf7.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/57593aedd81ca5ec03148fd8303e9c24.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b1e1014a66e4fdd5590a9e155bc478f4.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 253,
+    "originalFile": "original_images/halloween_concert_crowd_playing_guitar.jpg",
+    "alt": "halloween concert wide frame pic",
+    "width": 1300,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/c717b9a2a84041f0fe6a58c110e4f40c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/55e80ec121804ef0b67f463a5267cc63.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/35d26d98802e4cd83e3bddd1c695d30e.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0ee7286b69e0990196241d74340dd232.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 254,
+    "originalFile": "original_images/game_on_the_floor_and_chess.jpg",
+    "alt": "game on the floor and chess",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/154a0fa8450e87b00ddeb2020f0f2794.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4011ada9c9d87a9dddafd73a3a3dca92.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9bf204b523c9f60cbb78bcfa25cb4108.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b6f23334fdd4bcb8a521b5a17aa611d7.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 255,
+    "originalFile": "original_images/pingpong_checkers.jpg",
+    "alt": "pingpong checkers",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/f77c05f666397f09ba48508bf2a71ce4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cc08bc7510d49b01379f9f2c18c35219.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/04137a23dc4dba1919220b99b30e531e.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/dd08fc8c0fee88ff79c3779a4aaed795.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 256,
+    "originalFile": "original_images/chess_tournament_4_tables.jpg",
+    "alt": "chess tournament 4 tables",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/c6bd7ea023737352d812ed2f6a5fe39d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0b652d9c6fc5ec4a23c429e4d5895a2e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/688907a06941ef064d2ae29b65edd8c7.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b740bce6f931c9ec2c87270661446ffc.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 257,
+    "originalFile": "original_images/video_bigscreen.jpg",
+    "alt": "video bigscreen",
+    "width": 1160,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/d1bd8679ee3340779829b8eccaacff0d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d7cb557cf744ee6b00d83c129d97c1ea.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0ce84b6e624430e0451c5ce7b2b010e0.webp",
+        "width": 1160,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0b57157d07bfed0b5dc45a18c5fe273e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 258,
+    "originalFile": "original_images/art_over_windows_art_side.jpg",
+    "alt": "art over windows art side",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/315daf6028c79e6b6c2a0de9ac1bacaa.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8341f9656c8c5595afa11447cdb696dd.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3d9f037dc799d56a1e38fcd2d91f1da1.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fe56cfcc2a5ba14f697d138c464b4d3b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 259,
+    "originalFile": "original_images/halloween_concert_crowd3.jpg",
+    "alt": "halloween concert crowd3",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/25f0a9c0fcd08f24123b98f46e349bdb.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c6201d4b3b6ad081821b32b7e9f09c9a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f117ecd7260775cd538c5670f0390a75.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ff0aa9f2999381852b59da954f4b254.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 260,
+    "originalFile": "original_images/pool_table_crowd_2022.jpg",
+    "alt": "pool table crowd 2022",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/43d4da4d74e5b3c74bdb9eadad65b946.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b495d5074dda5fc4f655322a90d22e18.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7d2d505e8da519c699836d24a25b4819.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a54d6fdd1d47e9681a31dddf32491646.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 261,
+    "originalFile": "original_images/basketball_game_Ashton.jpg",
+    "alt": "basketball game Ashton",
+    "width": 1163,
+    "height": 878,
+    "srcset": [
+      {
+        "src": "/uploads/3ec3816b71466b624faa8d5860c927cf.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9b9e09d8dc345161599375316b114e0e.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/31aa3c09658473a404f372fd72063b6a.webp",
+        "width": 1163,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9beda4be397f8faa4c509b3f6af2b38d.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 262,
+    "originalFile": "original_images/foosball_basketball_crowd.jpg",
+    "alt": "foosball basketball crowd",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/e91a3cc72598801d577fd8bc28e521f7.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ffbb0ecebec0a75e2d0f98f7815b98d3.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/db980a4879055b13c0a23e688b6355ed.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/418d58df14358ebf9e4c54bbf6799e59.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 263,
+    "originalFile": "original_images/pingpong_girls.jpg",
+    "alt": "pingpong girls",
+    "width": 1131,
+    "height": 878,
+    "srcset": [
+      {
+        "src": "/uploads/5da23fcdfa1e21c494662c55980fc473.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d89709570d5cdbe411c2f9f0118f02fa.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7f02ea9bc05abc4155c90b925136cbef.webp",
+        "width": 1131,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6ab9bd751fd30e01c3fc29579899091e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 264,
+    "originalFile": "original_images/bumperpool_foosball.jpg",
+    "alt": "bumperpool foosball",
+    "width": 1243,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/5a0f4da16ca4a66960e2f2bf11f8ac93.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9b57b515f92d6e2a5efccfaaa76f1ba3.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b7cec72727929b9a6f2133872bd7db14.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/da15118fea880941e056a5a11d6bd72a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 265,
+    "originalFile": "original_images/8_ball_break_chart.jpg",
+    "alt": "8 ball break chart",
+    "width": 659,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/101f9367fe2d06b749e3b8ee4ccd14bd.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8442396f4f4ef7793485be25c5877163.webp",
+        "width": 879,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ffaa1783112054efb582ddd6f2c147c.jpg",
+        "width": 879,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 266,
+    "originalFile": "original_images/brennon_ashton_kitchen.jpg",
+    "alt": "brennon ashton kitchen",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/e8851d812032751ddb2b29bab65bc045.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/da0501758e97d31d42d71605db9ebafb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/90693333e5e15910707a6d56fa15b408.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/37c947130141789a1963361185ad2025.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 267,
+    "originalFile": "original_images/brennon_ashton_kitchen.jpg",
+    "alt": "brennon ashton kitchen",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/e8851d812032751ddb2b29bab65bc045.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/da0501758e97d31d42d71605db9ebafb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/90693333e5e15910707a6d56fa15b408.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/37c947130141789a1963361185ad2025.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 269,
+    "originalFile": "original_images/kitchen_thumbs_up.jpg",
+    "alt": "kitchen thumbs up",
+    "width": 850,
+    "height": 950,
+    "srcset": [
+      {
+        "src": "/uploads/077a56d419c21255ece4b29db662143f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0f3d64b27ac77354b6d49d5e3430a0be.webp",
+        "width": 950,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/116b8b8bd69d0fd3369de51b91d4140a.jpg",
+        "width": 950,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 270,
+    "originalFile": "original_images/kitchen_cal_mariah_friend.jpg",
+    "alt": "kitchen cal mariah friend",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/08a753461e3c41d62aaef3defbf7728d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b94c5aac8501b6793c2bcc0034b4f0cb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ae8257dd97b248a7f598d4185e64d8f.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cfb4e8e60340af4d1b7eefcb415ebe44.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 271,
+    "originalFile": "original_images/kitchen_cookies_3_girls.jpg",
+    "alt": "kitchen cookies 3 girls",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/67fb09b9f03b2acb283af60f55cbe5ee.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/60ac94f7814580630468815e4e4650ad.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/428f73d1c923d4b59f716050c92216d7.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fe060d5d373bbf89883d6707e69cff06.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 272,
+    "originalFile": "original_images/kitchen_birthday_cupcake_Jacob.jpg",
+    "alt": "kitchen birthday cupcake Jacob",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/cbb757b47acb70a3f88811a008766c4c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/91c377f0bff9bce5120bb258c285b07a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e9a642cc25a8ab7fd12aad801d995b88.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9eaa974712adb7a2777655d07bf9d734.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 273,
+    "originalFile": "original_images/tc_view_from_east_to_west.jpg",
+    "alt": "tc view from east to west",
+    "width": 1260,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/cf90d4a74b68c276b008c240fbbedc4a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/46b50b9f7d1145dfd934bd7c42d8bfb7.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1be6aa64d830675db04322d92fdd41a0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4a014102c41fe631a8df3bd8be59351a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 274,
+    "originalFile": "original_images/video_stage_dart_bd_ping_pong.jpg",
+    "alt": "video stage dart bd ping pong",
+    "width": 1103,
+    "height": 878,
+    "srcset": [
+      {
+        "src": "/uploads/ba8b9a1d4ec7408be3d871c94e3963cb.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b982f99729fcda65ada11edba32cf92a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/426e01e21867f2bbed20b5c2c172fdb3.webp",
+        "width": 1103,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0d28f899b07c7530a2e6435665b97393.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 276,
+    "originalFile": "original_images/band_crowd_facing_south_from_stage.jpg",
+    "alt": "band crowd facing south from stage",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/d74c76733a7ff4ca2e7771fdaed6a66a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8407ddb226492b7dfe8bf4b8719762cf.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6dd175a6e864f220eed9632b39012e64.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c9b3a0f2230776d2bdc64a11df1fcd5e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 277,
+    "originalFile": "original_images/racegame_Matthew.jpg",
+    "alt": "racegame Matthew",
+    "width": 964,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/363a1fb680b6763d950b4052c938eb1b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5f3f13a9792d4fa9f4c8b55afd51f0bb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c3bb79d6ff9254b983232d5454351700.webp",
+        "width": 964,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c7786c6ae96be637aac2db30fef9879e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 278,
+    "originalFile": "original_images/camp_atvs.jpg",
+    "alt": "camp atvs",
+    "width": 1172,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/3f70941f07bc599a6f3fdbe763f9b210.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/670d36f0e20ee225631789651d21758b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a636260efd58f354d65fcf9432e58ffa.webp",
+        "width": 1172,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8f4bf52fc2764fcdbebb25a612bd7f0b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 279,
+    "originalFile": "original_images/recording_studio_window_foam.jpg",
+    "alt": "recording studio window foam",
+    "width": 1552,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/fc9609f506cfc917014a26c9a85c9d8d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0bd969ed47a179deba23bd17e10d462c.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/302dfa375e7c85c1076153bcec72a506.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4ab06bb00f64dbbf2a6806c0d385a58e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 280,
+    "originalFile": "original_images/recording_studio_Clayton_floor.jpg",
+    "alt": "recording studio Clayton floor",
+    "width": 655,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/c2efc04341c4d10da879ad0726487adc.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/acde5129efbbbf8844ea30d385b8eeb3.webp",
+        "width": 873,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6901fc024aaedb270c2ce35608786f7c.jpg",
+        "width": 873,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 281,
+    "originalFile": "original_images/recording_studio_Clayton_Joel_TJ.jpg",
+    "alt": "recording studio Clayton Joel TJ",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/0ff9b50ecd910e51e16864a3f180a299.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f7ad73865adf020bc02cdc46df8f19c2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8c4e8f4b153c9ed725fc37f2868d0a1a.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4d9766397a1a95e33d30670b9cdc8fc4.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 282,
+    "originalFile": "original_images/recording_studio_Joel.jpg",
+    "alt": "recording studio Joel",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/033db1daf54a9733b01e4e7c5a90cc84.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/29f91d11fc99381372a4225f5092a152.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e5b24a2d40efc723932c124365a0b95f.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/952a3997ae9debbc3a04ce680db4a911.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 284,
+    "originalFile": "original_images/renovate_floor1.jpg",
+    "alt": "renovate floor1",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/cb1032020cc0cef29a834d7fd9c823bb.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c7116e4ec8580a50a7eec46c62de58fd.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e439a08eb1dd5d89754f863275cb9641.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/dc5bad960d23df4ae155a39398c31237.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 285,
+    "originalFile": "original_images/renovate_front_wall.jpg",
+    "alt": "renovate front wall",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/673202ac5acb5c0619385f57f2295a22.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2f60741d1d52562711fbbdb57bd5c5db.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4825f3a1bed7053f883f8c935eafaac2.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7ffffa197b6de8a11f343a6a6cc096cf.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 287,
+    "originalFile": "original_images/renovate_trim1.jpg",
+    "alt": "renovate trim1",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/dedba21cc480a3d03cabe643dc870bc7.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bb9361ad4447d516a4fa9ab45c52f922.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/580ccf02bae6136387f89fd1e744e0d3.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c686d5bb59cced489b5df24c7496e0a6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 291,
+    "originalFile": "original_images/renovate9.jpg",
+    "alt": "renovate9",
+    "width": 200,
+    "height": 200,
+    "srcset": [
+      {
+        "src": "/uploads/3696fee4ee447ae7cb438e863b092abd.webp",
+        "width": 200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4eb761394e90d083b26edaada6582daf.jpg",
+        "width": 200,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 292,
+    "originalFile": "original_images/renovate_game_room3.jpg",
+    "alt": "renovate game room3",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/193ecdd783db4a41423de57d70d3fdfa.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/42b128a97fdd3e8f942011750f817f7b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8f152300f90028f2a94e709beb7f31ee.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/657f3e47045fcd0559a04b85e5c3986c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 293,
+    "originalFile": "original_images/facade_demo.jpg",
+    "alt": "facade demo",
+    "width": 200,
+    "height": 200,
+    "srcset": [
+      {
+        "src": "/uploads/3af164d5ce99de50527e6873b1ba4722.webp",
+        "width": 200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3469f627839bd15f40d1f8dc1b1a81c2.jpg",
+        "width": 200,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 295,
+    "originalFile": "original_images/facade_os19.jpg",
+    "alt": "facade os19",
+    "width": 1280,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/d517256422856dc6d20a345480a66f06.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f401e32a9a1b6358806dc962ce25544a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9c239982bbcb77bf29299489ca2b07a1.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d55f0460377f4348c890e4ea392c04ef.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 296,
+    "originalFile": "original_images/facade_os15.jpg",
+    "alt": "facade os15",
+    "width": 717,
+    "height": 960,
+    "srcset": [
+      {
+        "src": "/uploads/eff415897d86b2016f7867db45a1ccc9.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/96a64fb476be07997e5341fc049a0546.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/fb9cfef76321356ba22c671ebca2869f.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 297,
+    "originalFile": "original_images/etc_front_facade_repaint.jpg",
+    "alt": "etc front facade repaint",
+    "width": 1164,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/3ab0c2fd123c26a719f6b38c347753b4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1248a482c90fa15477f9d528f108f1c9.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3190a0bd774822c10ef5a589b96b176e.webp",
+        "width": 1164,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4de798767e9af167f897c7b84f99d11e.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 301,
+    "originalFile": "original_images/teens_pool.jpg",
+    "alt": "teens pool",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/352f1fe54d39bdc65a68f3b0f9c6bc4b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5faceb35cc2e8bc55c591f882e817094.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f1e5d8d9d6fb68ccf62a7c22d9a0298d.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/714199129c052ef02721312056092b4b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 302,
+    "originalFile": "original_images/Dave_Toni.jpg",
+    "alt": "Dave_Toni",
+    "width": 165,
+    "height": 117,
+    "srcset": [
+      {
+        "src": "/uploads/0ab35d8378d9b2848b53784ec8eaa7d2.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7761e3f833b825dd0b57b1167e523259.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e4d5e09b78fb056abc9152880f866b36.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 303,
+    "originalFile": "original_images/brennon_putting_rails_on_pool_table.jpg",
+    "alt": "brennon putting rails on pool table",
+    "width": 2048,
+    "height": 1536,
+    "srcset": [
+      {
+        "src": "/uploads/48dcec286ac97680f090f09b9040e705.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/913cde85ad5a04069c1b200eb7999ed5.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/d8c6380ca84b7519cbc683ee529cf344.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7642867d00c8420ef80604f9586a4a2c.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 314,
+    "originalFile": "original_images/gameside_2023_southview.jpg",
+    "alt": "gameside 2023 southview",
+    "width": 1290,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/36b733c1dd6bf378d9c64962d2ad0206.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b6c0ac9fff1f48292dbd009d5d8a237a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/533cc956d79f8d6ae20aafc195c9280e.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e48ca752f5f5244103ee1ba2d7bf0dc.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 327,
+    "originalFile": "original_images/pontoon_deck_replacement_Rick_Brennon_Ashton.jpg",
+    "alt": "pontoon deck replacement Rick Brennon Ashton",
+    "width": 1245,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/20156ddbb4f7e6a5b78fa638cb0f773e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/892f925499064e18e5c7c86dce6b49e6.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cfa962960b7e91fd4a5534e80223ec5d.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a90e7a4a06a193927c35c0a64b1d2dd0.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 328,
+    "originalFile": "original_images/pontoon_spreading_glue_Rick_Ashton_Alex.jpg",
+    "alt": "pontoon spreading glue Rick Ashton Alex",
+    "width": 1310,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/1605a7ea66ba16825a086160470bf40e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c7c7b12a7021cf88c9bcf8b7f813befb.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a65439dc6a85540f225a5f322252cb90.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d15a05bde095d9df58e7aedce55c326.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 329,
+    "originalFile": "original_images/pontoon_complete_with_bamini.jpg",
+    "alt": "pontoon complete with bamini",
+    "width": 1310,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/4170ccc334a49ccaaf20445190770a9d.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b2fa92c2a36ef910a307f69a4ae55179.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/86a3686287e5f19f90a1821e7d3169b8.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ad04cf50b6acc5136cffc0b60b58b7aa.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 330,
+    "originalFile": "original_images/refelt_pool_table_Wyall_Aiden_Brennon.jpg",
+    "alt": "refelt pool table Wyall Aiden Brennon",
+    "width": 1310,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/e1924a90acc6dbff4bbe570fbbd37d23.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c7cd14ca6d67cb6725e5b9ba6ce99e32.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1cfcfbed2982d3b524c6014079e63acb.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f6be21d2eff8c1af856805bbac83f86b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 331,
+    "originalFile": "original_images/refelt_4_pool_tables.jpg",
+    "alt": "refelt 4 pool tables",
+    "width": 1310,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/6ffec4a268fc4adc116183b1bff737be.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8e42e9848175db3a39a0e372de82e864.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/24a6e24dcd71c18660de5a0fd3793b7f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cef2a1e4797193bb8d3074a863dfc6a6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 336,
+    "originalFile": "original_images/camp_campfire_Jim_Ashton_EXWBXVQ.jpg",
+    "alt": "camp campfire Jim Ashton",
+    "width": 990,
+    "height": 983,
+    "srcset": [
+      {
+        "src": "/uploads/9d2792a1e7a74008e2f066a673ed1ca4.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/10097365d55fadc9f9e19afd6973b3c8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/cc9700017c9b03c84b65c247e6d24a2e.webp",
+        "width": 990,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/131f7768a1722965113cb3f9b451f55a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 337,
+    "originalFile": "original_images/camp_keith_tyler_nick_front_porch.jpg",
+    "alt": "camp keith tyler nick front porch",
+    "width": 1137,
+    "height": 640,
+    "srcset": [
+      {
+        "src": "/uploads/d33222844b614490dd20995cde151e60.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/794c1f3bba42399d2db04e674869f0e4.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/63e7b100ac8d4644e93fb4582eba162d.webp",
+        "width": 1137,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e921868a32a22a07fce2c0999d184dde.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 338,
+    "originalFile": "original_images/camp_group_atv_pic_3qEcZC3.jpg",
+    "alt": "camp group atv pic",
+    "width": 1920,
+    "height": 938,
+    "srcset": [
+      {
+        "src": "/uploads/010ffda1654fb90ad7026359432d4d01.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/901db6ea522c02883bad4d3d3eb2cac4.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c8b3cabbde622d33498110de413d8aef.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ef5f45d2ba03df5e230446fce46c8eda.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 339,
+    "originalFile": "original_images/david_clayton_joseph_dirtbikes_camp.jpg",
+    "alt": "david clayton joseph dirtbikes camp",
+    "width": 1330,
+    "height": 919,
+    "srcset": [
+      {
+        "src": "/uploads/ca8b78e085189b81515038b6988ca352.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9e601e1dba5994e349d30741c57a82d2.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bb85948164fdcf5ad5a9a3108e3a9f3f.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/edc3018c19c0b2f73929efbb6ae68868.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 340,
+    "originalFile": "original_images/camp_group_atv_pic_aDdlMts.jpg",
+    "alt": "camp group atv pic",
+    "width": 1920,
+    "height": 938,
+    "srcset": [
+      {
+        "src": "/uploads/010ffda1654fb90ad7026359432d4d01.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/901db6ea522c02883bad4d3d3eb2cac4.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c8b3cabbde622d33498110de413d8aef.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ef5f45d2ba03df5e230446fce46c8eda.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 341,
+    "originalFile": "original_images/camp49.jpg",
+    "alt": "camp49",
+    "width": 200,
+    "height": 200,
+    "srcset": [
+      {
+        "src": "/uploads/63eae002b2ba2359d81ee7da6a1f4164.webp",
+        "width": 200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8c70fa9b4c1389bc76c1a9ece26f5bf2.jpg",
+        "width": 200,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 342,
+    "originalFile": "original_images/camp17.jpg",
+    "alt": "camp17",
+    "width": 200,
+    "height": 200,
+    "srcset": [
+      {
+        "src": "/uploads/5865a7e93bb44bdae5149c159953a2e0.webp",
+        "width": 200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1ab44e9d6eb16e978076ee5c6fc480e1.jpg",
+        "width": 200,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 344,
+    "originalFile": "original_images/camp_stream_frozen_2020.jpg",
+    "alt": "camp stream frozen 2020",
+    "width": 1552,
+    "height": 873,
+    "srcset": [
+      {
+        "src": "/uploads/e06ebb3db7a9066b3ee754744c12659c.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/32224f32c4d266d2eedee3fe88807344.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/f5cc352d0a5f7f2a0ba966a3ab179c3e.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/064a7441298b66e09f3982b7aa3590c1.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 348,
+    "originalFile": "original_images/camp69.jpg",
+    "alt": "camp69",
+    "width": 960,
+    "height": 540,
+    "srcset": [
+      {
+        "src": "/uploads/c89b1fa20a4f4ae1cfc3d27c8be90e56.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/28efc813777e78f08894a3d511cd1f90.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/a0190b03d8aef418cfb0d738935738da.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 351,
+    "originalFile": "original_images/tc_view_from_east_to_west_pJ0BOZc.jpg",
+    "alt": "tc view from east to west",
+    "width": 1260,
+    "height": 879,
+    "srcset": [
+      {
+        "src": "/uploads/cf90d4a74b68c276b008c240fbbedc4a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/46b50b9f7d1145dfd934bd7c42d8bfb7.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1be6aa64d830675db04322d92fdd41a0.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/4a014102c41fe631a8df3bd8be59351a.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 352,
+    "originalFile": "original_images/halloween_front_wall_2024.jpg",
+    "alt": "halloween front wall 2024",
+    "width": 1618,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/ee8ceb74d50dbc6501519e2a3abe041b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0fff2fa654bdcfde175c16869ab7ede1.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/dbfa6f2de87d04cf68f66580b716498b.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8b2b0116f9a136b106302dd0c49f0a61.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 353,
+    "originalFile": "original_images/casino_night_room_pic.jpg",
+    "alt": "casino night room pic",
+    "width": 973,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/dfbd29ccd79caa561c7e9ade110a4e42.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/6f38dfddb600fcfa3e1c27de49e2045b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9ce202de15d819a14e0bcdc816d08fa2.webp",
+        "width": 973,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b452bfad3f61ab9eeaa727a2f80e2953.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 354,
+    "originalFile": "original_images/casino_night_roulette_ashton.jpg",
+    "alt": "casino night roulette ashton",
+    "width": 1293,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/1e9aef3c2fe415e60387df031693c187.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/64216dd86ca310f44fbfaac195d0bb2b.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/3e9fd67b23e0621d4d9fe3e0c5abddc8.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c5d96eb0c50421f00287f9a3ef7b6162.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 355,
+    "originalFile": "original_images/medieval_teens_with_candles.jpg",
+    "alt": "medieval teens with candles",
+    "width": 991,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/b1b203807242e45a09944c02c0406411.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/042d79e2840920dcec8a2870a86f8d2a.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2635faa5a585138596f55e20a21dbe73.webp",
+        "width": 991,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/2a26aabcb14689d955b049de5760227b.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 356,
+    "originalFile": "original_images/indoor_putt_putt.jpg",
+    "alt": "indoor putt putt",
+    "width": 788,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/bcbd332123ac0d8c0c259f3985397b8e.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/ad583103ebacf9696159083d9b819dcc.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/476b04fe240dd406189ef7503e24262b.webp",
+        "width": 973,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/96b3d6c53e49bf5403d1375d07d1dd58.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 357,
+    "originalFile": "original_images/halloween_booths_2024.jpg",
+    "alt": "halloween booths 2024",
+    "width": 733,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/eda40d38c0dc19c1caebb73519f7ad59.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/5d9bbefdd02276e19739828b4ca56efa.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/e7c780e348ea19a9a797db66e0444b69.webp",
+        "width": 973,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7425faf832d3ee83c35b69cf7c383ed9.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 358,
+    "originalFile": "original_images/halloween_booth_2024.jpg",
+    "alt": "halloween booth 2024",
+    "width": 1068,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/4fa04eff972ff41fec8dd80cdc6d49e3.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/38b43e35be28a1bc8db5b0c57af84782.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/7d8bbed75b7a3c73fec7caf217a27364.webp",
+        "width": 1068,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/9ae520071a97c536eb81b3f2fb367f51.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 359,
+    "originalFile": "original_images/halloween_pool_tournament1_2024.jpg",
+    "alt": "halloween pool tournament1 2024",
+    "width": 1276,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/7af6955d98380383416ea9ccfb0afa30.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/b021b9956cf86284891305074840a9c8.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/82f554965ee27aef6168cecb9079f3dc.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/c6c02bd77affd762fcaddf02ef47f444.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 360,
+    "originalFile": "original_images/pinball_and_basketball_games_2024.jpg",
+    "alt": "pinball and basketball games 2024",
+    "width": 733,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/7586c5bece061d6a4360dbc8469ae03a.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/bea3f61d11097b8ed057a1d64cae2518.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/07cc5df012d3e64f82c599284e6768e3.webp",
+        "width": 973,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8d8555c18b9d6234dc7985b89a89b3d6.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 361,
+    "originalFile": "original_images/halloween_front_wall_2024_WpU6fOK.jpg",
+    "alt": "halloween front wall 2024",
+    "width": 1618,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/ee8ceb74d50dbc6501519e2a3abe041b.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/0fff2fa654bdcfde175c16869ab7ede1.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/dbfa6f2de87d04cf68f66580b716498b.webp",
+        "width": 1200,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/8b2b0116f9a136b106302dd0c49f0a61.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "wagtailId": 362,
+    "originalFile": "original_images/halloween_chess_tournament_2024.jpg",
+    "alt": "halloween chess tournament 2024",
+    "width": 733,
+    "height": 973,
+    "srcset": [
+      {
+        "src": "/uploads/c2810a345c6ed3e436cbe422d3a46e9f.webp",
+        "width": 480,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/745495a404be4f980f5a1c5c771bf293.webp",
+        "width": 960,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/82bedfa0c905f627494d9ca0c225e3a9.webp",
+        "width": 973,
+        "type": "image/webp"
+      },
+      {
+        "src": "/uploads/1d78bb106637c901c139ed2b3f862f50.jpg",
+        "width": 960,
+        "type": "image/jpeg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "Site information",
+		"siteName": "We Value Teens",
+		"tagline": "Edgerton Teen Center · since 1993",
+		"hours": "Friday & Saturday 6:30–9:00pm, ages 13+",
+		"addressLine": "204 W Fulton St",
+		"city": "Edgerton, WI 53534",
+		"phone": "(608) 884-0173",
+		"donateUrl": "https://www.paypal.com/donate/?hosted_button_id=4NV83ZF2FFM28",
+		"facebook": "https://www.facebook.com/EdgertonTeenCenter",
+		"youtube": "https://www.youtube.com/channel/UC1aZWnjmJgqRahU0u97xZ9g/videos",
+		"instagram": "https://www.instagram.com/edgertonteencenter/"
+	},
+	"content": []
+}

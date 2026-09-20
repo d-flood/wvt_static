@@ -1,0 +1,1379 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "Programs"
+	},
+	"content": [
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "2e871734-4bc7-599d-901e-c7185f386c3a",
+				"title": "Recording Studio",
+				"image": "/uploads/14c411019d2587d5c49e6dde7af32633.webp",
+				"alt": "A teenager working at the recording studio mixing desk"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "97a567ef-121c-5ca6-bf68-aad3cb344ed3",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Non-Toxic Studio"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "7f0a42be-aeba-57c8-96c3-93af7ddd4078"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The Recording Studio is open to Edgerton area teens."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "88ee8ea1-cfd2-51ff-8a43-6f24ce159486"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Clayton decided he wanted to donate his equipment and build a studio at the teen center so with the help of many volunteers the work began. Some three years later we are ready to begin recording. The process has been arduous and after several fundraising programs and generous donors stepping up (thank you Gifts for Kids and Nelson Young Lumber Co.), we were able to finish sound-proofing and enclosures. Like every program, we constructed the studio from scratch. We found a suitable space, demolished what was unnecessary and created what was necessary. We have the best teen and adult volunteers on the planet!"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "78b9458c-4724-568d-a701-87e9f42ee9af"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Local teens may use the studio for free and ALWAYS by appointment."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "cecf4383-5f7f-54ed-bb9c-dee02d3c56a1"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "We are thankful for our funders and volunteers who created the recording studio.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "edf91d7d-e607-59d1-a0af-a30fc8feb44b",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/a3c87eba11177b8a393466d8a71f5688.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/14c411019d2587d5c49e6dde7af32633.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/c62e8659cd23e2df30d21f1496d10a9a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/d0bc06d8f9f12e55e0b3698464e5da94.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/0e6a6cba6a9c44a5e719ceb73d3003bf.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/acde5129efbbbf8844ea30d385b8eeb3.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/8c4e8f4b153c9ed725fc37f2868d0a1a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e5b24a2d40efc723932c124365a0b95f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/c91168dc9e0f5f63020b8aa0a4f589c5.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/302dfa375e7c85c1076153bcec72a506.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "d55720c0-3116-552b-9ff8-bb95861120f9",
+				"title": "PRO-Teen",
+				"image": "/uploads/1b653856ec735208651868da37bec0ed.webp",
+				"alt": "Teenagers and adult volunteers working in the PRO-Teen workshop"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "1029ec5e-ddca-584d-8c08-896affbb88df",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Educational Program that Meets Needs of the Whole Person"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "cd599fc0-a385-57ab-b6de-8c6011fec344",
+						"level": 3
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Skills for Life"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "a650ec5e-9e4a-5fd3-a4ba-2829b1a27067"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Educational opportunities in the skilled trades are provided free of charge and instructed by local professionals."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "509b7b43-8e18-581d-9d7b-51595d66e953"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "We currently have two lathes, a vertical milling machine, MIG welder, ARC welder, along with wood and metal saws. We instruct in machining, small engine repair, soldering, plumbing, electrical, masonry, and carpentry skills."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "b687e57e-526f-57d5-b5ed-fdf829fbf874",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/24fc2d705b875e4c369036a24e4c4f86.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/58d547e1bf3f7569412c7c37809f17ac.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/77910021ec9266a79d25e4e216cd4699.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/77d751fb0e8ffbfee2a74bc9265277a0.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/8f923422fadeb441bf73265fc135e1e4.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1f69b33d32cc721d0f208b3621e284c2.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/4ea0e9cd5ee2d40a763defd589cbf547.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/6282a4501cad1cf6954787f6ee1aa490.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/cfa962960b7e91fd4a5534e80223ec5d.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/a65439dc6a85540f225a5f322252cb90.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/86a3686287e5f19f90a1821e7d3169b8.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1cfcfbed2982d3b524c6014079e63acb.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/24a6e24dcd71c18660de5a0fd3793b7f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b5c6ad22ee25dbafd68d6ecabdc2471a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/cfd81536e7397e3a742159e6c409b6fa.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/46d16f4620a77d7264eeb3a47bf5751c.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/ef9271decf40b41cd8e81f2e9505438d.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/7393783dd12f38bc2169f0af0646085f.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "7c1f50f0-f865-5ec6-8f6e-ef67ef3fdaae",
+				"title": "Arts and Entertainment",
+				"image": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+				"alt": "Teenagers gathered for a concert at the Edgerton Teen Center"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "eee4cb9c-dec0-5e22-9f4d-603feb58bba6",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Go Right or Go Left: the fun is all around you!"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "bc05908a-a520-5c9f-b512-f3eff46c3c91"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "To the right, as one enters there is a stage, air hockey table, and table seating. This is our "
+						},
+						{
+							"type": "text",
+							"text": "Arts & Entertainment Arena.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " "
+						},
+						{
+							"type": "text",
+							"text": "Entry to the center is free along with all games, use of instruments, and concerts.",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "3c67ee95-e738-5856-9480-8aaa57bf37f4"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "To the left, as one enters the center she will find pool tables, a basketball game, a bumper pool, and foosball table games in the "
+						},
+						{
+							"type": "text",
+							"text": "Amusement",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " and "
+						},
+						{
+							"type": "text",
+							"text": "Recreation Arena.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " "
+						},
+						{
+							"type": "text",
+							"text": "All games are always free!",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "41c92d92-d5a9-5efe-9e5d-ac4353f4c007",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Arts & Entertainment"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "5211c0f9-bc86-506c-b991-4e161e865901"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Live music concerts, Open MIC nights, and other entertainment happen here. Teens create delicious desserts in our kitchen. Culinary arts are performed here to the delight of many."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "fba9716e-ab8a-5c5e-8033-7014cdc8aa95",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/f117ecd7260775cd538c5670f0390a75.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/ba0e9abecd655f1f972d1f662761aad5.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/2bd60a98205f309cf69be6b50adb9b24.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5ac93f7965965d1f73229f226221d2e1.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/18ab945bf6edf86e8a4a72858840908f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/0f3d64b27ac77354b6d49d5e3430a0be.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/4ae8257dd97b248a7f598d4185e64d8f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/90693333e5e15910707a6d56fa15b408.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/428f73d1c923d4b59f716050c92216d7.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e9a642cc25a8ab7fd12aad801d995b88.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/f357c702db18f1992ce46729c3b85e4a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/cd02a493f826a432d13b96f72b2fd94f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/58f35ab4abe3a94c48c92e5dfce4f108.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/693b2609398470a0527692f4be61198b.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5b3edd0f9a417c2c014f92978ffc0ffb.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/fcb2bf3b69afc1bda45bf0876af10641.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/9324cf829af1124a510717336769b1e4.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5ca5c8a108b3900a4ef264b4aea30336.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "78d2933a-c4ce-5a13-bb81-dd8d05f06518",
+				"title": "Amusement and Recreation",
+				"image": "/uploads/aa743e0d9ec2296253f2c8fb77d10419.webp",
+				"alt": "Pool tables and other games inside the Edgerton Teen Center"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "dac6673c-6066-5b1b-84d5-0c703ce364f3",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Go Right or Go Left: the fun is all around you!"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "7eb65055-a201-5b94-ba24-d9642ddd1497"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "To the right, as one enters there is a stage, air hockey table, and table seating. This is our "
+						},
+						{
+							"type": "text",
+							"text": "Arts & Entertainment Arena.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " "
+						},
+						{
+							"type": "text",
+							"text": "Entry to the center is free along with all games, use of musical instruments, and concerts.",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "92193b34-f5bb-553f-823a-101e33ee8e7e"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "To the left, as one enters there are pool tables, a basketball game, a bumper pool, and foosball table games in the "
+						},
+						{
+							"type": "text",
+							"text": "Amusement",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " and "
+						},
+						{
+							"type": "text",
+							"text": "Recreation Arena.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " G"
+						},
+						{
+							"type": "text",
+							"text": "ames are always free!",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "a3effd29-9afa-5d7b-94bd-3fc8576ddc46"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Every month are pool tournaments, chess tournaments, and other events."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "e584863e-5d43-5a76-9af9-9144de79c5c8",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/367fc18b3c4f12d9d4f0e1c5a63de44c.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/6dd175a6e864f220eed9632b39012e64.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/7d2d505e8da519c699836d24a25b4819.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1be6aa64d830675db04322d92fdd41a0.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/426e01e21867f2bbed20b5c2c172fdb3.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/d8c6380ca84b7519cbc683ee529cf344.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/db980a4879055b13c0a23e688b6355ed.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b6d1949569bf77bf76c024d7b36beb07.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1840a987278ff2113744093d05daa457.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/9bf204b523c9f60cbb78bcfa25cb4108.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/327a1e9adb9aa1cde09a820640247eb6.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/f4b4a69ac1aa34aaaaadfd6203fdd2b9.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e7cd35a785fb524aee673a332a80e41e.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e8d530910c6ab71187293a7848500f54.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/f993012490fb39fd825e73fdefcc5b1d.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/0cec617281868ee0f15180c8fdb05d5a.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "0ba9a366-6d4b-5432-8616-488a8e25d96b",
+				"title": "Outdoor Adventures",
+				"image": "/uploads/997bd7d722f050dbc5c56ee510193c7c.webp",
+				"alt": "Teenagers and adult mentors gathered around a campfire at Bear Claw Lodge"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "725b6fa9-77dd-58b8-9121-422a14a58dad",
+						"level": 3
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Bear Claw Lodge, Teen Adventure Retreat Haven.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "0dfd1760-8622-57ff-93ab-09cee59fb961"
+					},
+					"content": []
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "444f81f8-9a6a-57ee-8d77-cbec840f320d"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Established in 2006, our adventure retreat camp offers teens a Northwoods \"getaway\" with activities such as fishing, hiking, canoeing, archery, and many more throughout the year. The Bear Claw Lodge serves as our base camp, allowing us to enjoy Wisconsin's wild Northwoods. Both adult and teen volunteers constructed the lodge and trail system. Our camp operates during all four Wisconsin seasons, and thanks to solar energy, we have ample electricity to power fans, air conditioning, lights, a microwave, tools, and all other needs. Two wood stoves provide comfortable heat and ambiance throughout the winter."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "e2fd1b81-459a-5eb2-b108-f55e766e9e8e"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "On rainy days when outdoor adventures are paused, we offer indoor activities like pool, darts, chess, and other board games. There is always a project to complete as well. Each day at camp includes a scheduled two-hour project for teens, which might involve light construction, cutting, splitting, and hauling firewood, or general maintenance of trails and outbuildings."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "f867bb7c-f2cc-5384-9dcf-68f127d03e91"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Groups of teens and adult mentors are kept small, with no more than eight people per group, fostering relationship-building and ensuring safe adventures. A signed waiver from a legal guardian is required for all who attend our outdoor retreats."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "188e2e13-c18a-5711-a1f5-3b1c5aaac05b",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/2ed80019076c0eae78043e9e6100b0c5.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b8a13f71bb75b710c772a53b3f093d36.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e203261eaa7dc9058b3a7ccac71eebf1.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "51850ed1-16c8-550c-a32c-4a78af3fd348"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Bear Claw Lodge is wildly overgrown on the first Summer trip, but inside is all is well and comfortable."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "4bad2e3b-2e5f-5de0-a2da-9efd739f3e02"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Teens often find the fire and wooded trails provide enough adventure. Building programs are frequent but easily accomplished. The brunt of all major construction is completed."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "8406b81b-b7aa-5061-a749-0b2e7c56c30b",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/2b075a4ade6069e40dc19fe343057c57.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/da3608f76376698e7f5e84f44eb9cdb1.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/17de271cabfb976a7f7deefe49020129.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/a636260efd58f354d65fcf9432e58ffa.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/54421da96432e6f8116aa335b120166b.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b55062e54398bb0cbcb32b1250523a39.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/775bcc99a131b42da7ec914d875ace16.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b8820fe608088964f1ca5f7900611e06.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/01278e3d3e18e65363c90d2a25e8d18c.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1516e891fe409d3395febb58e9892aad.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5a64f2184cb3b4ebcde6b61c3cb1b5c6.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/68e24a39f003b0667450bc1c679c43b0.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/0d6e88496b757f4f8afac16205e21e2b.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "ec1b414d-7a98-564e-98bd-c9b83318ffaf",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Wildlife Abounds"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "65d6ddf9-b8e2-549d-a841-0cf4bcfe56cc"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Black bear, bald eagle, turkey, coyote, grouse, and deer sightings are common. We are always cautious and courteous to our wilderness neighbors."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "388eb8bb-70a2-597a-81b6-15620f45a576",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/3ae679dda4a1f5b5a076251fa41a7b15.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5a4945e350ac17496e1de018136cc457.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/9e6197fb0f73a1bd5bbaeb0a889caa6a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/caf176f95a046d8c673c569e950dd168.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "7515c3f2-8e55-5244-b898-e44a790040f7",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Diverse Weather and Seasonal Beauty are Amazing"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "34cabd50-df40-5835-9e39-5b303e379449"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "All seasons are enjoyed here and each provides unique discoveries."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "376fa630-54a3-5403-8f54-527674e52af1",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/496b788e37a6f38154822f83263c6f3f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/2b52a6891027ef1b6a314f493deb9167.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/f0c0d1850dec814dbc1f9c63fe8d98fa.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e85ec749cf724f28e229b812eee4a9e2.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/34e6da4a78b0716459a63b4c88047efe.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/583f33bb364fb06b0abfc03e4f625245.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "e63f99cf-1109-50e5-a858-6e14138ccc9c",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Enjoying Even The Elusive Terrain"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "641d567b-3119-55f2-a62b-2f32e9fd4950"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "We are crossing the swamp the hard way...this pallet bridgeway allows access to parts of the camp previously limited by the terrain."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "1d014124-ca7b-55f8-a3ab-7bcabf7414b0",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/3f9440bd7594f6c2361bb5391ffefb50.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/a4f8f8f1b5ea78f39e57402c98add6c8.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/440fc134d0702bac54bef80ef3ab109e.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/b8a13f71bb75b710c772a53b3f093d36.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/cecfe91e0a3cb423cde27ae94e161ed4.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "7b671d89-b10a-5ac8-80c9-9bdf79061585"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The fauna during Summer is wild and beautiful."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "fb5766c0-d622-584f-8b55-29db00576fd3"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Only a mile away is a delightful creek holding fish, crawdads, wildlife, and the frequent canoe and kayak trip."
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "0ef0ddca-6cdc-57b8-b6ec-d8950ad094ae",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/9379c6ed89678850b7f407bbe2563dc5.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/e0ecac1a64cbc82bf8b700aaf43caf89.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "31b651ae-10f7-527b-bc33-97ee403becde"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Camp Volunteers"
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "c17e0109-75c0-56b7-85f6-c2d3d9232e14",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/cc9700017c9b03c84b65c247e6d24a2e.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/63e7b100ac8d4644e93fb4582eba162d.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/c8b3cabbde622d33498110de413d8aef.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/bb85948164fdcf5ad5a9a3108e3a9f3f.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/63eae002b2ba2359d81ee7da6a1f4164.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/5865a7e93bb44bdae5149c159953a2e0.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/f5cc352d0a5f7f2a0ba966a3ab179c3e.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/28efc813777e78f08894a3d511cd1f90.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"type": "programSection",
+			"attrs": {
+				"id": "067b2852-d369-518b-b123-47f835ed95ee",
+				"title": "Annual Events",
+				"image": "/uploads/99a9084e055414b33f3a2d670ae47e13.webp",
+				"alt": "Teenagers and adults with gravity racers at an Annual Events race"
+			},
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "422759ba-f488-5266-b49d-a91da745a37e",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The Annual Gravity Racers Classic, and"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "6d5f9be0-8815-50b7-8508-decd2c9cdd55",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "We GRILL OUT ON WEDNESDAYS DURING THE SUMMER."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "d80466be-3d97-5d1d-a290-e73bb459a0ad"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Youth and adults create gravity-powered cars that we race down the center of IKI Drive or Elm High Drive or both. "
+						},
+						{
+							"type": "text",
+							"text": "Car RULES & REGULATIONS are available HERE.",
+							"marks": [
+								{
+									"type": "bold"
+								},
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "9facb120-b671-56ed-bdbd-f36788dc7e0b"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The City graciously closes off the street for the day and we race!",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "71b1ea56-a2df-598e-ad66-71c2df629a3d"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "This event typically begins at 9 am and runs until Noon. The top speed in the 500 feet race is 20MPH."
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "fcf2743b-a2fb-5a0c-928e-25f169aa93bf",
+						"level": 3
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "We host a NIGHT RACE too. Scroll down for pics of this event."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "a6d5bdd8-893b-5e10-87c0-4e51fc79036f"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The Gravity Racers Classic is free to race in and free to watch.",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"type": "text",
+							"text": " "
+						},
+						{
+							"type": "text",
+							"text": "NO CHARGE EVER!",
+							"marks": [
+								{
+									"type": "bold"
+								},
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "35eba98d-8a5c-526a-b25e-65f2502570d5",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/bac89b93e89b8c33d8bbe3a262a2bbb4.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/1c9d525c57a6c3f97305651cda34df9a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/bcd0e25135e8d278ed4aa24c1b5d35bf.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/717b9cc6eddfb224e0aaeb1caa0e8fe0.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "bfd0f3f7-05f5-576a-9a69-9e2bb1607a1d",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Night Race"
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "2da12dbc-2d89-5671-8edf-099d8b625657",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/699d127e796dae2a42a8980ab4d8cb1a.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/a97af366dcdc75e14617335200c2689e.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/a95ffd01cd8d45934f667fd034dffce5.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "1179fcce-6d57-5f7e-82ee-d501815b8e72",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The World's Greatest Volunteers!"
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "3fbfed33-ba91-5370-bc7e-284763adb2d6",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/2e85f476b5583e9dfaada77bc7fce826.webp",
+								"caption": ""
+							}
+						]
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "990740a6-fcac-5695-9245-9192d9cccb86",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Sometimes we're in the parade"
+						}
+					]
+				},
+				{
+					"type": "gallery",
+					"attrs": {
+						"id": "c9960632-9ddf-5f4d-a586-ab5360ebedc7",
+						"commentary": "",
+						"images": [
+							{
+								"path": "/uploads/7975d08a2a4ccc34a0d4fda99fec29db.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/56cce005ffbe6ad315f6d4139bf525eb.webp",
+								"caption": ""
+							},
+							{
+								"path": "/uploads/6f5dfc01eef549d89ab4b7f73ff0d3d3.webp",
+								"caption": ""
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

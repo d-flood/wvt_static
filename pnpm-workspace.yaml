@@ -1,0 +1,10 @@
+packages:
+  - '.'
+
+allowBuilds:
+  esbuild: true
+  workerd: true
+
+minimumReleaseAgeExclude:
+  - uncial-cms@2.0.1
+  - uncial@2.0.1

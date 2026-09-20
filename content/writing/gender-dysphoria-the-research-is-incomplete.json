@@ -1,0 +1,79 @@
+{
+	"type": "doc",
+	"version": 2,
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3422a04c-ff4f-52c9-8591-27e08b617092"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Gender dysphoria continues to rise among teenagers. This article from the "
+				},
+				{
+					"type": "text",
+					"text": "National Library of Medicine",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is included so that people may be better equipped to understand the nature of treatments regarding gender dysphoria. I have pasted the abstract from the article along with a link so that interested parties may research further on this important topic."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "eb2521dd-9a68-56d8-b206-fefca4ca7917"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Increasing numbers of adolescents are seeking treatment at gender identity services in Western countries. An increasingly accepted treatment model that includes puberty suppression with gonadotropin-releasing hormone analogs starting during the early stages of puberty, cross-sex hormonal treatment starting at ~16 years of age and possibly surgical treatments in legal adulthood, is often indicated for adolescents with childhood gender dysphoria (GD) that intensifies during puberty. However, virtually nothing is known regarding adolescent-onset GD, its progression and factors that influence the completion of the developmental tasks of adolescence among young people with GD and/or transgender identity. Consolidation of identity development is a central developmental goal of adolescence, but we still do not know enough about how gender identity and gender variance actually evolve. Treatment-seeking adolescents with GD present with considerable psychiatric comorbidity. There is little research on how GD and/or transgender identity are associated with completion of developmental tasks of adolescence."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "39729e93-65bc-5e5a-b972-6828a56dc81b"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Kaltiala-Heino R, Bergman H, Työläjärvi M, Frisén L. Gender dysphoria in adolescence: current perspectives. Adolesc Health Med Ther. 2018 Mar 2;9:31-41. doi: 10.2147/AHMT.S135432. PMID: 29535563; PMCID: PMC5841333."
+				}
+			]
+		}
+	],
+	"meta": {
+		"title": "Gender Dysphoria: The Research is Incomplete",
+		"date": "2024-05-20",
+		"byline": "Dave Flood",
+		"category": "Adolescent mental health & social media",
+		"summary": "A research abstract and further reading introduce the limited evidence surrounding adolescent-onset gender dysphoria and its treatment.",
+		"legacyTags": [
+			"adolescent development",
+			"adolescencedevelopmental tasks",
+			"gender dysphoria,",
+			",",
+			"gender identity"
+		],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
+}

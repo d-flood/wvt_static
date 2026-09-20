@@ -1,0 +1,693 @@
+{
+	"type": "doc",
+	"version": 2,
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d49e22f0-eac7-5670-b4db-c4532350211b"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "CULTURAL ANALYSIS:"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d8c9e0c3-c2c2-51b5-8a55-a364cc970ef5"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "I have previously summarized the Four-Step process I use to better understand my cultural context and the people who inhabit that space. I now move on to what the research and interviews have revealed. Some data is surprising but mostly it helps explain what I have been observing for years. You too may have noticed trends but were unable to diagnose or codify them."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "1236d155-f238-5962-90a8-692d4aa6002c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "What a great era to be a parent or youth leader. Alcohol use among teens is at its lowest since 1993.[1] The percentage of high school students who have ever had sex declined from 46 percent in 2009 to 38 percent in 2019,[2] and young people appear to be safer drivers accounting for fewer teen fatalities.[3] The sociological landscape has changed presumably for the better. Despite the positive data, our youth are barely surviving. They feel lost, alone, and driven aimlessly along through life. This is the tangled "
+				},
+				{
+					"type": "text",
+					"text": "space",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " in which I find myself working with adolescents."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "c9b5c624-7d60-59df-a5a6-56c6e3cc8fef"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "I will begin to define, discuss, and evaluate adolescent anxiety and depression in my rural context although these trends are consistent across the nation. The evidence will be funded by the local and national "
+				},
+				{
+					"type": "text",
+					"text": "Youth Risk Behavior Survey",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (YRBS) implemented by the Centers for Disease Control (CDC) and by my interviews with eleven Edgerton teenagers and survey results from an additional eleven teens who regularly attend the teen center. I have evaluated and compared this data to the work by Sherry Turkle in her brilliantly disturbing look at youth relationships in the digital age and Jean Twenge’s expansive study of 11 million young people and the social contagion that is shaping cultural life. I also discuss how the "
+				},
+				{
+					"type": "text",
+					"text": "loss of a shared language",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " challenges communication. My conclusions have been drawn from Alan Roxburgh, David Fitch, and Cornel West as they explore and explain how"
+				},
+				{
+					"type": "text",
+					"text": " language",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " and "
+				},
+				{
+					"type": "text",
+					"text": "space",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " shape stories about self and others. My challenge is to communicate the gospel of peace anchored in a story to a generation that is lost in the stories of others through "
+				},
+				{
+					"type": "text",
+					"text": "social media contagion",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": "."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d1bc802c-b248-5ae7-8d60-58b2dea12d23"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Social Media is Designed to Manipulate the User",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "31904919-0acf-5ff9-b7e3-70b2b361521b"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Social media contagion",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " describes a digital world that is designed to manipulate human emotions. The difficulty when using the phrase "
+				},
+				{
+					"type": "text",
+					"text": "social media contagion",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is that it encompasses an enormous and expanding virtual world. Smartphones, online gaming systems, online apps, public and private chat rooms, YouTube, Tik Tok, and effectually endless variations of these applications seek to "
+				},
+				{
+					"type": "text",
+					"text": "influence",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " people."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "130fa3af-6318-5b30-afe7-66d2bb35fea0"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Amit Goldenberg at Harvard Business School, Harvard University, and James J. Gross, a psychologist at Stanford University, write “emotion contagion occurs when the emotions of a perceiver become more similar to those of others as a result of exposure to these emotions.”[4] Social media platforms exist only so long as people interact with them so emotional manipulation is inherent. Goldenberg and Gross readily agree “that one unique feature of digital emotion contagion is that it is mediated by digital media platforms that are motivated to upregulate user emotions.”[5]"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "1ad0094f-2547-500c-a31d-96a88e4182d9"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Therefore, when the phrase "
+				},
+				{
+					"type": "text",
+					"text": "social media contagion",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is used here and in future blog posts, it refers specifically to the "
+				},
+				{
+					"type": "text",
+					"text": "purposeful emotional manipulation of others",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". Manipulation may involve a group seeking to influence a cause, sell video games, attract subscribers, or find validation. At some level, they all involve revenue streams. It is about making money for the platform, but subscribers merely seek entertainment or acceptance. Often, it is an escape from reality or a creation of a new reality."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "5b305fbd-d434-5049-a43a-0a9c9b7f510d"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Anxiety and Depression Affect the Whole Person",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "8b31cadb-25f6-5a20-b0f5-cab042ee391e"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Anxiety is defined by the American Psychological Association as an “emotion characterized by feelings of tension, worried thoughts, and physical changes like increased blood pressure.”[6] Published over a decade ago, the National Institutes of Health (NIH) declared that “anxiety disorders are the most prevalent mental health concern facing adolescents today, yet they are largely undertreated.”[7] Anxiety levels among adolescents have continued to rise. Generalized Anxiety Disorder may be “marked by non-specific, uncontrollable worry occurring with three or more of the following symptoms for adolescents: Restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep difficulties.”[8]"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3dd9ef67-d63e-50da-ad76-b7ec9bd1d430"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Depression among adolescents has been amplified since 2007. According to Pew Research Center, the total number of teenagers who recently experienced depression increased by 59 percent between 2007 and 2017.”[9] Pew Research notes that one in five teenage girls suffers from depression and that depression in girls is almost three times higher than it is among boys.[10] My interviews with 11 teens corroborated this disparity. Every female I talked with was diagnosed with anxiety whereas only half of the males had anxiety. I interviewed two brother and sister families and learned that the female in each family was on anxiety medication while neither brother was. Mayo Clinic describes teen depression as a “serious mental health problem that causes a persistent feeling of sadness and loss of interest in activities. It affects how your teenager thinks, feels, and behaves and can cause emotional, functional, and physical problems,”[11] and suicide is often associated with depression.[12]"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "dc094cde-ca63-54aa-a71a-efb4d366a691"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Dr. Claire McCarthy, a primary care pediatrician at Boston Children's Hospital, Assistant Professor of Pediatrics at Harvard Medical School, and a senior editor for Harvard Health Publications, writes that a number of factors could be contributing. “In addition to genetics, brain chemistry, personality, and life events, take the following into consideration: High expectations and pressure to succeed; a world that feels scary and threatening, and "
+				},
+				{
+					"type": "text",
+					"text": "social media",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (emphasis mine).”[13] My interviews with two high school counselors from 2020 confirm that high expectations appear to cause anxiety among students here. My research confirms that social media consistently emerges as a factor in discussions about adolescent anxiety and depression. While it provides adolescents access to the global community, the associated consequences are significant."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "87fadbbb-b278-5913-ae22-795eea3f990c"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "61a8d5c6-b346-5675-bcd5-87a4e7eeae8d"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[1] Preliminary Summary Report: 2019 Wisconsin Youth Risk Behavior Survey Https://dpi.wi.gov/sites/default/files/imce/sspw/pdf/YRBS_2019_Summary_Report_DPI_Web_Version.pdf, 20. (accessed 10/3/2022)"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "273b6400-3401-5f16-a8f4-f02ea3ee50fd"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d6faed35-bedd-5df5-9e6a-11461e02846f"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[2] Ibid., 19."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "97f36bdd-1d1a-5aad-a7dd-15966bf41a73"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "b0cbccd8-a94a-5108-99df-ba3b45464015"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[3] Ibid., 22."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f7f20e64-3631-5581-a92a-318a4bf74a3e"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d41d35fb-8ec1-579c-b516-fae1a7df8de7"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[4] Amit Goldenberg, James J. Gross, Digital Emotion Contagion, Trends in Cognitive Sciences, Volume 24, Issue 4, 2020, (316-328), ISSN 1364-6613, "
+				},
+				{
+					"type": "text",
+					"text": "https://doi.org/10.1016/j.tics.2020.01.009",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://doi.org/10.1016/j.tics.2020.01.009"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". "
+				},
+				{
+					"type": "text",
+					"text": "https://www.sciencedirect.com/science/article/pii/S1364661320300279",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.sciencedirect.com/science/article/pii/S1364661320300279"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Accessed 10/5/22)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4d3b9aa1-cd2e-52ba-8cc0-3cc7fa361dd8"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "86ed609e-834a-51e4-88b8-f6640f422ec6"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[5] Ibid."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "867d08ab-7466-541a-bb0f-843ccf00c130"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3fcd2d92-f9f4-5dbc-8dbf-245ebf99596b"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[6] American Psychological Association, “Anxiety,” (Updated: August 2022, Date created: June 2008) "
+				},
+				{
+					"type": "text",
+					"text": "https://www.apa.org/topics/anxiety#:~:text=Anxiety%20is%20an%20emotion%20characterized,certain%20situations%20out%20of%20worry",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.apa.org/topics/anxiety#:~:text=Anxiety%20is%20an%20emotion%20characterized,certain%20situations%20out%20of%20worry"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ". (Accessed on 10/5/2022)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "653748b9-e5ee-56f2-8b2a-655b6662fa9c"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "ce6e80c9-6f2e-5105-a078-449915b35750"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[7] Rebecca S Siegel and Daniel P Dickstein, “Anxiety in adolescents: Update on its diagnosis and treatment for primary care providers,” in National Library of Medicine, (12/30/2011) "
+				},
+				{
+					"type": "text",
+					"text": "https://doi.org/10.2147%2FAHMT.S7597",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://doi.org/10.2147%2FAHMT.S7597"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Accessed on 10/5/2022)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3805f60f-d6ad-5393-a891-a467f33694e0"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "41dfd0bf-339a-569c-acc7-65828fb870e1"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[8] Ibid."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "405cbebc-258c-5317-9476-028d8b79931c"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "e021abb3-166c-51ce-9e47-ee8f86b5c3cc"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[9] A.W. Geiger and Leslie Davis, “A growing number of American teenagers – particularly girls – are facing depression,” Pew Research, (July 12, 2019), "
+				},
+				{
+					"type": "text",
+					"text": "https://www.pewresearch.org/fact-tank/2019/07/12/a-growing-number-of-american-teenagers-particularly-girls-are-facing-depression/",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.pewresearch.org/fact-tank/2019/07/12/a-growing-number-of-american-teenagers-particularly-girls-are-facing-depression/"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Accessed on 10/5/2022)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2e0bd406-d309-59d2-abd9-e43ddd2a63ef"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4b5cded8-0e5d-521e-af83-523f5d84803c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[10] Ibid."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d4c57a38-54b0-5d2c-b900-e0739412cc18"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2431ac76-4489-5030-8015-c70df06fbd9a"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[11] Mayo Clinic, “Teen Depression,” (August 12, 2022), "
+				},
+				{
+					"type": "text",
+					"text": "https://www.mayoclinic.org/diseases-conditions/teen-depression/symptoms-causes/syc-20350985",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.mayoclinic.org/diseases-conditions/teen-depression/symptoms-causes/syc-20350985"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (Accessed on 10/5/2022)."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "20c63bb3-e585-5d66-bf2f-f658bb72a4dd"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2e944389-e32e-59c0-9182-b7b7344a4ada"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[12] Ibid."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "9bbe4db2-3f41-5b1f-baea-cd938c196385"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "bb5d8386-935c-5416-afae-f820bef6abd8"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "[13] Claire McCarthy MD, Anxiety in Teens is Rising: What's Going On?“ American Academy of Pediatrics (11/29/ 2019), "
+				},
+				{
+					"type": "text",
+					"text": "https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Anxiety-Disorders.aspx",
+					"marks": [
+						{
+							"type": "link",
+							"attrs": {
+								"href": "https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Anxiety-Disorders.aspx"
+							}
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (accessed 10/15/22)."
+				}
+			]
+		}
+	],
+	"meta": {
+		"title": "Anxiety, Depression, and the Social Media Contagion: Examining this Cultural Terrain to Prepare for Effective Ministry.",
+		"date": "2023-09-26",
+		"byline": "Dave Flood",
+		"category": "Adolescent mental health & social media",
+		"summary": "Research and interviews reveal a generation facing severe anxiety and depression even as many traditional measures of risky behavior improve.",
+		"legacyTags": [
+			"social media contagion",
+			"teenage depression",
+			"teenage anxiety"
+		],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
+}

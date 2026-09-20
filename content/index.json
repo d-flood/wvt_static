@@ -1,0 +1,255 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "We Value Teens"
+	},
+	"content": [
+		{
+			"type": "hero",
+			"attrs": {
+				"id": "ff975d5e-fea2-5ce7-9305-9713ecaca3e8",
+				"image": "/uploads/dbfa6f2de87d04cf68f66580b716498b.webp",
+				"alt": "Teenagers playing games during a Halloween event at the Edgerton Teen Center",
+				"eyebrow": "placing value on teens since 1993",
+				"headline": "We Value Teens",
+				"lede": "Three decades of Friday and Saturday nights in downtown Edgerton — pool, live music, a recording studio, the PRO-Teen shop, and adults who show up every week.",
+				"primaryLabel": "Visit the Teen Center",
+				"primaryLink": "/the-teen-center/",
+				"secondaryLabel": "See the Programs",
+				"secondaryLink": "/programs/"
+			}
+		},
+		{
+			"type": "factBand",
+			"attrs": {
+				"id": "68ebb779-7bb8-5889-a431-d21e6a4b9c28",
+				"facts": [
+					{
+						"label": "Hours",
+						"value": "Friday & Saturday 6:30–9:00pm"
+					},
+					{
+						"label": "Ages",
+						"value": "13+"
+					},
+					{
+						"label": "Cost",
+						"value": "Free"
+					},
+					{
+						"label": "Location",
+						"value": "204 W Fulton St, Edgerton"
+					}
+				]
+			}
+		},
+		{
+			"type": "cardRow",
+			"attrs": {
+				"id": "e2068cc0-5f27-550a-9167-ff8f14bdde4f",
+				"columns": 3
+			},
+			"content": [
+				{
+					"type": "card",
+					"attrs": {
+						"id": "fde5eb14-be30-55bb-8d36-de1a2a15ae99",
+						"image": "/uploads/17a579ee343881dd6deb7959ca6bc665.webp",
+						"alt": "Teenagers and adult mentors standing on the zipline tower at Bear Claw Lodge",
+						"title": "Outdoor Adventures",
+						"blurb": "The north woods teen adventure camp—Bear Claw Lodge",
+						"link": "/programs/"
+					}
+				},
+				{
+					"type": "card",
+					"attrs": {
+						"id": "7c18334e-1bd7-5836-ac3a-f7afa55d1fa5",
+						"image": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+						"alt": "Teenagers playing pool and games inside the Edgerton Teen Center",
+						"title": "Edgerton Teen Center",
+						"blurb": "placing value on teens since 1993",
+						"link": "/the-teen-center/"
+					}
+				},
+				{
+					"type": "card",
+					"attrs": {
+						"id": "a2b019ab-8929-51ae-b331-9f6a6737655e",
+						"image": "/uploads/2547a17a2167e0b1bcf9805aa4a03da9.webp",
+						"alt": "Non-Toxic Studio logo",
+						"title": "Recording Studio",
+						"blurb": "free for Edgerton area teens by appointment",
+						"link": "/programs/"
+					}
+				}
+			]
+		},
+		{
+			"type": "proseBand",
+			"attrs": {
+				"id": "8cd9a9f6-cc16-5a65-a9cc-b0c200236390"
+			},
+			"content": [
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "62545338-40d7-5e61-b6aa-c6b11d780ef8"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Our adherence to quality programs, facilities, and service is anchored in our mission to place value on teens."
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "e435bc30-3a1b-5c4f-b1b9-230626041373",
+						"level": 4
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Since 1993, we have been committed to the belief that"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"attrs": {
+						"id": "51a4724f-62bf-5b0e-9c1b-06745da5b3af"
+					},
+					"content": [
+						{
+							"type": "listItem",
+							"attrs": {
+								"id": "a2cd8d5f-b1b2-5b6f-a56e-bce568c9b7cb"
+							},
+							"content": [
+								{
+									"type": "paragraph",
+									"attrs": {
+										"id": "2a2e0a1f-62e6-51b6-8123-68c990c5775a"
+									},
+									"content": [
+										{
+											"type": "text",
+											"text": "teens are intrinsically valuable"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"attrs": {
+								"id": "39cab553-9360-5687-af5c-93bc9a90e88b"
+							},
+							"content": [
+								{
+									"type": "paragraph",
+									"attrs": {
+										"id": "3f44e2c2-0c39-5954-b2a6-e509454b30c3"
+									},
+									"content": [
+										{
+											"type": "text",
+											"text": "healthy personal relationships between adults and youth matter"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"attrs": {
+								"id": "84c59c71-a8fe-539a-ad58-7eb6083212ad"
+							},
+							"content": [
+								{
+									"type": "paragraph",
+									"attrs": {
+										"id": "64ef470c-a52b-5067-a5d7-f0c8ae2f633a"
+									},
+									"content": [
+										{
+											"type": "text",
+											"text": "programs must be tailor-made for the youth who attend"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"attrs": {
+								"id": "a82e2496-faab-582d-a645-3cd37befda35"
+							},
+							"content": [
+								{
+									"type": "paragraph",
+									"attrs": {
+										"id": "9092366a-ee8c-5845-8a8f-326f28c696df"
+									},
+									"content": [
+										{
+											"type": "text",
+											"text": "the quality of the facility communicates how we value those we serve"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"id": "36505847-f9c1-5c99-93bf-e6fef95db333",
+						"level": 2
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Writing"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "5c59a289-d659-51ec-bdb7-6f8ac69b08f1"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Essays by Dave Flood on adolescence, ministry, culture, and the work of the Edgerton Teen Center."
+						}
+					]
+				},
+				{
+					"type": "essayList",
+					"attrs": {
+						"id": "c6ea2f7d-282a-536b-b857-78bd59a4c538",
+						"mode": "latest",
+						"count": 3,
+						"slugs": []
+					}
+				}
+			]
+		},
+		{
+			"type": "callBand",
+			"attrs": {
+				"id": "5a6c6176-fff9-51fb-994a-24e8638398b9",
+				"heading": "Help keep the teen center free",
+				"body": "Your gift supports free youth programs at the Edgerton Teen Center.",
+				"label": "Give",
+				"link": "/give/"
+			}
+		}
+	]
+}

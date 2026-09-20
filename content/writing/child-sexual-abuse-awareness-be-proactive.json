@@ -1,0 +1,2941 @@
+{
+	"type": "doc",
+	"version": 2,
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f6d0d973-97bb-5169-81dc-673bd87ce56b"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "This was as hard to write as it is to read but we must address the epidemic of child sexual abuse.."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "0f11e049-db1f-58bd-a6a9-2da2604db173"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "To ensure that I make the facts easy to follow,",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " I have used bullet-points to help set apart facts so that they are not lost in the body of the paper."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d66526d6-2662-5cd7-ad6b-8dac6df1b69f"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "When people imagine child sexual abuse they think often about a guy in a van handing out candy. This is a dangerously false understanding. Too many people believe the threat is “out there.” It is Not! We cannot prepare for a risk that we don’t understand. Here are some facts that people are not aware of."
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "f4f214e9-f636-5552-a416-eb62d343534b"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "a4717c91-bc78-5274-8d7f-db114502ce5a"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "aed2464b-d45c-514a-ac3a-22b2ce63feef"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "90% of child molesters never enter the justice system. Therefore, background checks are not a fool-proof safeguard."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "d5ae1b47-9fe8-5b69-a69a-00f4e3d08260"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "24af9f44-b382-5acc-b7c2-a295448737ed"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "90% of abuse victims know and trust their abuser. It is seldom a stranger."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "bc2d5514-fdfd-5eda-8daa-9b37e627b668"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "a58ec77f-e58f-5260-b3ad-6579a9363251"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1 out of 3 girls will be sexually abused by age 18."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "3f9eb8d6-cfaf-52bf-803b-30bc27956208"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "fc056781-4b46-5f7e-a6eb-378360ad3d1c"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1 out of 6 boys will be sexually abused by age 18."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "4d9885ce-5e07-5f3d-add5-8f1440bc1f1c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "d1de0b03-a0ac-5656-9dd6-f5dfaaafe33d"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2 out of 3 children don’t tell about their abuse until adulthood, if ever."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "14112e80-7e94-584d-8c4e-75adf996689d"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "b28a6e75-9c45-5f39-b4d1-cdf6eb7972f5"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "There are 657,000 registered sexual offenders in the United States (2017)."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "fba19ddd-911a-5a02-9dea-29f889181269"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "01d8dbd5-c73d-5db2-9214-be95a0977f79"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "There is no visual profile of an abuser. Abusers come from all segments of society."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "bde4e873-b1da-59a7-bb4b-5a48d3dc824a"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "5bd8ccb4-5f40-54b4-95fe-1cab054e5094"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Child sexual abusers are often ‘religious’, married, educated, attractive, & have families."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "bd38380f-1814-5225-908c-e5beca33e2ec"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "2fbbee27-d4fa-5182-b5af-7afe3a7b6cf5"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To gain access to children, abusers groom the gatekeepers– trusted adults in a program – by appearing helpful, trustworthy, and responsible."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "8a46cf5f-0f25-536b-8776-b4d35aa00ffd"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "204e5678-341c-5b63-b0e1-843e1ad6e557"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sexual offenders go where the barriers are the lowest. Volunteer organizations depend on helpers and are happy to invite volunteers into their children’s programs without knowing the risk."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f8b6bde1-1760-51fd-b8f0-e3914d18408c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "What is Child Sexual Abuse?",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " In the State of Wisconsin, "
+				},
+				{
+					"type": "text",
+					"text": "“Sexual abuse is defined as sexual intercourse, sexual contact, sexual exploitation, forced viewing of or listening to sexual activity, and engaging a child in prostitution.”",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " Please notice, that "
+				},
+				{
+					"type": "text",
+					"text": "one does not have to touch a child to be guilty of child sexual abuse.",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4e197323-ba91-5735-b841-7d526175a055"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Here are some questions that need to be answered by any youth-focused organization.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "a2e9f57e-12f9-564e-91b9-5e12a8c3230e"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "04b05a51-f2d0-5517-a05b-d65ee8e0f785"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "2b03a146-e2d3-5d6e-9731-f01fa6aeaf62"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Since child sexual abuse is not well understood, at the teen center we created a "
+								},
+								{
+									"type": "text",
+									"text": "safety system",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": ". What "
+								},
+								{
+									"type": "text",
+									"text": "safety system",
+									"marks": [
+										{
+											"type": "bold"
+										},
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " is in place where you minister, and what are its specific components?"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "884992ea-94f6-56f2-972f-f0475ce130a4"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "e140c99f-c384-50ce-b4d7-1bf2e984949a"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "What constitutes a ‘"
+								},
+								{
+									"type": "text",
+									"text": "reasonable safety system",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": "’ for your program? (What is ‘enough’?)."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "14c92802-09fc-5800-9568-4ff054c0c873"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "251fe566-4a5c-5d6b-9596-d2493fac6f1d"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Does the SYSTEM include training on "
+								},
+								{
+									"type": "text",
+									"text": "grooming behaviors",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " of child sexual abusers? Does it include an effective screening process (application and interviews) to protect children from abusers?"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "7c680f35-2ba9-5f66-b064-1644588410a7"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "e2206b7f-ed3c-512c-b335-731f089fb333"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Do staff members and employees know ‘what to do’ when an allegation is received?"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f91c62e8-ec1c-5da7-b204-f81d93aa54c7"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Sexual Abuse has increased dramatically.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4cad1c22-d437-5acd-9a03-db70a8de22e2"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Peer-to-peer sexual abuse has risen by 300% in the past five years.",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " Teens are acting out the abuse they received on younger kids. When asked where they learned this behavior, children respond, “from an adult, or the internet.”"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "57658053-f0ec-5cbb-b34e-769380040412"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "There are steps you can take to help prevent sexual abuse.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " These include:"
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "68627142-8d94-55b3-99de-b8696e495159"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "996afcf2-0954-53e1-b872-8ec731fd6215"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "cd181380-1b2b-5cdb-8bce-8e8278ac8fb5"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Selective hiring:",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " Organizations need a skillful screening process that asks hard and strategic questions."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "2a8ebe24-d9a2-5a9e-87b3-71c4b525e326"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "a82b15e3-5c9b-5a1a-9e3f-a2505bb9e84f"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervisory guidelines:",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " Training is necessary that includes how to respond when a child reports abuse."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "ae6fb7ba-8275-5be3-8e25-89622a04694a"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "c1c4a121-ef03-50d3-a5e2-0f459e0aec2b"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Educational programs:",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " To know the risks and strategies of grooming behaviors."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "cc17c6f1-ef74-5fb1-a50d-8f1dfea13bbb"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "If we have uncovered some detrimental information during the application process, we will discuss this information with the applicant. People make mistakes on applications. The interview may help to clear up mistakes."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "8f9ef5e3-277a-5cc7-81b6-7293d8316b9c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Child Protective Services (CPS)",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "84668d88-0de9-58ff-8c2b-f1239bcd6146"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "What if a child reports abuse? The law says you must IMMEDIATELY make a report if you suspect abuse is occurring and that if you don’t you can be held accountable for it."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "73af332a-dc4a-56a7-9813-01467eb99638"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "If you learn of abuse in the morning report it in the morning!"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "b7395b70-c79e-5ce1-a467-289198728fee"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "“Sexual abuse is defined as sexual intercourse, sexual contact, sexual exploitation, forced viewing of or listening to sexual activity, and engaging a child in prostitution.”",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3d809cdd-52aa-5c64-bbb0-13d7182adee7"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "You do not have to touch a child to be guilty of sexual abuse."
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "eee28f02-ac1c-5a2f-870f-d83f49bebb30"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "4db68a02-7707-52b2-a0c2-2f2685d80f99"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "2c48a45e-7b54-5260-8524-f667aa3d011d"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Report if the child is/was UNDER 18 years of age."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "3cfa2fff-6cc8-545b-a7ed-3ea5d84d99e2"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "6ba3532e-18e9-515d-8dd8-f93a5c9316f8"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Report if you believe coercion or exploitation is involved."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "639cc3d4-8cd8-5b68-8bd0-10f58314ccdb"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "67ee1d6d-c825-5e25-ab09-1185c65de533"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "CPS is mandated to report all sexual abuse to law enforcement within 12 hours of the report."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "79a4cf8c-5d40-5769-932c-bb1e61f59012"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Grooming Behaviors",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "8594a412-dae6-571f-adaa-d9a012d960f5"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The term "
+				},
+				{
+					"type": "text",
+					"text": "grooming",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is used two ways here. It refers to the process by which a "
+				},
+				{
+					"type": "text",
+					"text": "child molester attempts to earn the trust of the adults",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " in a youth context— the gate-keepers. They seek to earn the respect of the coaches, volunteer leaders, and people in authority so that they may gain access to children and get the child alone. "
+				},
+				{
+					"type": "text",
+					"text": "Grooming",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " may begin at the club where children are present and will likely continue in privacy outside the club."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "44efb803-5f95-5316-8a2f-deea771469c3"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Grooming of children",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " is defined as “the process by which a molester selects and prepares a child for sexual interaction.” Grooming behaviors are inherent in all places where a person or group seeks exploitation of vulnerable populations."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d83efcf5-fa89-5648-a97a-17780174564a"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "To gain access to children, "
+				},
+				{
+					"type": "text",
+					"text": "abusers groom the gatekeepers – trusted adults in a ministry program – by appearing helpful, trustworthy, and responsible.",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " This is exactly what we want from volunteers right? That they are helpful, trustworthy, and responsible. Therein lies the danger. "
+				},
+				{
+					"type": "text",
+					"text": "Groomers",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " are skilled at using the system to their advantage. I am not saying all people who are trustworthy, helpful, and responsible are grooming others, but I am convinced that we must be aware of the skill level many groomers possess. The emphasis here is to communicate that "
+				},
+				{
+					"type": "text",
+					"text": "leaders too often side with groomers when a child reports abuse because the groomers have gained the trust of leaders.",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "88a993a8-579d-522d-a13f-b59eb723f695"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The Three-Pronged Approach to Abuse",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f7426317-a03c-50ea-bf0e-a480923ecfed"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "To understand why adults seek children as sexual partners we must begin by addressing how the abusers can justify their actions. There is a three-pronged approach to their behavior."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "91663510-9a4b-5f67-8def-8fef8274a7f7"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "1:",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " "
+				},
+				{
+					"type": "text",
+					"text": "It begins with- Deviant Sexual Desire",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "4ccc9d42-6fee-505b-ac80-b95d52d71c42"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "fc0c85e2-e0eb-55d4-8c37-c63a3e0e721c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "e2170297-bbd2-5c29-ba70-6c38e4df8551"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Certainly, we believe that seeking children as sexual partners is deviant."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "b5036703-931a-560c-ab19-a2bc6ed79152"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "bdd8d7a8-d46a-5fe2-8c72-537a5b674bf8"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "They have an age & gender-specific child they pursue for sexual pleasure."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "8039c060-1448-5270-bdc7-78b8c4ab996c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "2:",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " "
+				},
+				{
+					"type": "text",
+					"text": "Faulty Thinking",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": ":",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "ce703147-a27c-5b2e-a205-d177c7e7a905"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "2f8fbba0-ba64-5db6-aa59-c2020dcd249c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "34df8458-9c81-5c27-8e0b-711984a094ec"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "They rationalize their lust."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "355dcfe5-4d07-53e5-87f4-10b7c573af9c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "ae9e8ff9-a849-55ba-9a15-771141ab6e25"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "They often truly believe they are “showing love to the child.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "0d32bdfe-748d-591f-bf81-15a757408068"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "0f83445d-7086-50b8-959f-8fe33ce5370e"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“We’re not blood related so it’s OK.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "bad74d14-2deb-5ceb-9dbb-53c24ce53256"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "4444b7b7-0f5b-5ab1-9c98-09a635b433be"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“She asked for it.” Or, “she came on to me.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "84c023a0-c307-5be6-a5cf-f895c40b910c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "3b2fdb88-9ce7-5702-8ced-4d4cfa979809"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“I was teaching him/her about sex.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "55ae3f05-e747-5a62-a35b-e85289100b4d"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "84bfb3da-ea78-5287-9ee9-8cad766c073e"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“I’m not hurting him/her.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "305841bf-98e7-5685-96d9-3390babb3870"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "ba6f0e67-327b-587f-8516-efd38a8f8af0"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“There was no intercourse.”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "20009b53-63c9-5cb6-8c9b-ffcfd29b5428"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "0acd2b04-e890-5f66-bbf4-5cb504aab385"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“The child never said stop.” However, Children are raised to obey adults so children do not believe they can say stop."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2c63af24-4a94-554e-9838-fcebbb07e750"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "3:",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " "
+				},
+				{
+					"type": "text",
+					"text": "Access",
+					"marks": [
+						{
+							"type": "bold"
+						},
+						{
+							"type": "italic"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "c2ad12e7-796c-531f-a1cb-473ade671532"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "039d392f-d220-508d-b941-e899f76ad5fe"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "30651551-7c8d-5dcd-8dd1-180b8c5fa213"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Abusers have an "
+								},
+								{
+									"type": "text",
+									"text": "age & gender-specific",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " child they pursue for sexual pleasure."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "dac51901-6f97-5906-bf49-2902337dccef"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "d5ec8fc3-44b1-5a10-a319-9c27fbd17b0c"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To gain access to children for sexual pleasure, the abuser must groom the leaders and then the child."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "d45ffaa8-1a89-5780-9e3e-c5bb3e375bbd"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "8c87137b-9f70-55e5-872f-6585e083cc75"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Gaining Access",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": "-"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "31b82e0a-253c-5953-8d1f-8d0a9a61a95d"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "ac0d505e-e18a-58d8-a707-01a7d193086c"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "4bfec311-0bf7-5795-bdf9-0edcd19ac857"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Grooming Behaviors: Leaders",
+													"marks": [
+														{
+															"type": "bold"
+														},
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "ed5a6b4a-75f3-5b3d-8c28-953bd8bd572b"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "3ad67237-26cc-58e4-a725-3abdd292bc39"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "“The process by which a molester attempts to earn the trust of the leaders.”",
+													"marks": [
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "b0531eac-d44b-568b-874c-10980fa1f6da"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "14db434f-c48d-5fd7-9d0d-c5959e2ba96a"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Molesters are looking for trusted time alone with the child in his age and gender of preference.",
+													"marks": [
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "6aecbf86-0241-513f-bc78-ee26e0d218a1"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "9a437ccb-d88c-5863-a8bd-b2c119c3545b"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Grooming Behaviors: Children",
+													"marks": [
+														{
+															"type": "bold"
+														},
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "1a08446b-0fb2-50e5-99f8-a104ae750613"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "fa9b2c79-f700-5cb2-ad9a-9ef69835ff7d"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "The process by which a molester selects and prepares a child for sexual interaction.”",
+													"marks": [
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "2b9615c2-134f-5250-b319-c26bf3acb3fd"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "85f1c4d6-62e5-5a49-a1e9-59a621da0143"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Groomers seek-"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "99f6b4bc-0b07-59b0-987b-13ccd871f028"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "51a41116-f8d8-5256-a5e5-c05bc960255c"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "3879e5a7-1b77-5f37-b2bc-fa5300643e39"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Career/volunteer opportunities related to children"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "394eab92-0cfc-5ab1-ba33-e248706b431f"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "44680309-79d3-57f5-85de-d0bfef5f6f71"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "To gain the trust of the child’s caregivers"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "658fb6e1-c6a4-5b37-b402-fb6038005683"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "d68f72b9-4c6f-548e-ad1f-99f4a3312d3b"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "To create the appearance of being helpful, trustworthy, and kind"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "c3f5a968-ef9d-5474-a307-dd6a627bb69f"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "ddbcedc4-deaf-5b41-b375-c3a0c3f91810"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Skillful ways to meet a child’s needs"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "cc2bbe20-9e4d-5f86-867c-db86aa293cf8"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "These needs can be physical",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " (providing shoes, clothing, food etc) "
+				},
+				{
+					"type": "text",
+					"text": "or emotional.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "139abd91-8a26-5c22-b168-525a660fe2bc"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "772b35e6-b4fc-516f-876e-44b3764d559b"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "4ce3db92-4adb-5b08-8db5-6f7169eb9527"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Affection"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "bca30469-d37d-5751-bef8-fa6dbd1b8c50"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "33902a7b-c823-5cc0-a9bf-9e7a259debcf"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Fun"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "f0fac24e-5bb5-5ae7-be29-d992ccf1982c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "2e416b87-e265-5f1f-8c05-4c06d505bcc1"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "During the process, groomers are selecting a certain child or children on the fringe or those alone. Often, these children are seeking attention and affection from adults."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "b82b4a23-fc9e-5dd0-a2ac-4fb10bac25bd"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "5a7497de-9ea9-525a-98e6-82f586dba958"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "ad520a30-b790-5e8f-86e6-7cb5238e30af"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "If you watch children play you will notice who is on the fringe and not involved."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "a4afb0d7-902b-523d-a9dc-6cdf378d27e7"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "1fc6a196-9a68-5c9d-a773-897c03da2186"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Children are looking for someone to follow or trust. “Everybody wants to belong.” Groomers count on this need in children."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "55c30867-a320-5fc8-9bfa-48a4904e8021"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "6ee92534-0427-5d93-b9c4-b52a2856bf62"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Children from broken homes or of a single parent are often targeted."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "9b5e478d-37ef-5e3a-a187-dcfd3058fc94"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "dd76ee0b-8679-54b5-b19c-a75a256968a3"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Children involved with drugs or alcohol are often targeted."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "6ab92e49-373a-5047-8b35-f6c1cb66ab10"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "7d0dc7eb-aef6-58f7-87a7-7490d69e6b6e"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Children interested in pornography or sex are often targeted."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "768d1167-a7dc-54a7-a918-d254876abbe4"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "0cd703d3-fbb7-5260-bf4c-9abc377f57ab"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Once the Child has been Selected the common behaviors of groomers are:"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "6093f76e-4dfd-5c87-9cf1-bd2cce4e775d"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "0f1387a7-311f-512a-b21c-c74e2c492842"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "879e5b4b-3724-5af4-b81a-adf451c7ba88"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Gift giving, special privileges to only a few or one child."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "6896871e-d23c-5c26-a00f-153118f15220"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "448124c3-7e1e-5ef7-8fc8-851a4d28500e"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Games, activities special to a child in that specific age range."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "d45470f0-0cb3-5a69-aaf5-796a4594843b"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "0b3f7d6e-8dfb-53de-bc3c-4d14d6621310"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Repeated “Time Alone” with one child."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "f20b1df0-1ff7-5156-9048-88e5172fc316"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "e2bf5b3e-0606-5f02-8df0-64ee34f76581"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Touchy, pushing back boundaries."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "417a3239-7b76-500c-8119-b623ab8f4199"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "cd0f8999-7613-5233-8d3d-e870ec555e86"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Barrier testing and erosion is used when the groomer tests the child’s perceived physical boundaries."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "c3cdab03-55d3-5e76-a556-a14fca5ce96d"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "d84f9171-feca-5310-b51b-d53ddf837f71"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Every child has a sense of personal space but through repeated touch, the barriers can come down. The molester expects & anticipates this."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "2a6e233d-5eff-583b-9d7c-5979d6960e98"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Barrier testing may include",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "bulletList",
+			"attrs": {
+				"id": "c0a3c3f1-c0cb-5150-bd12-3fce40c0703a"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "5c59b307-c370-58fb-a89c-78f100fd4c9b"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "7dff7589-8ff8-53ff-ad11-547649412ab1"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "eb904d22-5e8c-510b-a974-30e4da1d51c5"
+									},
+									"content": [
+										{
+											"type": "bulletList",
+											"attrs": {
+												"id": "73d42098-46db-5bf8-b1bc-a7145fa390c6"
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "0c809c6c-113c-5cb8-8306-60f631352264"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "5c25f0ec-ddfd-552b-80ac-5d51106e686f"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Tickling"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "d53529dc-bccd-5625-b7da-1bdb6d2bfee9"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "0df1e90a-d949-5a44-b862-4f3f6cf09af8"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Ice in the panties, down the shirt games"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "ccf007fa-cf09-5236-b02d-c25f809090f0"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "f164c290-8fd3-54a8-b363-fc96f1d7c7f0"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Wrestling"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "7cc0d590-e641-58dc-b0a2-19afb1cef6c9"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "58acd59d-1aff-5527-9ba5-7de03d743510"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Pulling down a child’s shorts for a laugh"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "f41c3f9d-2621-5dab-8e84-781f1e2f0a22"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "79a89c25-4056-536c-b4a3-59b1ef7dd86f"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "There is often the introduction of nudity and sexual touch"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "75bd588b-c75b-577e-ac1b-361a4af4e0b8"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "730ad08b-ccae-5559-962f-654c85f57c1b"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sexual discussion and joking"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "63e4c7cc-4eff-5138-9f94-4db9fa55f46d"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "8605f9e3-d48a-52e7-80a6-a13e5e70d2ee"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Playful touch and “accidental nudity”"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "798ab12d-542b-5364-a985-b9f036996422"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "bcede274-1f2d-53e9-ba7e-5d7fce4a9722"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Magazines, movies with nudity and sex"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "2bd82493-b307-50ef-a94a-6cec6a3ee14c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "aacbe4b0-9521-5cc2-8277-7f0d5b8ef7c3"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Groomers are often Rule-Breakers",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": ". Frequently, they are warned when they disobey policies but are "
+								},
+								{
+									"type": "text",
+									"text": "seldom",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " removed and disciplined because they are skilled groomers and appear repentant and sorrowful. Yet, they continue to break the rules because they get away with it."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "1e10b942-8f0e-5a91-8505-6e93e97c42ba"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "58b8ada7-65f4-5b6c-85eb-7e231d0b9a9b"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "d1180da8-21b7-5a2d-89ee-fa6d27063913"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Breaking the rules may involve alcohol, porn, and isolation of a child."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "e4474072-194f-5d48-8c39-8981ba197025"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "ff762b4a-da0c-5d64-a91b-7825abf09d09"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Groomers justify why it is OK. “The child wanted to talk privately…”"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "932aeb3b-46ac-5da2-aa3e-23b3588be560"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "231baac4-01bc-5933-b43f-f130d52523be"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Once the molester has gained access and trust from a child, he then must keep the child silent."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "17e35a62-d232-501b-8adb-6ea2cc9cdd9c"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "5499ea39-6118-5a2f-94b9-b03edd4d2335"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Secrecy has been woven into the entire grooming process.",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "93172b5c-4a2b-5c9f-8e5d-c86f7a7dc6b3"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "a1ad3a96-1b24-5a24-b636-f7acae0fec62"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Secrecy includes rewards and threats"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "d4fef887-027c-526e-b1df-30768bce555d"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "6cab079b-9a1f-57d9-801e-763bd3dbe701"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "2aa0f454-5b8a-575a-a43a-051c4c3f0ddd"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Shame and embarrassment"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "638cd32c-d241-5d53-9be1-1dc6ab696d60"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "2243feb9-9dc8-54dc-b767-4b263a8d5fe1"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Threats",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													]
+												},
+												{
+													"type": "text",
+													"text": " (subtle or direct)"
+												}
+											]
+										},
+										{
+											"type": "bulletList",
+											"attrs": {
+												"id": "6c7960ba-959c-544c-9c1e-e68618ed54e2"
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "647fe900-86d8-5ad9-bcbf-15b363dba7f9"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "e9b4ac2b-bc19-5ea1-9012-80164b410a12"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "“Nobody will believe you.”"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "cd84c805-dffb-535c-a2be-20d315ea502e"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "9a80cda8-11d7-561c-adcd-af1a6b6b0316"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "“If you tell I will kill you.”"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "8c5588c4-df4a-5199-add0-8ca84087fa5c"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "e321ec78-00fd-5037-8366-bf4dbd8b0492"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "“If you tell I will kill your pet.”"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "a95ba068-c94a-59b8-b8c5-e2bc4606cb82"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "0bff8bb8-3435-5bd4-874d-e36a2fc482b9"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Subtle Threats",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "bulletList",
+											"attrs": {
+												"id": "e8099c07-0b89-53a3-89f6-2b7d65decc38"
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "79dad553-68a5-5897-91db-84536c0e66e6"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "10597df0-872b-503f-ad8f-efe0857059c3"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "“If you tell it will ruin our youth group.”"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"id": "9a04a96b-acb9-5d08-a4af-84dbe717c0f7"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"id": "5fe8ebdc-b1f4-59fc-9234-b8705dee5b02"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "“If you tell your friends will make fun of you.”"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "fb3d8d6d-abe7-5253-aafe-28584a94d72d"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "8ad23bf6-8ab7-5fa0-9f31-7dc54768cb2e"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Many abuse "
+								},
+								{
+									"type": "text",
+									"text": "survivors",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " believed that in some way it was their fault."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "7a3032fc-9dca-58a9-80e8-09f55f8ac7f1"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "dc0806aa-6468-5089-9439-10af9d381fa5"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "58814e8f-9ad9-5e08-b57f-dce1a51081be"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Abusers know this and exploit it."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "d772e117-e28a-5254-81d0-b7bf1a188ca4"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "a1936dc5-b003-5a83-a317-6649eb557dcf"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Pictures are often taken of the child and they do not want the images shared and so they remain silent."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "90e919af-6039-5d5a-9baa-f7fcda264c50"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "559f6505-a84c-5cf7-bcfb-dcaeea24a21c"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“No one will believe you or care.”",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"id": "3c6b3058-36a1-585f-87b3-84a50dc67614"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "76320ccf-3d61-549b-bde6-2ef43eb4edec"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "06d95bb2-9df5-5360-a261-66c786c5d4ec"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "This is powerful because it is true!",
+													"marks": [
+														{
+															"type": "italic"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"id": "e9e8a43c-5e00-5154-88df-ec2351d0a650"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"id": "bcc481dc-29c5-5606-bfe7-affe06a456cc"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Because the Gatekeepers have been groomed by the abuser and because the victims often are on the fringe, they are easy to dismiss."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3d10b90b-6407-5ba6-acaa-0b888a739f5c"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Leaders of any youth organization must"
+				},
+				{
+					"type": "text",
+					"text": " Be Aware",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " of the exploitation of children. Children abusing other children sexually has risen exponentially!"
+				}
+			]
+		},
+		{
+			"type": "orderedList",
+			"attrs": {
+				"id": "f053dfd7-8edd-5866-aac5-0a0c63f4d4f5"
+			},
+			"content": [
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "1573200f-48be-51b7-a78a-8aa1ef78bead"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "6ac5b3ef-e60a-5c87-9df5-6f6fa26c28e8"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Be aware",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " of an older child who continually attempts to separate a smaller, younger, or weaker child from the group."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "d3619ffa-ca37-5e7f-92ab-88a340680c79"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "d523055b-b240-5337-8d98-242dccf3904e"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Be aware",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									]
+								},
+								{
+									"type": "text",
+									"text": " of children who do not want to be with another child."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "9e185042-b7de-5362-adb7-035ab023ebb3"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "30b9eccf-9177-5abf-9d81-dff53e5dd08f"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Teenagers are children and must be supervised at all times."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "f8cab11a-6cc3-51bb-8c24-cf539cbba126"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "7e9d6c57-ab93-5a6b-9253-a51946e0ffd1"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "“Boyfriend” and “girlfriend” status does not make sexual interaction acceptable or harmless."
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "listItem",
+					"attrs": {
+						"id": "7288a883-1e74-56cc-b1d7-308337b2fe9b"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"id": "5c96aac0-1a19-5227-a0f0-f77f003ff782"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Child Sexual Abuse is the number one reason churches end up in court. Churches and non-profit youth organizations are ill-prepared for the constant threat facing children."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "24210efe-f476-5745-8ca7-1cec091a5490"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Training is available through organizations such as MinistrySafe and Child Protective Services.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " Find out how you may be educated and empowered to protect the children in your care. Please"
+				},
+				{
+					"type": "text",
+					"text": " do not rely on CPAC",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " or other online sites that offer background checks. "
+				},
+				{
+					"type": "text",
+					"text": "These are not qualified services.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " You must pay for services that adequately research the backgrounds of volunteers. "
+				},
+				{
+					"type": "text",
+					"text": "If it is cheap and easy it is not adequate to protect children in your care.",
+					"marks": [
+						{
+							"type": "italic"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " Be wise. Be diligent. This risk is everywhere."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "e857b24f-e622-5bc0-951a-d5dbef9b092d"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "I have barely scratched the surface of child sexual abuse awareness in the blog.",
+					"marks": [
+						{
+							"type": "bold"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"text": " Please perform due diligence and become educated on the risks inherent in youth organizations."
+				}
+			]
+		}
+	],
+	"meta": {
+		"title": "Child Sexual Abuse Awareness: Be proactive",
+		"date": "2024-05-17",
+		"byline": "Dave Flood",
+		"category": "Safeguarding",
+		"summary": "Clear facts about offenders, victims, grooming, and peer abuse equip adults to replace dangerous assumptions with proactive safeguards for children.",
+		"legacyTags": [
+			"volunteer abusers",
+			"sexual groomers",
+			"child sex abuse",
+			"peer on peer sex abuse",
+			"sexual abuse",
+			"groomer"
+		],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
+}

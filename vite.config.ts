@@ -1,0 +1,91 @@
+import { createReadStream, statSync } from 'node:fs';
+import { extname, isAbsolute, relative, resolve, sep } from 'node:path';
+import { sveltekit } from '@sveltejs/kit/vite';
+import type { Plugin } from 'vite';
+import { defineConfig } from 'vitest/config';
+import { createLocalVitePlugin } from 'uncial-cms/local';
+
+const pagefindContentTypes: Record<string, string> = {
+	'.css': 'text/css; charset=utf-8',
+	'.js': 'text/javascript; charset=utf-8',
+	'.json': 'application/json; charset=utf-8',
+	'.pagefind': 'application/wasm'
+};
+
+function pagefindDevAssets(): Plugin {
+	const root = resolve('build/pagefind');
+
+	return {
+		name: 'wvt:pagefind-dev-assets',
+		apply: 'serve',
+		configureServer(server) {
+			server.middlewares.use((request, response, next) => {
+				const requestPath = request.url?.split('?', 1)[0] ?? '';
+				if (!requestPath.startsWith('/pagefind/')) return next();
+
+				let requestedPath: string;
+				try {
+					requestedPath = decodeURIComponent(requestPath.slice('/pagefind/'.length));
+				} catch {
+					response.writeHead(400).end();
+					return;
+				}
+
+				const path = resolve(root, requestedPath);
+				const fromRoot = relative(root, path);
+				if (fromRoot === '..' || fromRoot.startsWith(`..${sep}`) || isAbsolute(fromRoot)) {
+					response.writeHead(400).end();
+					return;
+				}
+
+				try {
+					if (!statSync(path).isFile()) {
+						response.writeHead(404).end();
+						return;
+					}
+				} catch (error) {
+					if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+						response.writeHead(404).end();
+						return;
+					}
+					return next(error);
+				}
+
+				response.writeHead(200, {
+					'Content-Type': pagefindContentTypes[extname(path)] ?? 'application/octet-stream'
+				});
+				if (request.method === 'HEAD') {
+					response.end();
+					return;
+				}
+				createReadStream(path).pipe(response);
+			});
+		}
+	};
+}
+
+export default defineConfig({
+	plugins: [
+		createLocalVitePlugin({ root: resolve('.'), permittedRoots: ['content', 'static/uploads'] }),
+		pagefindDevAssets(),
+		sveltekit()
+	],
+	// `pnpm dev` builds first so the Pagefind middleware can serve build/pagefind;
+	// nothing in build/ is source, so keep its ~1k files out of the inotify budget.
+	server: { watch: { ignored: ['**/build/**'] } },
+	test: {
+		expect: { requireAssertions: true },
+		passWithNoTests: true,
+		projects: [
+			{
+				extends: './vite.config.ts',
+				test: {
+					name: 'server',
+					fileParallelism: false,
+					environment: 'node',
+					include: ['src/**/*.{test,spec}.ts']
+				}
+			}
+		]
+	}
+});

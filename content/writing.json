@@ -1,0 +1,42 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "Writing"
+	},
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d7aa2837-35e9-51d6-9a5f-9da705993469"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Twenty-six Essays"
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "177c6c18-763d-5c72-a387-006652005ea6"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Essays by Dave Flood on adolescence, ministry, culture, and the work of the Edgerton Teen Center."
+				}
+			]
+		},
+		{
+			"type": "essayList",
+			"attrs": {
+				"id": "a3c19106-90e6-5c46-b6e6-1a7794ebccdc",
+				"mode": "latest",
+				"count": 26,
+				"slugs": []
+			}
+		}
+	]
+}

@@ -1,0 +1,178 @@
+[
+	{
+		"source": "/",
+		"target": "/"
+	},
+	{
+		"source": "/about-us/",
+		"target": "/about/"
+	},
+	{
+		"source": "/amusement-and-recreation/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/annual-events/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/arts-and-entertainment/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/blog/",
+		"target": "/writing/"
+	},
+	{
+		"source": "/blog/a-mission-of-incarnational-presence-to-be-with-the-least-of-these/",
+		"target": "/writing/a-mission-of-incarnational-presence-to-be-with-the-least-of-these/"
+	},
+	{
+		"source": "/blog/addiction-like-attraction-to-social-media-feeds-teen-hopelessness/",
+		"target": "/writing/addiction-like-attraction-to-social-media-feeds-teen-hopelessness/"
+	},
+	{
+		"source": "/blog/anxiety-depression-and-the-social-media-contagion-examining-this-cultural-terrain-to-prepare-for-effective-ministry/",
+		"target": "/writing/anxiety-depression-and-the-social-media-contagion-examining-this-cultural-terrain-to-prepare-for-effective-ministry/"
+	},
+	{
+		"source": "/blog/child-sexual-abuse-awareness-be-proactive/",
+		"target": "/writing/child-sexual-abuse-awareness-be-proactive/"
+	},
+	{
+		"source": "/blog/dave-flood-dmin-founder-president-since-1993/",
+		"target": "/writing/dave-flood-dmin-founder-president-since-1993/"
+	},
+	{
+		"source": "/blog/dialogue-as-listening-and-learning/",
+		"target": "/writing/dialogue-as-listening-and-learning/"
+	},
+	{
+		"source": "/blog/failure-frustration-formed-a-new-foundation/",
+		"target": "/writing/failure-frustration-formed-a-new-foundation/"
+	},
+	{
+		"source": "/blog/fear-of-violence-and-fear-of-operating-a-motor-vehicle-impact-youth/",
+		"target": "/writing/fear-of-violence-and-fear-of-operating-a-motor-vehicle-impact-youth/"
+	},
+	{
+		"source": "/blog/gender-dysphoria-the-research-is-incomplete/",
+		"target": "/writing/gender-dysphoria-the-research-is-incomplete/"
+	},
+	{
+		"source": "/blog/good-news-for-teens-and-everybody-else-too/",
+		"target": "/writing/good-news-for-teens-and-everybody-else-too/"
+	},
+	{
+		"source": "/blog/how-do-we-preach-the-gospel-does-context-matter/",
+		"target": "/writing/how-do-we-preach-the-gospel-does-context-matter/"
+	},
+	{
+		"source": "/blog/interpreting-youth-needs-by-comparing-local-county-and-state-data-anxiety-depression-and-social-media-contagion/",
+		"target": "/writing/interpreting-youth-needs-by-comparing-local-county-and-state-data-anxiety-depression-and-social-media-contagion/"
+	},
+	{
+		"source": "/blog/listening-to-the-people-around-me-what-are-they-saying-and-what-am-i-hearing/",
+		"target": "/writing/listening-to-the-people-around-me-what-are-they-saying-and-what-am-i-hearing/"
+	},
+	{
+		"source": "/blog/nihilism-and-hopelessness-prevail-in-the-current-youth-culture/",
+		"target": "/writing/nihilism-and-hopelessness-prevail-in-the-current-youth-culture/"
+	},
+	{
+		"source": "/blog/our-theological-traditions-shape-who-we-become-how-do-we-evaluate-those-traditions/",
+		"target": "/writing/our-theological-traditions-shape-who-we-become-how-do-we-evaluate-those-traditions/"
+	},
+	{
+		"source": "/blog/post-christendom-and-postmodern-ideologies-affect-the-youth-culture/",
+		"target": "/writing/post-christendom-and-postmodern-ideologies-affect-the-youth-culture/"
+	},
+	{
+		"source": "/blog/social-media-contagion-has-altered-teen-self-perception-fear-is-constant/",
+		"target": "/writing/social-media-contagion-has-altered-teen-self-perception-fear-is-constant/"
+	},
+	{
+		"source": "/blog/submission-to-gods-spirit-opens-a-future-of-discovery-through-dialogue/",
+		"target": "/writing/submission-to-gods-spirit-opens-a-future-of-discovery-through-dialogue/"
+	},
+	{
+		"source": "/blog/the-anguish-of-adolescence-how-may-we-help/",
+		"target": "/writing/the-anguish-of-adolescence-how-may-we-help/"
+	},
+	{
+		"source": "/blog/the-armor-of-god-and-reconciliation-ephesians-6/",
+		"target": "/writing/the-armor-of-god-and-reconciliation-ephesians-6/"
+	},
+	{
+		"source": "/blog/the-end-of-christendom-and-allegiance-to-postmodernity-a-new-worldview-has-emerged/",
+		"target": "/writing/the-end-of-christendom-and-allegiance-to-postmodernity-a-new-worldview-has-emerged/"
+	},
+	{
+		"source": "/blog/the-malformed-gospel-if-its-all-about-me-its-wrong/",
+		"target": "/writing/the-malformed-gospel-if-its-all-about-me-its-wrong/"
+	},
+	{
+		"source": "/blog/the-mission-of-the-gospel/",
+		"target": "/writing/the-mission-of-the-gospel/"
+	},
+	{
+		"source": "/blog/the-rise-of-a-dopamine-culture-scot-mcknight/",
+		"target": "/writing/the-rise-of-a-dopamine-culture-scot-mcknight/"
+	},
+	{
+		"source": "/board/",
+		"target": "/about/"
+	},
+	{
+		"source": "/calendar/",
+		"target": "/"
+	},
+	{
+		"source": "/edgerton-teen-center/",
+		"target": "/the-teen-center/"
+	},
+	{
+		"source": "/history/",
+		"target": "/about/"
+	},
+	{
+		"source": "/how-to-start-a-teen-center/",
+		"target": "/start-a-teen-center/"
+	},
+	{
+		"source": "/mission/",
+		"target": "/about/"
+	},
+	{
+		"source": "/outdoor-adventures/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/outdoor-adventures/camp-gallery/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/pro-teen/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/recording-studio/",
+		"target": "/programs/"
+	},
+	{
+		"source": "/staff/",
+		"target": "/about/"
+	},
+	{
+		"source": "/tags/",
+		"target": "/"
+	},
+	{
+		"source": "/tags/theological-and-cultural-traditions-shape-us-profoundly/",
+		"target": "/writing/theological-and-cultural-traditions-shape-us-profoundly/"
+	},
+	{
+		"source": "/theological-tradition-and-culture-shape-people/",
+		"target": "/writing/theological-tradition-and-culture-shape-people/"
+	}
+]

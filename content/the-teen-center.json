@@ -1,0 +1,374 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "The Teen Center"
+	},
+	"content": [
+		{
+			"type": "hero",
+			"attrs": {
+				"id": "0de4c1fe-4003-59af-a3e2-92902f0f62d2",
+				"image": "/uploads/1be6aa64d830675db04322d92fdd41a0.webp",
+				"alt": "Teenagers playing pool inside the Edgerton Teen Center",
+				"eyebrow": "Edgerton, Wisconsin",
+				"headline": "Edgerton Teen Center",
+				"lede": "Providing safe, supervised programs for local youth since 1993.",
+				"primaryLabel": "See the Programs",
+				"primaryLink": "/programs/",
+				"secondaryLabel": "",
+				"secondaryLink": "/"
+			}
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "426ae294-8c4d-5db6-9280-8a6b4164fe36"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "d3dbd158-fd10-580e-85b2-63199daab701"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Providing safe, supervised programs for local youth since 1993, the Edgerton Teen Center has truly come full circle. Begiining in 2010, we have been proud to serve the teenage children of our original 1990s participants. For us, these multi-generational bonds are the ultimate proof of our impact."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "5e424c4d-a8f2-5bba-a1e9-80c5fc5185e6"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "All the programs listed on this website take place at the Edgerton Teen Center."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "f0baa6a7-7827-58b6-a6b0-9ca8f237dad4"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "23206a54-8916-5a93-9b58-aa1147ba921a"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "5edbd36c-067b-597a-add5-108d3b2065f5"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "From the early days in 1993 to the present, our location has changed but not our mission. We Value Teens."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "16404a3c-ccc7-5a90-8582-b730d2013f0f"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Whether it's the arts, amusement, adventure, or games we have something for everyone."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "fa3dfbfa-c5c1-5ff4-96ea-ebc2f69f00f9"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Since its creation in 1993, the Edgerton Teen Center has been and remains 100% volunteer-staffed. No person receives financial compensation for their services, ensuring that all monies raised go directly toward youth programs. We are a faith-based youth organization that believes mutual trust and acceptance are the keys to healthy relationships."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "c9254c22-f5fa-5500-b9c5-76495958978a"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The Edgerton Teen Center, governed by Non-Toxic Youth Alternatives, Inc., is a 501(c)(3) non-profit organization incorporated in the State of Wisconsin. We place immense value on teens and have provided a safe and supervised place for young people for decades."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "6838f2ac-0b3e-5d7e-888a-d6f86d2ad2c0"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "The safety of those who enter our center is a top priority. Therefore, the training of volunteers, along with strict adherence to policies and procedures regarding sexual, physical, and emotional abuse, as well as bullying, is paramount. We use training materials provided by MinistrySafe, local law enforcement, and Child Protective Services to ensure a secure environment for all."
+				}
+			]
+		},
+		{
+			"type": "factBand",
+			"attrs": {
+				"id": "fac106ea-aa9e-5664-94c4-ab71e13c678c",
+				"facts": [
+					{
+						"label": "Hours",
+						"value": "Friday & Saturday 6:30–9:00pm"
+					},
+					{
+						"label": "Ages",
+						"value": "13+"
+					},
+					{
+						"label": "Cost",
+						"value": "Free"
+					},
+					{
+						"label": "Location",
+						"value": "204 W Fulton St, Edgerton"
+					}
+				]
+			}
+		},
+		{
+			"type": "gallery",
+			"attrs": {
+				"id": "652bd4e4-a7fd-5860-bde8-69a681eb03a0",
+				"commentary": "",
+				"images": [
+					{
+						"path": "/uploads/82bedfa0c905f627494d9ca0c225e3a9.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/dbfa6f2de87d04cf68f66580b716498b.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/07cc5df012d3e64f82c599284e6768e3.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/82f554965ee27aef6168cecb9079f3dc.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/7d8bbed75b7a3c73fec7caf217a27364.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/e7c780e348ea19a9a797db66e0444b69.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/476b04fe240dd406189ef7503e24262b.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/2635faa5a585138596f55e20a21dbe73.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/3e9fd67b23e0621d4d9fe3e0c5abddc8.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/9ce202de15d819a14e0bcdc816d08fa2.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/aa743e0d9ec2296253f2c8fb77d10419.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/bb00bf5a6540d0510321b298099bbec6.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/174b0b6691445bb37bd8aae69b20abf9.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/2b779f1d0a427a7bc5a57b805478a941.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/57593aedd81ca5ec03148fd8303e9c24.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/35d26d98802e4cd83e3bddd1c695d30e.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/b1b03d8882cdafe480fb4c76b02d4e0e.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/743d694a8bf7602495152f91a97cabe2.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/9bf204b523c9f60cbb78bcfa25cb4108.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/c3bb79d6ff9254b983232d5454351700.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/7d2d505e8da519c699836d24a25b4819.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/db980a4879055b13c0a23e688b6355ed.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/7f02ea9bc05abc4155c90b925136cbef.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/8442396f4f4ef7793485be25c5877163.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/b7cec72727929b9a6f2133872bd7db14.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/31aa3c09658473a404f372fd72063b6a.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/37918c0373479696813d3eddc735742b.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/a335f540d07290e679f36bcf5095e6f6.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/90693333e5e15910707a6d56fa15b408.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/f117ecd7260775cd538c5670f0390a75.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/3d9f037dc799d56a1e38fcd2d91f1da1.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/0ce84b6e624430e0451c5ce7b2b010e0.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/688907a06941ef064d2ae29b65edd8c7.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/04137a23dc4dba1919220b99b30e531e.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/46a1a14d229be393308f9cd80ccff358.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/772cfc948cfea7cb571f12e2e5873fe6.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/9324cf829af1124a510717336769b1e4.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/c62e8659cd23e2df30d21f1496d10a9a.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/1c9d525c57a6c3f97305651cda34df9a.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/b23879ad7a0a98adbb87a990fa780454.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/9561aa9ffaf3382c0c3e53db16d4a0e4.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/5ca35973ad858108b75e9eaff43585ab.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/3a872238ce32ab4fba30bb8b4b5965c1.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/33ac559b7d631a129e1dd46dcd67586a.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/e7cd35a785fb524aee673a332a80e41e.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/e8d530910c6ab71187293a7848500f54.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/327a1e9adb9aa1cde09a820640247eb6.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/e38b5d12a004e56a082d4c0b990858df.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/80f2cc6488469c2cfb51df16eaecbfe2.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/1b653856ec735208651868da37bec0ed.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/c7d757cbd4315e08da6a3e4b7bc88456.webp",
+						"caption": ""
+					},
+					{
+						"path": "/uploads/b1b03d8882cdafe480fb4c76b02d4e0e.webp",
+						"caption": ""
+					}
+				]
+			}
+		}
+	]
+}

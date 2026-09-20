@@ -1,0 +1,1161 @@
+@font-face {
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/anton-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Archivo';
+	font-style: normal;
+	font-weight: 400 700;
+	font-display: swap;
+	src: url('/fonts/archivo-variable.ttf') format('truetype');
+}
+
+:root {
+	--ground: #16130f;
+	--surface: #201b16;
+	--ink: #f2ece1;
+	--ink-muted: #b9ae9f;
+	--accent-text: #f0a92c;
+	--accent-fill: #d8402f;
+	--on-accent-fill: #fff;
+	--highlight-fill: #f0a92c;
+	--on-highlight-fill: #16130f;
+	--ground-deep: #0e0c09;
+	--bleed: 100vw;
+	--bleed-inset: max(1.25rem, calc((100vw - 75rem) / 2));
+	--measure: 48rem;
+	--edge: #2e2820;
+	--elevation: #2e2820;
+	font-family: 'Archivo', sans-serif;
+	font-synthesis: none;
+	color: var(--ink);
+	background: var(--ground);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	min-width: 20rem;
+	background: var(--ground);
+}
+
+a {
+	color: var(--accent-text);
+	text-underline-offset: 0.2em;
+}
+
+button,
+input,
+select,
+textarea {
+	font: inherit;
+}
+
+.shell {
+	width: min(100% - 2.5rem, 75rem);
+	margin-inline: auto;
+}
+
+.disp {
+	font-family: 'Anton', sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+}
+
+.site-header {
+	position: relative;
+	z-index: 10;
+	border-bottom: 1px solid var(--edge);
+	background: var(--ground-deep);
+}
+
+.header-inner,
+.header-actions,
+.menu-bar,
+.menu nav {
+	display: flex;
+	align-items: center;
+}
+
+.header-inner {
+	position: relative;
+	min-height: 6rem;
+	justify-content: space-between;
+	gap: 2rem;
+}
+
+.lockup {
+	display: flex;
+	flex: none;
+	min-height: 44px;
+	align-items: center;
+	gap: 0.75rem;
+	color: var(--ink);
+	text-decoration: none;
+}
+
+.lockup__mark {
+	display: block;
+	width: 2.75rem;
+	height: auto;
+}
+
+.lockup__names {
+	display: flex;
+	min-width: 0;
+	flex-direction: column;
+	gap: 0.25rem;
+}
+
+.lockup__name {
+	font-size: 1.25rem;
+	line-height: 1;
+}
+
+.lockup__tagline {
+	color: var(--ink-muted);
+	white-space: nowrap;
+	font-size: 0.625rem;
+	letter-spacing: 0.24em;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+.header-actions {
+	gap: 1rem;
+}
+
+.header-search {
+	/* Stretched to the header row's full height so the panel's top edge
+	   clears the header while its right edge stays under the toggle. */
+	position: relative;
+	align-self: stretch;
+	display: flex;
+	align-items: center;
+	--pf-text: var(--ink);
+	--pf-text-secondary: var(--ink-muted);
+	--pf-text-muted: var(--ink-muted);
+	--pf-background: var(--surface);
+	--pf-border: var(--edge);
+	--pf-border-focus: var(--accent-text);
+	--pf-hover: var(--edge);
+	--pf-mark: var(--on-highlight-fill);
+	--pf-outline-focus: var(--accent-text);
+	--pf-searchbox-max-width: 100%;
+	--pf-dropdown-z-index: 20;
+}
+
+.search-toggle {
+	display: inline-flex;
+	min-width: 44px;
+	min-height: 44px;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid transparent;
+	color: var(--ink);
+	background: transparent;
+	cursor: pointer;
+}
+
+.search-toggle:hover {
+	border-color: var(--edge);
+}
+
+.search-toggle[aria-expanded='true'] {
+	border-color: var(--accent-text);
+}
+
+.search-panel {
+	position: absolute;
+	top: calc(100% + 0.75rem);
+	right: 0;
+	z-index: 30;
+	width: min(24rem, calc(100vw - 2rem));
+	padding: 0.75rem;
+	border: 1px solid var(--edge);
+	background: var(--surface);
+	box-shadow: 0 16px 48px rgb(0 0 0 / 0.45);
+}
+
+.menu {
+	display: none;
+}
+
+.menu-bar,
+.menu nav {
+	flex: none;
+	gap: 0.25rem;
+}
+
+.menu-bar a,
+.menu a,
+.button {
+	display: inline-flex;
+	min-height: 44px;
+	align-items: center;
+	justify-content: center;
+	padding: 0.7rem 0.9rem;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.menu-bar a,
+.menu a {
+	color: var(--ink);
+	font-size: 0.8125rem;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+.button {
+	min-width: 4.5rem;
+	color: var(--on-accent-fill);
+	letter-spacing: 0.09em;
+	background: var(--accent-fill);
+	text-transform: uppercase;
+}
+
+.page-frame {
+	min-height: 55vh;
+	overflow-x: clip;
+}
+
+.reading-ground,
+.prose-band {
+	--ground: #f2ece1;
+	--surface: #e6dccd;
+	--ink: #16130f;
+	--ink-muted: #665d52;
+	--accent-text: #b8331f;
+	--edge: #cfc2b2;
+	--elevation: #cfc2b2;
+	color: var(--ink);
+	background: var(--ground);
+}
+
+/* Long-form reading takes the wider measure; the ground and the measure are the
+   same decision, so they travel together. The Editor variant reads it through
+   the shadow boundary, where only inherited properties reach it. */
+.reading-ground {
+	--measure: 68ch;
+}
+
+.reader-main {
+	padding-block: clamp(3rem, 8vw, 7rem);
+}
+
+.reader-main.leads-with-hero {
+	padding-top: 0;
+}
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	clip-path: inset(50%);
+	white-space: nowrap;
+}
+
+main:not(.reader-main, .shell, .editor-main) {
+	width: min(100% - 2.5rem, 48rem);
+	margin-inline: auto;
+	padding-block: 2rem;
+}
+
+.reader-main article {
+	max-width: var(--measure);
+	margin-inline: auto;
+}
+
+.essay-page h1 {
+	font-size: clamp(2.75rem, 7vw, 5.5rem);
+	line-height: 0.98;
+}
+
+.essay-byline {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 1.5rem;
+	margin-bottom: 1.5rem;
+	color: var(--accent-text);
+	font-size: 0.85rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.essay-summary {
+	margin-bottom: 3rem;
+	font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.reader-main h1 {
+	margin: 0 0 2rem;
+	font-size: clamp(2.75rem, 7.5vw, 6rem);
+	line-height: 0.92;
+}
+
+.uncial-content p,
+.uncial-content li {
+	font-size: clamp(1.05rem, 2vw, 1.2rem);
+	line-height: 1.7;
+}
+
+.uncial-content > :is(h2, h3, h4),
+.prose-band__body :is(h2, h3, h4),
+.program-section__body :is(h2, h3, h4) {
+	margin: 2.5rem 0 1rem;
+	font-family: 'Anton', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.02em;
+	line-height: 1.05;
+	text-transform: uppercase;
+}
+
+.uncial-content > h2,
+.prose-band__body h2,
+.program-section__body h2 {
+	font-size: clamp(1.9rem, 3.2vw, 2.9rem);
+}
+
+.uncial-content > h3,
+.prose-band__body h3,
+.program-section__body h3 {
+	font-size: clamp(1.5rem, 2.4vw, 2rem);
+}
+
+.uncial-content > h4,
+.prose-band__body h4,
+.program-section__body h4 {
+	font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+}
+
+.uncial-renderer > .uncial-content {
+	display: flow-root;
+}
+
+/* The Editor variant is the page: the document sits in the reader's own column
+   on the reader's ground, and the editor reserves no width of its own, so
+   `--bleed` and `--measure` mean here exactly what they mean at the reader URL
+   and a block wraps and bleeds the same on both. */
+.uncial-editor-body .uncial-content {
+	width: min(100% - 2.5rem, var(--measure));
+	margin-inline: auto;
+	padding-block: clamp(3rem, 8vw, 7rem);
+}
+
+/* A page that opens on a hero opens flush against the header, as the reader's
+   `.leads-with-hero` does. */
+.uncial-editor-body .uncial-content:has(> .uncial-nodeview:first-child[data-uncial-block-id='hero']) {
+	padding-top: 0;
+}
+
+.uncial-editor-body {
+	color: var(--ink);
+	font-family: 'Archivo', sans-serif;
+	background: var(--ground);
+}
+
+.editor-main {
+	padding-bottom: 4rem;
+}
+
+.editor-bar {
+	margin-block: 1rem 0;
+	color: var(--ink-muted);
+	font-size: 0.8rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+/* The CMS's own controls belong to the page frame, not to the document. */
+.uncial-cms-editor-page > .uncial-cms-chrome,
+.uncial-cms-editor-page > .uncial-cms-banner {
+	width: min(100% - 2.5rem, 75rem);
+	margin-inline: auto;
+}
+
+.marquee-hero,
+.fact-band,
+.call-band,
+.prose-band,
+.program-section,
+.card-row,
+.gallery,
+.bio-grid-section {
+	position: relative;
+	left: 50%;
+	width: var(--bleed);
+	margin-left: calc(var(--bleed) / -2);
+}
+
+.card-row,
+.gallery,
+.bio-grid-section {
+	padding-inline: var(--bleed-inset);
+}
+
+.marquee-hero {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr);
+	grid-template-rows: minmax(0, 1fr) auto;
+	min-height: clamp(29rem, 43vw, 39rem);
+	align-items: end;
+	overflow: hidden;
+	background: var(--surface);
+}
+
+.marquee-hero > img,
+.marquee-hero__scrim {
+	grid-area: 1 / 1 / 3 / 2;
+}
+
+.marquee-hero__content {
+	grid-area: 1 / 1 / 2 / 2;
+}
+
+.marquee-hero__actions {
+	grid-area: 2 / 1 / 3 / 2;
+}
+
+/* The photograph is cropped to the band, not the other way round: left in
+   flow it sizes the grid row to its own aspect ratio and the headline sinks
+   to the bottom of a frame far taller than the design's. */
+.marquee-hero > img {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.marquee-hero__scrim {
+	align-self: stretch;
+	/* The photograph is absolutely positioned, so it paints above any
+	   static sibling; the scrim must be positioned too to sit over it. */
+	position: relative;
+	/* Only the text column is darkened: the lede's 36rem measure from the
+	   shell edge, fading out beyond it so the rest of the photograph stays
+	   clear. The mask lets the band in from the top rather than as a panel. */
+	background: linear-gradient(
+		90deg,
+		color-mix(in srgb, var(--ground) 88%, transparent) calc(var(--bleed-inset) + 30rem),
+		transparent calc(var(--bleed-inset) + 50rem)
+	);
+	mask-image: linear-gradient(180deg, transparent 0%, #000 45%);
+}
+
+.marquee-hero__content,
+.marquee-hero__actions {
+	z-index: 1;
+}
+
+.marquee-hero__content {
+	padding-block: clamp(1.75rem, 4vw, 3.5rem) 1.5rem;
+}
+
+.marquee-hero__actions {
+	padding-block: 0 clamp(1.75rem, 4vw, 3.5rem);
+}
+
+/* In the hero the eyebrow is a lit sign, not a caption. */
+.marquee-hero .block-eyebrow {
+	display: inline-block;
+	margin-bottom: 1.25rem;
+	padding: 0.5rem 1rem;
+	font-size: clamp(0.7rem, 1.6vw, 0.8rem);
+	color: var(--on-highlight-fill);
+	letter-spacing: 0.16em;
+	background: var(--highlight-fill);
+}
+
+.block-eyebrow {
+	margin: 0 0 0.75rem;
+	color: var(--accent-text);
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.18em;
+	text-transform: uppercase;
+}
+
+.marquee-hero h2 {
+	max-width: 13ch;
+	margin: 0;
+	font-size: clamp(3rem, 7.5vw, 6.5rem);
+	line-height: 0.9;
+}
+
+.marquee-hero__lede {
+	max-width: 36rem;
+	margin-block: 1.25rem 1.75rem;
+	font-size: clamp(1rem, 1.4vw, 1.25rem);
+	line-height: 1.55;
+}
+
+.block-actions {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 1.25rem;
+}
+
+.block-button,
+.call-band__button {
+	display: inline-flex;
+	min-height: 44px;
+	align-items: center;
+	padding: 0.9rem 2rem;
+	color: var(--on-accent-fill);
+	font-weight: 700;
+	letter-spacing: 0.09em;
+	text-decoration: none;
+	text-transform: uppercase;
+	background: var(--accent-fill);
+}
+
+.block-button--ghost {
+	color: var(--ink);
+	border: 2px solid var(--ink);
+	background: transparent;
+}
+
+.block-link {
+	font-size: 0.875rem;
+	font-weight: 700;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+}
+
+.fact-band {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+	gap: 1px;
+	margin-block: 0;
+	padding: 0 var(--bleed-inset);
+	color: var(--on-highlight-fill);
+	background: var(--highlight-fill);
+}
+
+.fact-band div {
+	padding: clamp(1.5rem, 4vw, 3rem);
+	border-left: 1px solid color-mix(in srgb, var(--on-highlight-fill) 25%, transparent);
+}
+
+.fact-band dt {
+	font-size: 0.75rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+}
+
+.fact-band dd {
+	margin: 0.4rem 0 0;
+	font-size: clamp(1.35rem, 1.9vw, 1.75rem);
+	line-height: 1.1;
+}
+
+.card-row {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 1.5rem;
+	margin-block: 3rem;
+}
+
+.card-row[data-columns='2'] {
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.card-row[data-columns='4'] {
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.marquee-card {
+	display: flex;
+	min-width: 0;
+	flex-direction: column;
+	background: var(--surface);
+}
+
+.marquee-card__image {
+	aspect-ratio: 2 / 1;
+	overflow: hidden;
+	background: var(--ground);
+}
+
+.marquee-card__image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	transition: transform 180ms ease;
+}
+
+.marquee-card:hover .marquee-card__image img {
+	transform: scale(1.025);
+}
+
+.marquee-card__body {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 0.625rem;
+	padding: 1.5rem 1.5rem 1.75rem;
+}
+
+.marquee-card h3 {
+	margin: 0;
+	color: var(--accent-text);
+	font-size: clamp(1.35rem, 2vw, 1.65rem);
+	line-height: 1.05;
+}
+
+.marquee-card p {
+	margin: 0;
+	color: var(--ink-muted);
+	font-size: 0.95rem;
+	line-height: 1.6;
+}
+
+.marquee-card .block-link {
+	margin-top: auto;
+}
+
+.call-band {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) auto;
+	align-items: center;
+	gap: 2rem;
+	padding: clamp(2rem, 6vw, 5rem) var(--bleed-inset);
+	color: var(--on-accent-fill);
+	background: var(--accent-fill);
+}
+
+.call-band h2 {
+	margin: 0;
+	font-size: clamp(2.25rem, 4.5vw, 3.4rem);
+	line-height: 1;
+}
+
+.call-band p {
+	max-width: 42rem;
+}
+
+.call-band__button {
+	color: var(--on-highlight-fill);
+	background: var(--highlight-fill);
+}
+
+.block-image-editor,
+.block-external-url {
+	position: relative;
+	z-index: 2;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	align-items: center;
+	padding: 0.75rem;
+	color: var(--ink);
+	font-size: 0.8rem;
+	background: var(--surface);
+}
+
+.block-external-url input {
+	min-width: min(22rem, 100%);
+}
+
+.prose-band {
+	padding-block: clamp(3rem, 8vw, 7rem);
+}
+
+.prose-band__body {
+	width: min(100% - 2.5rem, 48rem);
+	margin-inline: auto;
+}
+
+
+.program-section {
+	container-type: inline-size;
+	display: grid;
+	grid-template-columns: minmax(0, 1.1fr) minmax(20rem, 0.9fr);
+	min-height: 36rem;
+	border-block: 1px solid var(--edge);
+	background: var(--surface);
+}
+
+.program-section__image {
+	align-self: start;
+	height: clamp(20rem, 34vw, 34rem);
+	overflow: hidden;
+	background: var(--ground);
+}
+
+.program-section__image > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.program-section__body {
+	padding: clamp(1.5rem, 5cqi, 5rem);
+}
+
+.program-section__title,
+.bio-grid-section > h2 {
+	margin: 0 0 1.5rem;
+	font-size: clamp(2.25rem, 4.5vw, 3.4rem);
+	line-height: 1;
+}
+
+.gallery {
+	margin-block: 2rem;
+}
+
+.gallery__commentary {
+	max-width: 42rem;
+}
+
+.gallery__grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+	gap: 1rem;
+}
+
+.gallery figure {
+	margin: 0;
+	background: var(--ground);
+}
+
+.gallery picture,
+.gallery img {
+	display: block;
+	width: 100%;
+}
+
+.gallery img {
+	aspect-ratio: 4 / 3;
+	height: auto;
+	object-fit: cover;
+}
+
+.gallery figcaption {
+	padding: 0.75rem;
+	color: var(--ink-muted);
+	font-size: 0.9rem;
+}
+
+.gallery__image-editor,
+.gallery__uploader {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+	align-items: center;
+	padding: 0.75rem;
+	background: var(--surface);
+}
+
+.gallery__image-editor label {
+	display: grid;
+	flex: 1;
+	gap: 0.25rem;
+}
+
+.bio-grid-section {
+	margin-block: clamp(3rem, 8vw, 6rem);
+}
+
+.bio-grid {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 1.5rem;
+}
+
+.bio {
+	min-width: 0;
+}
+
+.bio__portrait {
+	aspect-ratio: 4 / 5;
+	overflow: hidden;
+	background: var(--surface);
+}
+
+.bio__portrait > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.bio h3 {
+	margin: 1rem 0 0;
+	font-size: clamp(1.8rem, 3vw, 2.6rem);
+	line-height: 1;
+}
+
+.bio__role,
+.essay-list__meta {
+	color: var(--accent-text);
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.essay-list__item {
+	padding-block: 2rem;
+	border-top: 1px solid var(--edge);
+}
+
+.essay-list__item:last-child {
+	border-bottom: 1px solid var(--edge);
+}
+
+.essay-list__item h2 {
+	margin: 0.5rem 0;
+	font-size: clamp(2rem, 5vw, 3.75rem);
+	line-height: 1;
+}
+
+.essay-list__item h2 a {
+	color: var(--ink);
+	text-decoration: none;
+}
+
+.writing-index {
+	padding-block: clamp(3rem, 8vw, 7rem);
+}
+
+.search-page,
+.not-found {
+	padding-block: clamp(3rem, 8vw, 7rem);
+}
+
+.search-page h1,
+.not-found h1 {
+	max-width: 14ch;
+	margin: 0 0 2rem;
+	color: var(--accent-text);
+	font-size: clamp(4rem, 12vw, 9rem);
+	line-height: 0.9;
+}
+
+.pagefind-full {
+	max-width: 52rem;
+	--pf-text: var(--ink);
+	--pf-text-secondary: var(--ink-muted);
+	--pf-text-muted: var(--ink-muted);
+	--pf-background: var(--surface);
+	--pf-border: var(--edge);
+	--pf-border-focus: var(--accent-text);
+	--pf-hover: var(--edge);
+	--pf-mark: var(--on-highlight-fill);
+	--pf-outline-focus: var(--accent-text);
+}
+
+.not-found > p:not(.block-eyebrow) {
+	max-width: 38rem;
+	font-size: clamp(1.15rem, 2vw, 1.4rem);
+	line-height: 1.6;
+}
+
+.writing-index__header {
+	margin-bottom: clamp(3rem, 7vw, 6rem);
+}
+
+.writing-index__header h1 {
+	max-width: 14ch;
+	margin: 0;
+	color: var(--accent-text);
+	font-size: clamp(4rem, 12vw, 9rem);
+	line-height: 0.9;
+}
+
+.essay-cards {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 0 3rem;
+}
+
+.essay-card {
+	padding-block: 2.5rem;
+	border-top: 1px solid var(--edge);
+}
+
+.essay-card__meta {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 1.25rem;
+	margin: 0;
+	color: var(--accent-text);
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.essay-card h2 {
+	margin: 0.75rem 0;
+	font-size: clamp(2rem, 4vw, 3.5rem);
+	line-height: 1;
+}
+
+.essay-card h2 a {
+	color: var(--ink);
+	text-decoration: none;
+}
+
+.essay-card > p:not(.essay-card__meta) {
+	line-height: 1.6;
+}
+
+.essay-list__category,
+.essay-card__category {
+	display: inline-flex;
+	min-height: 44px;
+	align-items: center;
+	font-size: 0.85rem;
+	font-weight: 700;
+}
+
+.site-footer {
+	border-top: 1px solid var(--edge);
+	background: var(--ground-deep);
+}
+
+.footer-grid {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	gap: 3rem;
+	padding-block: 3.5rem;
+}
+
+.site-footer h2 {
+	margin: 0 0 1rem;
+	font-size: 2rem;
+}
+
+.site-footer p {
+	margin-block: 0.5rem;
+	color: var(--ink-muted);
+	line-height: 1.5;
+}
+
+.site-footer address {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	font-style: normal;
+}
+
+.site-footer a {
+	display: inline-flex;
+	min-height: 44px;
+	align-items: center;
+}
+
+.social-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 1.25rem;
+}
+
+.footer-base {
+	display: flex;
+	min-height: 4.5rem;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1rem;
+	border-top: 1px solid var(--edge);
+}
+
+.uncial-cms-chrome,
+.uncial-cms-index li,
+.uncial-cms-create {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	margin-block: 0.75rem;
+}
+
+@media (max-width: 64rem) {
+	.header-inner {
+		min-height: 5rem;
+		gap: 0.75rem;
+	}
+
+	/* Too little room to hang the panel off the toggle, so it anchors to
+	   the header row instead and drops below it, shell-aligned. */
+	.header-search {
+		position: static;
+		align-self: center;
+		display: block;
+	}
+
+	.header-actions {
+		gap: 0.5rem;
+	}
+
+	.menu-bar {
+		display: none;
+	}
+
+	.menu {
+		position: relative;
+		display: block;
+	}
+
+	.menu summary {
+		display: flex;
+		min-width: 4.5rem;
+		min-height: 44px;
+		align-items: center;
+		justify-content: center;
+		border: 1px solid var(--edge);
+		font-weight: 600;
+		cursor: pointer;
+		list-style: none;
+	}
+
+	.menu summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.menu nav {
+		position: absolute;
+		top: calc(100% + 0.75rem);
+		right: 0;
+		display: none;
+		width: min(18rem, calc(100vw - 2rem));
+		padding: 0.5rem;
+		border: 1px solid var(--edge);
+		background: var(--surface);
+	}
+
+	.menu[open] nav {
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+	}
+
+	.menu nav a {
+		justify-content: flex-start;
+	}
+}
+
+@media (max-width: 52rem) {
+	.shell {
+		width: min(100% - 2rem, 75rem);
+	}
+
+	.lockup__mark {
+		width: 2.25rem;
+	}
+
+	.lockup__name {
+		font-size: 1.05rem;
+	}
+
+	/* The phone's header row has no space for the tagline, and the page's
+	   own hero says the same thing two lines further down. */
+	.lockup__tagline {
+		display: none;
+	}
+
+	.footer-grid {
+		grid-template-columns: 1fr;
+		gap: 2rem;
+		padding-block: 2.5rem;
+	}
+
+	.footer-base {
+		align-items: flex-start;
+		flex-direction: column;
+		justify-content: center;
+		padding-block: 1rem;
+	}
+
+	.card-row,
+	.card-row[data-columns='2'],
+	.card-row[data-columns='4'],
+	.call-band,
+	.program-section,
+	.bio-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.essay-cards {
+		grid-template-columns: 1fr;
+	}
+
+	.program-section__body {
+		padding-inline: 1rem;
+	}
+
+	.bio-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	.marquee-hero {
+		min-height: 0;
+		grid-template-rows: minmax(29rem, auto) auto;
+	}
+
+	/* An out-of-flow grid child reads an auto end line as the container's
+	   padding edge, so the photograph needs both of its lines named. */
+	.marquee-hero > img,
+	.marquee-hero__scrim {
+		grid-row: 1 / 2;
+	}
+
+	/* Text spans the full width here, so the band does too. */
+	.marquee-hero__scrim {
+		background: linear-gradient(
+			180deg,
+			color-mix(in srgb, var(--ground) 20%, transparent) 0%,
+			color-mix(in srgb, var(--ground) 92%, transparent) 76%
+		);
+		mask-image: none;
+	}
+
+	.marquee-hero__actions {
+		padding-block: 1.25rem;
+	}
+
+	.block-actions {
+		flex-direction: column;
+		align-items: stretch;
+		gap: 0.75rem;
+	}
+
+	.block-button,
+	.call-band__button {
+		justify-content: center;
+	}
+
+	.fact-band div {
+		padding-inline: 0;
+		border-left: 0;
+		border-top: 1px solid color-mix(in srgb, var(--on-highlight-fill) 25%, transparent);
+	}
+
+	.call-band {
+		justify-items: start;
+	}
+}
+
+@media (max-width: 34rem) {
+	.bio-grid {
+		grid-template-columns: 1fr;
+	}
+}

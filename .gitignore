@@ -1,0 +1,9 @@
+node_modules/
+/.svelte-kit/
+/build/
+/.e2e-build/
+/playwright-report/
+/test-results/
+.DS_Store
+.vscode
+/.idea/

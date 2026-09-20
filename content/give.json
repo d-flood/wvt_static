@@ -1,0 +1,64 @@
+{
+	"type": "doc",
+	"version": 2,
+	"meta": {
+		"title": "Give"
+	},
+	"content": [
+		{
+			"type": "callBand",
+			"attrs": {
+				"id": "912ac375-5193-5810-a3a9-bc716084f995",
+				"heading": "Place value on teens",
+				"body": "No person receives financial compensation for their services, ensuring that all monies raised go directly toward youth programs.",
+				"label": "Give with PayPal",
+				"link": "external",
+				"externalUrl": "https://www.paypal.com/donate/?hosted_button_id=4NV83ZF2FFM28"
+			}
+		},
+		{
+			"type": "proseBand",
+			"attrs": {
+				"id": "10d042f5-5398-5f77-a86a-7273df7cbb51"
+			},
+			"content": [
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "ed9993c3-1074-517e-b4b6-988354831824"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "Since its creation in 1993, the Edgerton Teen Center has been and remains 100% volunteer-staffed. No person receives financial compensation for their services, ensuring that all monies raised go directly toward youth programs. We are a faith-based youth organization that believes mutual trust and acceptance are the keys to healthy relationships."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "ecefd768-b6c1-588e-8848-5c730d9a0cbf"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The Edgerton Teen Center, governed by Non-Toxic Youth Alternatives, Inc., is a 501(c)(3) non-profit organization incorporated in the State of Wisconsin. We place immense value on teens and have provided a safe and supervised place for young people for decades."
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"attrs": {
+						"id": "4246773d-6689-583e-a623-a80404e4ab4a"
+					},
+					"content": [
+						{
+							"type": "text",
+							"text": "The safety of those who enter our center is a top priority. Therefore, the training of volunteers, along with strict adherence to policies and procedures regarding sexual, physical, and emotional abuse, as well as bullying, is paramount. We use training materials provided by MinistrySafe, local law enforcement, and Child Protective Services to ensure a secure environment for all."
+						}
+					]
+				}
+			]
+		}
+	]
+}

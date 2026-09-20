@@ -1,0 +1,71 @@
+{
+	"type": "doc",
+	"version": 2,
+	"content": [
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "4511661c-241a-5dc1-a934-5d08f4d5b326"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "This blog is an attempt to communicate what has been learned over the past 30 years while being with teenagers. Some of the articles will articulate scenarios of success and failure while most will home in on events and encounters that have shaped our mission. Research and experience have taught much and it is our hope that readers will be inspired, educated, and motivated in their own lives and ministries."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "aeba9ab5-fe05-500f-a72c-b41cecc0c5e1"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "In 1993, I created a charitable organization focused on teen-centric indoor activities and outdoor adventures. As the founder and acting president of Non-Toxic Youth Alternatives, Inc. (DBA Edgerton Teen Center), together with a passionate team continue to develop an integrative curiosity-driven teen center that incorporates hands-on educational programs, active participation in the fine arts and skilled trades, indoor recreational games, along with an expanding outdoor retreat schedule that has included rock climbing and rappelling, wild caving, cruising on waterways in the newly refurbished pontoon boat, kayaks, and canoes, and north woods adventures through the camp. Here, the organization owns all the equipment necessary for fun and safe recreational activities and its volunteers are skilled in their respective roles."
+				}
+			]
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "be7c344c-6b57-5438-88f6-bab3e36683e9"
+			},
+			"content": []
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "3f6d6429-aef4-5092-8ac8-857c98f551b8"
+			},
+			"content": [
+				{
+					"type": "text",
+					"text": "Dave Flood DMin, BA Moody Bible Institute, Chicago, IL; MACL Dallas Theological Seminary, Dallas TX; Doctor of Ministry, Northern Seminary, Lisle IL."
+				}
+			]
+		}
+	],
+	"meta": {
+		"title": "Dave Flood, DMin.",
+		"date": "2023-09-22",
+		"byline": "Dave Flood",
+		"category": "The teen center",
+		"summary": "Dave Flood introduces the experience, research, successes, and failures behind three decades of ministry alongside teenagers.",
+		"legacyTags": [
+			"edgerton teen center",
+			"non-toxic youth alternatives",
+			"we value teens"
+		],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
+}
