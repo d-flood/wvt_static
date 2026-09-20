@@ -36,6 +36,7 @@ jobs:
           cache: pnpm
 
       - name: Configure Pages
+        id: pages
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
@@ -49,6 +50,9 @@ jobs:
 
       - name: Build
         run: pnpm run build
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          PUBLIC_SITE_ORIGIN: ${{ steps.pages.outputs.origin }}
 
       - name: Assert content pages ship no CMS JavaScript
         run: pnpm run assert:clean-pages

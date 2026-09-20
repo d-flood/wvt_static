@@ -1,3 +1,4 @@
+import { base } from '$app/paths';
 import siteDocument from '../../content/site.json';
 import type { SiteData } from '$lib/site-data.js';
 import { isEssayPath } from '$lib/site-routes.js';
@@ -12,5 +13,5 @@ function readingGround(pathname: string): boolean {
 
 export const load = ({ url }) => ({
 	site: siteDocument.meta satisfies SiteData,
-	ground: readingGround(url.pathname) ? 'cream' : 'ink'
+	ground: readingGround(url.pathname.slice(base.length)) ? 'cream' : 'ink'
 });

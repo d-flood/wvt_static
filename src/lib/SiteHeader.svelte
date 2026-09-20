@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { asset, base, resolve } from '$app/paths';
 	import { tick } from 'svelte';
 	import type { SiteData } from './site-data.js';
 	import { SITE_ROUTES } from './site-routes.js';
@@ -37,7 +38,7 @@
 		'/about/': 'About'
 	};
 	const navItems = SITE_ROUTES.filter((route) => route.value in navLabels).map((route) => ({
-		href: route.value,
+		href: resolve(route.value),
 		label: navLabels[route.value] ?? route.label
 	}));
 </script>
@@ -50,8 +51,8 @@
 
 <header class="site-header">
 	<div class="shell header-inner">
-		<a class="lockup" href="/" rel="external">
-			<img class="lockup__mark" src="/wvt-mark-duotone.svg" alt="" />
+		<a class="lockup" href={resolve('/')} rel="external">
+			<img class="lockup__mark" src={asset('/wvt-mark-duotone.svg')} alt="" />
 			<span class="lockup__names">
 				<span class="lockup__name disp">{site.siteName}</span>
 				{#if site.tagline}<span class="lockup__tagline">{site.tagline}</span>{/if}
@@ -76,6 +77,7 @@
 			</button>
 			{#if searchOpen}
 				<div id="header-search-panel" class="search-panel" role="dialog" aria-label="Site search">
+					<pagefind-config instance="header" base-url={`${base}/`} bundle-path={`${base}/pagefind/`}></pagefind-config>
 					<pagefind-searchbox instance="header" max-results="5" hide-shortcut></pagefind-searchbox>
 				</div>
 			{/if}

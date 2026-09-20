@@ -1,3 +1,5 @@
+import { base } from '$app/paths';
+
 /** The site's internal routes: the link enum offered to editors, and the shape of an Essay path. */
 
 interface ContentMeta {
@@ -47,7 +49,7 @@ export const LINK_OPTIONS = [
 export const LINK_VALUES = new Set<string>(LINK_OPTIONS.map((option) => option.value));
 
 export function resolveBlockLink(link: string, externalUrl: string): string {
-	return link === 'external' ? externalUrl : link;
+	return link === 'external' ? externalUrl : `${base}${link}`;
 }
 
 /** An Essay lives one level under /writing/; the Writing index itself does not. */

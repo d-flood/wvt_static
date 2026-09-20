@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { asset } from '$app/paths';
 	import '../app.css';
 	import PagefindAssets from '$lib/PagefindAssets.svelte';
 	import SiteFooter from '$lib/SiteFooter.svelte';
@@ -8,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href="/favicon.svg" />
+	<link rel="icon" href={asset('/favicon.svg')} />
 	<script
 		defer
 		src="https://stats.dflood.org/script.js"

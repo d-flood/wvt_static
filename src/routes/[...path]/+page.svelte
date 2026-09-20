@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { Renderer } from 'uncial/render';
 	import PageMetadata from '$lib/PageMetadata.svelte';
 	import { categorySlug } from '$lib/essay-categories.js';
@@ -49,7 +50,7 @@
 				{#if date}<time datetime={date}>{date}</time>{/if}
 				{#if byline}<span>By {byline}</span>{/if}
 				{#if category}
-					<a href={`/writing/category/${categorySlug(category)}/`}>{category}</a>
+					<a href={resolve(`/writing/category/${categorySlug(category)}/`)}>{category}</a>
 				{/if}
 			</p>
 			{#if summary}<p class="essay-summary">{summary}</p>{/if}

@@ -7,7 +7,8 @@ import { legacyRoutes } from './legacy-routes.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const build = resolve(root, 'build');
-const origin = 'https://www.wevalueteens.com';
+const origin = process.env.PUBLIC_SITE_ORIGIN || 'https://www.wevalueteens.com';
+const base = process.env.BASE_PATH ?? '';
 
 const escapeHtml = (value) =>
 	value.replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;');
@@ -17,8 +18,8 @@ const outputPath = (route) =>
 
 function redirectPage(source, target) {
 	const escapedSource = escapeHtml(source);
-	const escapedTarget = escapeHtml(target);
-	const canonical = `${origin}${target}`;
+	const escapedTarget = escapeHtml(`${base}${target}`);
+	const canonical = `${origin}${base}${target}`;
 	return `<!doctype html>
 <html lang="en">
 	<head>
@@ -73,6 +74,6 @@ ${urls.map((url) => `\t<url><loc>${escapeHtml(url)}</loc></url>`).join('\n')}
 </urlset>
 `;
 writeFileSync(join(build, 'sitemap.xml'), sitemap);
-writeFileSync(join(build, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
+writeFileSync(join(build, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}${base}/sitemap.xml\n`);
 
 console.log(`static-files: ${routes.filter(({ source, target }) => source !== target).length} redirects, ${urls.length} canonical URLs`);

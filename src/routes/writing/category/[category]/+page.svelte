@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import EssayCard from '$lib/EssayCard.svelte';
 	import { categorySlug } from '$lib/essay-categories.js';
 	import PageMetadata from '$lib/PageMetadata.svelte';
@@ -17,7 +18,7 @@
 
 <main class="writing-index shell" data-pagefind-body>
 	<header class="writing-index__header">
-		<p class="block-eyebrow"><a href="/writing/">Writing</a></p>
+		<p class="block-eyebrow"><a href={resolve('/writing/')}>Writing</a></p>
 		<h1 class="disp">{data.category}</h1>
 	</header>
 	<div class="essay-cards">

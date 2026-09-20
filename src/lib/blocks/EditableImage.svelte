@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	interface Props {
 		src?: string;
 		alt?: string;
@@ -10,7 +11,7 @@
 	let previewUrl = $state<string | null>(null);
 	let error = $state<string | null>(null);
 	let busy = $state(false);
-	const displaySrc = $derived(previewUrl ?? src);
+	const displaySrc = $derived(previewUrl ?? (src ? `${base}${src}` : ''));
 
 	function clearPreview(): void {
 		if (!previewUrl) return;

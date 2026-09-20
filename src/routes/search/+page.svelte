@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import PageMetadata from '$lib/PageMetadata.svelte';
 	import { defaultSocialImage, defaultSocialImageAlt } from '$lib/page-metadata.js';
 </script>
@@ -17,6 +18,7 @@
 		<h1 class="disp">Search</h1>
 	</header>
 	<div class="pagefind-full" data-pf-theme="dark">
+		<pagefind-config instance="search-page" base-url={`${base}/`} bundle-path={`${base}/pagefind/`}></pagefind-config>
 		<pagefind-input instance="search-page" placeholder="Search We Value Teens"></pagefind-input>
 		<pagefind-summary instance="search-page"></pagefind-summary>
 		<pagefind-results instance="search-page"></pagefind-results>

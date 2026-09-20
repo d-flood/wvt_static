@@ -1,4 +1,9 @@
-const origin = 'https://www.wevalueteens.com';
+import { base } from '$app/paths';
+import { env } from '$env/dynamic/public';
+
+// The canonical origin the built pages are served from. Overridden in CI so a
+// deploy to the default GitHub Pages URL does not claim the custom domain.
+const origin = env.PUBLIC_SITE_ORIGIN || 'https://www.wevalueteens.com';
 
 const descriptions: Record<string, string> = {
 	'/': 'A free, supervised place for teenagers in Edgerton, Wisconsin, serving the community since 1993.',
@@ -50,5 +55,5 @@ export function socialImage(document: unknown): string {
 }
 
 export function absoluteUrl(path: string): string {
-	return `${origin}${path}`;
+	return `${origin}${base}${path}`;
 }

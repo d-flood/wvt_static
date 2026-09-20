@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { categorySlug } from '$lib/essay-categories.js';
 
 	interface Essay {
@@ -18,9 +19,9 @@
 		<time datetime={essay.date}>{essay.date}</time>
 		{#if essay.byline}<span>By {essay.byline}</span>{/if}
 	</p>
-	<h2 class="disp"><a href={`/writing/${essay.slug}/`}>{essay.title}</a></h2>
+	<h2 class="disp"><a href={resolve(`/writing/${essay.slug}/`)}>{essay.title}</a></h2>
 	<p>{essay.summary}</p>
-	<a class="essay-card__category" href={`/writing/category/${categorySlug(essay.category)}/`}>
+	<a class="essay-card__category" href={resolve(`/writing/category/${categorySlug(essay.category)}/`)}>
 		{essay.category}
 	</a>
 </article>
