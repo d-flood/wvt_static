@@ -1,29 +1,27 @@
 {
 	"type": "doc",
 	"version": 2,
-	"meta": {
-		"title": "We Value Teens"
-	},
 	"content": [
 		{
 			"type": "hero",
 			"attrs": {
-				"id": "ff975d5e-fea2-5ce7-9305-9713ecaca3e8",
 				"image": "/uploads/dbfa6f2de87d04cf68f66580b716498b.webp",
 				"alt": "Teenagers playing games during a Halloween event at the Edgerton Teen Center",
 				"eyebrow": "placing value on teens since 1993",
-				"headline": "We Value Teens",
+				"headline": "No one is turned away at the door.",
 				"lede": "Three decades of Friday and Saturday nights in downtown Edgerton — pool, live music, a recording studio, the PRO-Teen shop, and adults who show up every week.",
 				"primaryLabel": "Visit the Teen Center",
 				"primaryLink": "/the-teen-center/",
+				"primaryExternalUrl": "",
 				"secondaryLabel": "See the Programs",
-				"secondaryLink": "/programs/"
+				"secondaryLink": "/programs/",
+				"secondaryExternalUrl": "",
+				"id": "ff975d5e-fea2-5ce7-9305-9713ecaca3e8"
 			}
 		},
 		{
 			"type": "factBand",
 			"attrs": {
-				"id": "68ebb779-7bb8-5889-a431-d21e6a4b9c28",
 				"facts": [
 					{
 						"label": "Hours",
@@ -41,47 +39,51 @@
 						"label": "Location",
 						"value": "204 W Fulton St, Edgerton"
 					}
-				]
+				],
+				"id": "68ebb779-7bb8-5889-a431-d21e6a4b9c28"
 			}
 		},
 		{
 			"type": "cardRow",
 			"attrs": {
-				"id": "e2068cc0-5f27-550a-9167-ff8f14bdde4f",
-				"columns": 3
+				"columns": 3,
+				"id": "e2068cc0-5f27-550a-9167-ff8f14bdde4f"
 			},
 			"content": [
 				{
 					"type": "card",
 					"attrs": {
-						"id": "fde5eb14-be30-55bb-8d36-de1a2a15ae99",
 						"image": "/uploads/17a579ee343881dd6deb7959ca6bc665.webp",
 						"alt": "Teenagers and adult mentors standing on the zipline tower at Bear Claw Lodge",
 						"title": "Outdoor Adventures",
 						"blurb": "The north woods teen adventure camp—Bear Claw Lodge",
-						"link": "/programs/"
+						"link": "/programs/",
+						"externalUrl": "",
+						"id": "fde5eb14-be30-55bb-8d36-de1a2a15ae99"
 					}
 				},
 				{
 					"type": "card",
 					"attrs": {
-						"id": "7c18334e-1bd7-5836-ac3a-f7afa55d1fa5",
 						"image": "/uploads/8eb4e26627ead8ec3505a593983d4765.webp",
 						"alt": "Teenagers playing pool and games inside the Edgerton Teen Center",
 						"title": "Edgerton Teen Center",
 						"blurb": "placing value on teens since 1993",
-						"link": "/the-teen-center/"
+						"link": "/the-teen-center/",
+						"externalUrl": "",
+						"id": "7c18334e-1bd7-5836-ac3a-f7afa55d1fa5"
 					}
 				},
 				{
 					"type": "card",
 					"attrs": {
-						"id": "a2b019ab-8929-51ae-b331-9f6a6737655e",
 						"image": "/uploads/2547a17a2167e0b1bcf9805aa4a03da9.webp",
 						"alt": "Non-Toxic Studio logo",
 						"title": "Recording Studio",
 						"blurb": "free for Edgerton area teens by appointment",
-						"link": "/programs/"
+						"link": "/programs/",
+						"externalUrl": "",
+						"id": "a2b019ab-8929-51ae-b331-9f6a6737655e"
 					}
 				}
 			]
@@ -108,6 +110,7 @@
 					"type": "heading",
 					"attrs": {
 						"id": "e435bc30-3a1b-5c4f-b1b9-230626041373",
+						"slug": "since-1993-we-have-been-committed-to-the-belief-that",
 						"level": 4
 					},
 					"content": [
@@ -209,6 +212,7 @@
 					"type": "heading",
 					"attrs": {
 						"id": "36505847-f9c1-5c99-93bf-e6fef95db333",
+						"slug": "writing",
 						"level": 2
 					},
 					"content": [
@@ -233,10 +237,10 @@
 				{
 					"type": "essayList",
 					"attrs": {
-						"id": "c6ea2f7d-282a-536b-b857-78bd59a4c538",
 						"mode": "latest",
 						"count": 3,
-						"slugs": []
+						"slugs": [],
+						"id": "c6ea2f7d-282a-536b-b857-78bd59a4c538"
 					}
 				}
 			]
@@ -244,12 +248,37 @@
 		{
 			"type": "callBand",
 			"attrs": {
-				"id": "5a6c6176-fff9-51fb-994a-24e8638398b9",
 				"heading": "Help keep the teen center free",
 				"body": "Your gift supports free youth programs at the Edgerton Teen Center.",
 				"label": "Give",
-				"link": "/give/"
+				"link": "/give/",
+				"externalUrl": "",
+				"id": "5a6c6176-fff9-51fb-994a-24e8638398b9"
+			}
+		},
+		{
+			"type": "paragraph",
+			"attrs": {
+				"id": "039e4f5a-7c4b-4942-a524-99fe72bde642"
 			}
 		}
-	]
+	],
+	"meta": {
+		"title": "We Value Teens",
+		"date": "",
+		"byline": "Dave Flood",
+		"category": "",
+		"summary": "",
+		"legacyTags": [],
+		"siteName": "",
+		"tagline": "",
+		"hours": "",
+		"addressLine": "",
+		"city": "",
+		"phone": "",
+		"donateUrl": "",
+		"facebook": "",
+		"youtube": "",
+		"instagram": ""
+	}
 }
