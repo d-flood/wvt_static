@@ -6,5 +6,5 @@ allowBuilds:
   workerd: true
 
 minimumReleaseAgeExclude:
-  - uncial-cms@2.0.1
-  - uncial@2.0.1
+  - uncial-cms@4.0.2
+  - uncial@4.0.0

@@ -1,17 +1,13 @@
 <script lang="ts">
-	import { dev } from '$app/environment';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import { mountIndexPage, type UncialCmsSiteConfig } from 'uncial-cms';
-	import { blocks, schema, siteConfig } from '../site.js';
+	import { mountIndexPage } from 'uncial-cms';
+	import { blocks, schema, site } from '../site.js';
 
 	let target: HTMLElement;
-	const config: UncialCmsSiteConfig = dev
-		? { forge: 'local', contentDir: siteConfig.contentDir }
-		: siteConfig;
 
 	onMount(() => {
-		const handle = mountIndexPage(target, { config, blocks, schema, basePath: base });
+		const handle = mountIndexPage(target, { config: site.config, blocks, schema, basePath: base });
 		return () => handle.destroy();
 	});
 </script>
@@ -23,8 +19,8 @@
 <main>
 	<h1>Site index</h1>
 	<p>
-		{#if config.forge === 'github'}
-			Editing <code>{config.repo}</code> on <code>{config.branch}</code>.
+		{#if site.config.forge === 'github'}
+			Editing <code>{site.config.repo}</code> on <code>{site.config.branch}</code>.
 		{:else}
 			Editing the local checkout.
 		{/if}

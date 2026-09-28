@@ -9,7 +9,7 @@ const contentPath = 'content/index.json';
  */
 test('a list attribute is edited as per-item fields and reaches the document', async ({ page }) => {
 	const original = await readFile(contentPath, 'utf-8');
-	const editor = page.locator('uncial-editor');
+	const editor = page.locator('.uncial-editor-shell');
 
 	try {
 		await page.goto('/edit/');
@@ -32,7 +32,7 @@ test('a list attribute is edited as per-item fields and reaches the document', a
 });
 
 test('a list of single values offers one control per item', async ({ page }) => {
-	const editor = page.locator('uncial-editor');
+	const editor = page.locator('.uncial-editor-shell');
 	await page.goto('/edit/');
 	await editor.locator('.uncial-gutter-label', { hasText: 'Essay list' }).first().click();
 	const panel = editor.locator('.uncial-editor-sidebar--overlay');

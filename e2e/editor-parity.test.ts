@@ -8,27 +8,13 @@ import { expect, test } from '@playwright/test';
 async function widths(page: import('@playwright/test').Page, path: string) {
 	await page.goto(path);
 	const column = path.endsWith('/edit/') ? '.uncial-content' : 'article';
-	// The editor fetches its document after mount, so the blocks arrive late.
-	await page.waitForFunction((selector) => {
-		const roots: (Document | ShadowRoot)[] = [document];
-		for (const el of document.querySelectorAll('*')) {
-			if (el.shadowRoot) roots.push(el.shadowRoot);
-		}
-		return roots.some((root) => root.querySelector(selector));
-	}, `${column} .fact-band`);
+	await page.locator(`${column} .fact-band`).first().waitFor();
 
 	return page.evaluate(
 		([columnSelector, bandSelector]) => {
-			const roots: (Document | ShadowRoot)[] = [document];
-			for (const el of document.querySelectorAll('*')) {
-				if (el.shadowRoot) roots.push(el.shadowRoot);
-			}
 			const find = (selector: string) => {
-				for (const root of roots) {
-					const el = root.querySelector(selector);
-					if (el) return Math.round(el.getBoundingClientRect().width);
-				}
-				return null;
+				const element = document.querySelector(selector);
+				return element ? Math.round(element.getBoundingClientRect().width) : null;
 			};
 			return {
 				column: find(columnSelector),
@@ -43,9 +29,14 @@ async function widths(page: import('@playwright/test').Page, path: string) {
 test('the Editor variant lays the document out in the reader page\'s box', async ({ page }) => {
 	await page.setViewportSize({ width: 1440, height: 900 });
 	const reader = await widths(page, '/the-teen-center/');
-	const editor = await widths(page, '/the-teen-center/edit/');
+	await page.goto('/the-teen-center/edit/');
+	await page.locator('.uncial-content .fact-band').first().waitFor();
 
 	expect(reader.band).toBe(reader.viewport);
-	expect(editor.column).toBe(reader.column);
-	expect(editor.band).toBe(editor.viewport);
+	await expect.poll(async () => {
+		return page.evaluate(() => ({
+			column: Math.round(document.querySelector('.uncial-content')!.getBoundingClientRect().width),
+			band: Math.round(document.querySelector('.fact-band')!.getBoundingClientRect().width)
+		}));
+	}).toEqual({ column: reader.column, band: reader.viewport });
 });

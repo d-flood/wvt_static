@@ -10,11 +10,11 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"test:unit": "vitest --project server",
 		"test:e2e": "playwright test",
-		"assert:clean-pages": "node scripts/assert-clean-pages.mjs"
+		"assert:clean-pages": "uncial-cms assert-clean-pages build && node scripts/assert-clean-pages.mjs"
 	},
 	"dependencies": {
-		"uncial": "^2.0.1",
-		"uncial-cms": "^2.0.1"
+		"uncial": "^4.0.0",
+		"uncial-cms": "^4.0.2"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.58.2",

@@ -1,5 +1,6 @@
 <script lang="ts">
-	import EditableImage from './EditableImage.svelte';
+	import { base } from '$app/paths';
+	import { resolveImageSrc } from 'uncial/render';
 
 	interface Props {
 		portrait?: string;
@@ -22,12 +23,7 @@
 
 <article class="bio">
 	<div class="bio__portrait">
-		<EditableImage
-			src={portrait}
-			{alt}
-			label="portrait"
-			onUpload={updateAttributes ? (src) => updateAttributes({ portrait: src }) : undefined}
-		/>
+		{#if portrait}<img src={resolveImageSrc(portrait, base)} {alt} />{/if}
 	</div>
 	<h3 class="disp">{name}</h3>
 	<p class="bio__role">{role}</p>

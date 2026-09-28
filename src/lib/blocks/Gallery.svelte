@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onDestroy } from 'svelte';
 	import { responsiveImage } from '$lib/image-manifest.js';
+	import { site } from '$lib/cms-site.js';
 
 	type GalleryImage = { path: string; caption: string };
 
@@ -36,12 +37,12 @@
 		let nextImages = [...images];
 
 		try {
-			const { uploadDownscaledImageAsset } = await import('$lib/image-upload.js');
+			const { uploadImageAsset, servedUrl } = await import('uncial-cms');
 			for (const file of files) {
 				const preview = URL.createObjectURL(file);
 				try {
-					const result = await uploadDownscaledImageAsset(file, 'static/uploads');
-					const path = `/${result.path.replace(/^static\//, '')}`;
+					const result = await uploadImageAsset(file, { site, fit: true });
+					const path = servedUrl(site, result.path);
 					previews = { ...previews, [path]: preview };
 					nextImages = [...nextImages, { path, caption: '' }];
 					updateAttributes?.({ images: nextImages });

@@ -3,7 +3,8 @@ import { extname, isAbsolute, relative, resolve, sep } from 'node:path';
 import { sveltekit } from '@sveltejs/kit/vite';
 import type { Plugin } from 'vite';
 import { defineConfig } from 'vitest/config';
-import { createLocalVitePlugin } from 'uncial-cms/local';
+import { uncialCms } from 'uncial-cms/vite';
+import { siteOptions } from './site-options.js';
 
 const pagefindContentTypes: Record<string, string> = {
 	'.css': 'text/css; charset=utf-8',
@@ -66,7 +67,7 @@ function pagefindDevAssets(): Plugin {
 
 export default defineConfig({
 	plugins: [
-		createLocalVitePlugin({ root: resolve('.'), permittedRoots: ['content', 'static/uploads'] }),
+		...uncialCms(siteOptions),
 		pagefindDevAssets(),
 		sveltekit()
 	],

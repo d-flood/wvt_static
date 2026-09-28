@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { Snippet } from 'svelte';
-	import EditableImage from './EditableImage.svelte';
+	import { base } from '$app/paths';
+	import { resolveImageSrc } from 'uncial/render';
 
 	interface Props {
 		title?: string;
@@ -15,12 +16,7 @@
 
 <section class="program-section">
 	<div class="program-section__image">
-		<EditableImage
-			src={image}
-			{alt}
-			label="program image"
-			onUpload={updateAttributes ? (src) => updateAttributes({ image: src }) : undefined}
-		/>
+		{#if image}<img src={resolveImageSrc(image, base)} {alt} />{/if}
 	</div>
 	<div class="program-section__body">
 		<h2 class="disp program-section__title">{title}</h2>

@@ -1,5 +1,6 @@
 <script lang="ts">
-	import EditableImage from './EditableImage.svelte';
+	import { base } from '$app/paths';
+	import { resolveImageSrc } from 'uncial/render';
 	import ExternalUrlField from './ExternalUrlField.svelte';
 	import { resolveBlockLink } from '$lib/site-routes.js';
 
@@ -27,12 +28,7 @@
 
 <article class="marquee-card">
 	<div class="marquee-card__image">
-		<EditableImage
-			src={image}
-			{alt}
-			label="card image"
-			onUpload={updateAttributes ? (src) => updateAttributes({ image: src }) : undefined}
-		/>
+		{#if image}<img src={resolveImageSrc(image, base)} {alt} />{/if}
 	</div>
 	<div class="marquee-card__body">
 		<h3 class="disp">{title}</h3>

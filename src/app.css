@@ -657,7 +657,6 @@ main:not(.reader-main, .shell, .editor-main) {
 	background: var(--highlight-fill);
 }
 
-.block-image-editor,
 .block-external-url {
 	position: relative;
 	z-index: 2;

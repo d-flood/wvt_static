@@ -1,7 +1,6 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { dirname, join, relative } from 'node:path';
 
-const SENTINEL = 'uncial-cms-runtime-sentinel-v1';
 const buildDir = process.argv[2] ?? 'build';
 
 function walk(dir) {
@@ -17,64 +16,11 @@ if (htmlFiles.length === 0) {
 	process.exit(1);
 }
 
-function resolveAppAsset(url) {
-	const marker = url.indexOf('_app/');
-	return marker === -1 ? null : join(buildDir, url.slice(marker));
-}
-
-function scriptClosure(html) {
-	const queue = [...html.matchAll(/(?:src|href)="([^"]+\.js)"/g)]
-		.map(([, url]) => resolveAppAsset(url))
-		.filter(Boolean);
-	for (const [, url] of html.matchAll(/import\(?["']([^"']+\.js)["']/g)) {
-		const resolved = resolveAppAsset(url);
-		if (resolved) queue.push(resolved);
-	}
-	const seen = new Set();
-	while (queue.length > 0) {
-		const file = queue.pop();
-		if (seen.has(file)) continue;
-		seen.add(file);
-		let source;
-		try {
-			source = readFileSync(file, 'utf-8');
-		} catch {
-			continue;
-		}
-		for (const [, spec] of source.matchAll(/(?:from|import)\s*["']([^"']+\.js)["']/g)) {
-			if (spec.startsWith('.')) queue.push(join(dirname(file), spec));
-			else {
-				const resolved = resolveAppAsset(spec);
-				if (resolved) queue.push(resolved);
-			}
-		}
-	}
-	return seen;
-}
-
-function pageContainsSentinel(htmlPath) {
-	const html = readFileSync(htmlPath, 'utf-8');
-	if (html.includes(SENTINEL)) return true;
-	for (const file of scriptClosure(html)) {
-		if (readFileSync(file, 'utf-8').includes(SENTINEL)) return true;
-	}
-	return false;
-}
-
 const failures = [];
 const pages = new Map();
 for (const htmlPath of htmlFiles) {
 	const page = `/${relative(buildDir, dirname(htmlPath))}/`.replace(/^\/\.\/$/, '/');
 	pages.set(page, htmlPath);
-	const isEditorPage = page.endsWith('/edit/');
-	const isIndexPage = page === '/uncial/';
-	const hasSentinel = pageContainsSentinel(htmlPath);
-
-	if (isEditorPage && !hasSentinel) {
-		failures.push(`${page} is an editor variant but does not reference the CMS runtime.`);
-	} else if (!isEditorPage && !isIndexPage && hasSentinel) {
-		failures.push(`${page} is a content page but ships uncial-cms JavaScript.`);
-	}
 }
 
 const essayPages = [...pages.keys()].filter(
@@ -127,6 +73,4 @@ if (failures.length > 0) {
 	process.exit(1);
 }
 
-console.log(
-	`assert:clean-pages OK — ${htmlFiles.length} pages checked, content pages are sentinel-free and reading grounds are correct.`
-);
+console.log(`assert:clean-pages OK — reading grounds are correct.`);

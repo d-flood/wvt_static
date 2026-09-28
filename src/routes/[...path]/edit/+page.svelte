@@ -1,32 +1,12 @@
 <script lang="ts">
-	import { dev } from '$app/environment';
-	import { onMount } from 'svelte';
-	import { mountEditorPage, type UncialCmsSiteConfig } from 'uncial-cms';
+	import { EditorPage } from 'uncial-cms/svelte';
+	import { cmsImageSource } from 'uncial-cms';
+	import { base } from '$app/paths';
 	import { isEssayPath } from '$lib/site-routes.js';
-	import { blocks, essaySchema, schema, siteConfig } from '../../site.js';
+	import { blocks, essaySchema, schema, site } from '../../site.js';
 
 	let { data } = $props();
-	let target: HTMLElement;
 	const activeSchema = $derived(isEssayPath(data.pagePath) ? essaySchema : schema);
-	const config: UncialCmsSiteConfig = dev
-		? { forge: 'local', contentDir: siteConfig.contentDir }
-		: siteConfig;
-
-	onMount(() => {
-		const handle = mountEditorPage(target, {
-			config,
-			sourcePath: data.sourcePath,
-			pagePath: data.pagePath,
-			blocks,
-			schema: activeSchema,
-			// The Editor variant is the page: the document is laid out in the
-			// reader's own column and grounds, so a block bleeds and wraps here
-			// exactly as it will once saved.
-			presentation: 'bare',
-			attributesPanel: 'overlay'
-		});
-		return () => handle.destroy();
-	});
 </script>
 
 <svelte:head>
@@ -35,5 +15,12 @@
 
 <main class="editor-main">
 	<p class="editor-bar shell">Editing <code>{data.sourcePath}</code></p>
-	<div bind:this={target}></div>
+	<EditorPage
+		{site}
+		{blocks}
+		schema={activeSchema}
+		sourcePath={data.sourcePath}
+		pagePath={data.pagePath}
+		imageSource={cmsImageSource(site.config, { base })}
+	/>
 </main>

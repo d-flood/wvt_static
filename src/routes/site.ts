@@ -1,6 +1,6 @@
 import { createBlockRegistry, createSchema } from 'uncial/core';
 import * as svelteRuntime from 'uncial/runtime/svelte';
-import type { UncialCmsSiteConfig } from 'uncial-cms';
+import { site } from '$lib/cms-site.js';
 import { ESSAY_CATEGORIES } from '$lib/essay-categories';
 import { essays } from '$lib/essay-index.js';
 import { LINK_OPTIONS, LINK_VALUES } from '$lib/site-routes.js';
@@ -17,15 +17,7 @@ import BioGrid from '$lib/blocks/BioGrid.svelte';
 import Bio from '$lib/blocks/Bio.svelte';
 import EssayList from '$lib/blocks/EssayList.svelte';
 
-export const siteConfig: UncialCmsSiteConfig = {
-	forge: 'github',
-	repo: 'd-flood/wvt_static',
-	branch: 'main',
-	contentDir: 'content',
-	authWorkerUrl: 'https://uncial-cms-auth.dflood.workers.dev',
-	appSlug: 'uncial-cms',
-	mediaDir: 'static/uploads'
-};
+export { site };
 
 const nonEmpty = (value: unknown): value is string =>
 	typeof value === 'string' && value.trim().length > 0;
@@ -62,7 +54,7 @@ const hero = svelteRuntime.defineSvelteBlock({
 	label: 'Hero',
 	description: 'A photographic page opener with its headline inside the image.',
 	attributes: {
-		image: { default: '', required: true, validate: nonEmpty },
+		image: { default: '', required: true, input: 'image', validate: nonEmpty },
 		alt: { default: '', required: true, validate: nonEmpty },
 		eyebrow: '',
 		headline: { default: '', required: true, validate: nonEmpty },
@@ -121,7 +113,7 @@ const card = svelteRuntime.defineSvelteBlock({
 	label: 'Card',
 	description: 'A linked photographic card for a page or program.',
 	attributes: {
-		image: { default: '', required: true, validate: nonEmpty },
+		image: { default: '', required: true, input: 'image', validate: nonEmpty },
 		alt: { default: '', required: true, validate: nonEmpty },
 		title: { default: '', required: true, validate: nonEmpty },
 		blurb: { default: '', input: 'textarea' },
@@ -170,7 +162,7 @@ const programSection = svelteRuntime.defineSvelteBlock({
 	description: 'A photographic section for one Program.',
 	attributes: {
 		title: { default: '', required: true, validate: nonEmpty },
-		image: { default: '', required: true, validate: nonEmpty },
+		image: { default: '', required: true, input: 'image', validate: nonEmpty },
 		alt: { default: '', required: true, validate: nonEmpty }
 	},
 	component: ProgramSection,
@@ -204,7 +196,7 @@ const bio = svelteRuntime.defineSvelteBlock({
 	label: 'Bio',
 	description: 'A portrait and short biography.',
 	attributes: {
-		portrait: { default: '', required: true, validate: nonEmpty },
+		portrait: { default: '', required: true, input: 'image', validate: nonEmpty },
 		alt: { default: '', required: true, validate: nonEmpty },
 		name: { default: '', required: true, validate: nonEmpty },
 		role: { default: '', required: true, validate: nonEmpty },
@@ -285,8 +277,6 @@ export const essaySchema = createSchema(blocks, {
 	metaFields: metaFields(true)
 });
 
-export const localContentDir = 'content';
-
 // content/image-manifest.json is output of the image port, not a Content
 // document: it backs no page, and an Editor variant would rewrite it as one and
 // take every responsive image down with it.
@@ -295,4 +285,3 @@ export const isEditablePage = ({ path }: { path: string }) => path !== 'image-ma
 // site.json is edited like any other page but renders no reader page of its own.
 export const isReaderPage = (entry: { path: string }) =>
 	isEditablePage(entry) && entry.path !== 'site';
-
