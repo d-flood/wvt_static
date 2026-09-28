@@ -754,22 +754,6 @@ main:not(.reader-main, .shell, .editor-main) {
 	font-size: 0.9rem;
 }
 
-.gallery__image-editor,
-.gallery__uploader {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 0.75rem;
-	align-items: center;
-	padding: 0.75rem;
-	background: var(--surface);
-}
-
-.gallery__image-editor label {
-	display: grid;
-	flex: 1;
-	gap: 0.25rem;
-}
-
 .bio-grid-section {
 	margin-block: clamp(3rem, 8vw, 6rem);
 }

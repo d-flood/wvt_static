@@ -172,10 +172,20 @@ const programSection = svelteRuntime.defineSvelteBlock({
 const gallery = svelteRuntime.defineSvelteBlock({
 	id: 'gallery',
 	label: 'Gallery',
-	description: 'A responsive photograph gallery with bulk upload.',
+	description: 'A responsive photograph gallery.',
 	attributes: {
 		commentary: { default: '', input: 'textarea' },
-		images: { default: [] as Array<{ path: string; caption: string }>, input: 'hidden', validate: galleryImages }
+		images: {
+			default: [] as Array<{ path: string; caption: string }>,
+			list: {
+				itemLabel: 'image',
+				fields: {
+					path: { default: '', input: 'image' },
+					caption: ''
+				}
+			},
+			validate: galleryImages
+		}
 	},
 	component: Gallery
 });

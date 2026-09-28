@@ -1,71 +1,20 @@
 <script lang="ts">
-	import { onDestroy } from 'svelte';
 	import { responsiveImage } from '$lib/image-manifest.js';
-	import { site } from '$lib/cms-site.js';
 
 	type GalleryImage = { path: string; caption: string };
 
 	interface Props {
 		commentary?: string;
 		images?: GalleryImage[];
-		updateAttributes?: (attrs: Record<string, unknown>) => void;
 	}
 
-	let { commentary = '', images = [], updateAttributes }: Props = $props();
-	let busy = $state(false);
-	let error = $state<string | null>(null);
-	let previews = $state<Record<string, string>>({});
-
-	function updateImage(index: number, partial: Partial<GalleryImage>): void {
-		updateAttributes?.({
-			images: images.map((image, imageIndex) =>
-				imageIndex === index ? { ...image, ...partial } : image
-			)
-		});
-	}
-
-	function removeImage(index: number): void {
-		updateAttributes?.({ images: images.filter((_, imageIndex) => imageIndex !== index) });
-	}
-
-	async function onFiles(event: Event): Promise<void> {
-		const input = event.currentTarget as HTMLInputElement;
-		const files = [...(input.files ?? [])];
-		if (!files.length) return;
-		error = null;
-		busy = true;
-		let nextImages = [...images];
-
-		try {
-			const { uploadImageAsset, servedUrl } = await import('uncial-cms');
-			for (const file of files) {
-				const preview = URL.createObjectURL(file);
-				try {
-					const result = await uploadImageAsset(file, { site, fit: true });
-					const path = servedUrl(site, result.path);
-					previews = { ...previews, [path]: preview };
-					nextImages = [...nextImages, { path, caption: '' }];
-					updateAttributes?.({ images: nextImages });
-				} catch (cause) {
-					URL.revokeObjectURL(preview);
-					throw cause;
-				}
-			}
-		} catch (cause) {
-			error = cause instanceof Error ? cause.message : 'Upload failed.';
-		} finally {
-			busy = false;
-			input.value = '';
-		}
-	}
-
-	onDestroy(() => Object.values(previews).forEach((url) => URL.revokeObjectURL(url)));
+	let { commentary = '', images = [] }: Props = $props();
 </script>
 
 <section class="gallery">
 	{#if commentary}<p class="gallery__commentary">{commentary}</p>{/if}
 	<div class="gallery__grid">
-		{#each images as image, index}
+		{#each images as image}
 			{@const responsive = responsiveImage(image.path)}
 			<figure>
 				<picture>
@@ -73,7 +22,7 @@
 						<source type="image/webp" srcset={responsive.webpSrcset} />
 					{/if}
 					<img
-						src={previews[image.path] ?? responsive.src}
+						src={responsive.src}
 						srcset={responsive.jpegSrcset}
 						sizes="(max-width: 52rem) 50vw, 25vw"
 						alt={image.caption}
@@ -81,30 +30,7 @@
 					/>
 				</picture>
 				{#if image.caption}<figcaption>{image.caption}</figcaption>{/if}
-				{#if updateAttributes}
-					<div class="gallery__image-editor">
-						<label>
-							Caption
-							<input
-								type="text"
-								value={image.caption}
-								oninput={(event) => updateImage(index, { caption: event.currentTarget.value })}
-							/>
-						</label>
-						<button type="button" onclick={() => removeImage(index)}>Remove</button>
-					</div>
-				{/if}
 			</figure>
 		{/each}
 	</div>
-	{#if updateAttributes}
-		<div class="gallery__uploader">
-			<label>
-				<span>Add photographs</span>
-				<input type="file" accept="image/*" multiple disabled={busy} onchange={onFiles} />
-			</label>
-			{#if busy}<span role="status">Preparing photographs…</span>{/if}
-			{#if error}<span role="alert">{error}</span>{/if}
-		</div>
-	{/if}
 </section>

@@ -30,3 +30,30 @@ test('image fields upload through the CMS and preview the result', async ({ page
 		})
 	).toHaveAttribute('aria-pressed', 'true');
 });
+
+test('gallery images and captions are edited in attributes', async ({ page }) => {
+	await page.goto('/the-teen-center/edit/');
+	const editor = page.locator('.uncial-editor-shell');
+	await editor.locator('.uncial-gutter-label', { hasText: 'Gallery' }).first().click();
+	const panel = editor.locator('.uncial-editor-sidebar--overlay');
+	await expect(panel).toBeVisible();
+	const gallery = editor.locator('.gallery');
+	const initialCount = await gallery.locator('figure').count();
+	const firstImage = panel.locator('.uncial-list-item').first();
+	await firstImage.getByRole('textbox', { name: 'caption' }).fill('A day at the center');
+	await expect(gallery.locator('figcaption').first()).toHaveText('A day at the center');
+	await expect(gallery.locator('.gallery__image-editor, .gallery__uploader')).toHaveCount(0);
+
+	await panel.getByRole('button', { name: 'Add image' }).click();
+	const newImage = panel.locator('.uncial-list-item').last();
+	await newImage.getByRole('button', { name: 'Choose existing' }).click();
+	const picker = page.getByRole('dialog', { name: 'Choose an image' });
+	await picker.locator('.uncial-image-picker__tile').first().click();
+	await expect(gallery.locator('figure')).toHaveCount(initialCount + 1);
+	await newImage.locator('input[type="file"]').setInputFiles(
+		'static/uploads/00f48277e0414313499d583b02bb8320.webp'
+	);
+	await expect(gallery.locator('figure img').last()).toHaveAttribute('src', /^blob:/);
+	await newImage.getByRole('textbox', { name: 'caption' }).fill('Another photograph');
+	await expect(gallery.locator('figcaption').last()).toHaveText('Another photograph');
+});
